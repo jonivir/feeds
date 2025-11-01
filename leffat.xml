@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.iltapulu.fi/elokuvat</id>
     <title>Päivän TV-elokuvat</title>
-    <updated>2025-11-01T17:05:10.123Z</updated>
+    <updated>2025-11-01T17:39:55.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.iltapulu.fi/favicon.ico</icon>
     <entry>
@@ -19,7 +19,7 @@
 			</span>
 		</a><h3><a itemprop="name" href="/ihmeotukset-ja-niiden-olinpaikat" class="op" data-pid="2025110118155">Ihmeotukset ja niiden olinpaikat</a> <a href="https://www.imdb.com/title/tt3183660/" target="_blank" class="program-imdb-link">IMDb 7,2</a></h3><a href="/ihmeotukset-ja-niiden-olinpaikat" class="op" data-pid="2025110118155">
 				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Elokuvan tapahtumat sijoittuvat vuoteen 1926, jolloin Lisko Scamander on juuri saanut päätökseen maailmanlaajuisen tutkimusmatkansa löytääkseen ja dokumentoidakseen erikoislaatuisen joukon taikaolentoja. Ennen kotiinpaluutaan Lisko tekee välipysähdyksen New Yorkissa. Lyhyeksi suunniteltu pysähdys kuitenkin pitkittyy, kun kuvioihin astuvat Jacob-niminen ei-taik, kadonnut taikasalkku, sekä Liskon karanneet ihmeotukset, jotka tapaavat aiheuttaa harmia niin velhoille kuin ei-taikeille.</span></div>
-			</a><div id="program-progress" class="progress-bar-container" data-start="1762013700" data-end="1762023600"><div class="progress-bar" style="width: 28.606060606061%; "></div></div><a href="/kanava/tv5" class="channel-logo program-channel-logo"><picture>
+			</a><div id="program-progress" class="progress-bar-container" data-start="1762013700" data-end="1762023600"><div class="progress-bar" style="width: 50%; "></div></div><a href="/kanava/tv5" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/tv5.webp" media="(prefers-color-scheme: dark)">
 			<source srcset="/static/img/kanava/tv5.webp" media="(prefers-color-scheme: light)">
 			<img src="/static/img/kanava/tv5.png" alt="TV5">
@@ -39,7 +39,7 @@
 			</span>
 		</a><h3><a itemprop="name" href="/kahden-viikon-iskuaika" class="op" data-pid="20251101191074">Kahden viikon iskuaika</a> <a href="https://www.imdb.com/title/tt10709020/" target="_blank" class="program-imdb-link">IMDb 6,4</a></h3><a href="/kahden-viikon-iskuaika" class="op" data-pid="20251101191074">
 				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Koskaan ei ole liian myöhäistä tunnustaa rakkauttaan. Nuori naisjuristi työskentelee upporikkaan kiinteistöalan sijoittajan palveluksessa. Parin välillä on selvästi jotain, mutta työskentely hemmotellun yritysjohtajan kanssa alkaa käydä mahdottomaksi. Vaaditaankin paljon aikaa ja isoja käänteitä ennen kuin pari uskaltaa lopulta myöntää tunteensa.</span></div>
-			</a><a href="/kanava/frii" class="channel-logo program-channel-logo"><picture>
+			</a><div id="program-progress" class="progress-bar-container" data-start="1762017000" data-end="1762023600"><div class="progress-bar" style="width: 25%; "></div></div><a href="/kanava/frii" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/frii.webp" media="(prefers-color-scheme: dark)">
 			<source srcset="/static/img/kanava/frii.webp" media="(prefers-color-scheme: light)">
 			<img src="/static/img/kanava/frii.png" alt="Frii">
@@ -109,7 +109,7 @@
         <title type="html"><![CDATA[5]]></title>
         <id>https://www.iltapulu.fi/elokuvat</id>
         <link href="https://www.iltapulu.fi/elokuvat"/>
-        <updated>2025-11-01T17:05:05.932Z</updated>
+        <updated>2025-11-01T17:39:51.150Z</updated>
         <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
 				<div data-ad-position="middlebannerATF03" class="sadblob-loading">
 					<script>
@@ -228,7 +228,7 @@
         <title type="html"><![CDATA[11]]></title>
         <id>https://www.iltapulu.fi/elokuvat</id>
         <link href="https://www.iltapulu.fi/elokuvat"/>
-        <updated>2025-11-01T17:05:05.932Z</updated>
+        <updated>2025-11-01T17:39:51.150Z</updated>
         <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
 			<div data-ad-position="middlebannerBTF01" class="sadblob-loading">
 				<script>
@@ -347,7 +347,7 @@
         <title type="html"><![CDATA[17]]></title>
         <id>https://www.iltapulu.fi/elokuvat</id>
         <link href="https://www.iltapulu.fi/elokuvat"/>
-        <updated>2025-11-01T17:05:05.932Z</updated>
+        <updated>2025-11-01T17:39:51.152Z</updated>
         <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
 			<div data-ad-position="middlebannerBTF02" class="sadblob-loading">
 				<script>
@@ -466,7 +466,7 @@
         <title type="html"><![CDATA[23]]></title>
         <id>https://www.iltapulu.fi/elokuvat</id>
         <link href="https://www.iltapulu.fi/elokuvat"/>
-        <updated>2025-11-01T17:05:05.932Z</updated>
+        <updated>2025-11-01T17:39:51.153Z</updated>
         <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
 			<div data-ad-position="mobicontentfeedlow02" class="sadblob-loading">
 				<script>
