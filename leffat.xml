@@ -2,29 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.iltapulu.fi/elokuvat</id>
     <title>Päivän TV-elokuvat</title>
-    <updated>2025-11-01T16:01:26.051Z</updated>
+    <updated>2025-11-01T17:05:10.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.iltapulu.fi/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Lego elokuva 2 IMDb 6,5]]></title>
-        <id>https://www.iltapulu.fi/lego-elokuva-2</id>
-        <link href="https://www.iltapulu.fi/lego-elokuva-2"/>
-        <updated>2025-11-01T16:01:25.279Z</updated>
-        <content type="html"><![CDATA[<div class="program-image"><a href="/lego-elokuva-2" class="op" data-pid="2025110115555">
-				<img src="https://www.iltapulu.fi/data/iltapulu/images/ve001r06kl.webp" alt="Lego elokuva 2" loading="lazy">
-			</a></div><div class="program-content"><a href="/lego-elokuva-2" class="op" data-pid="2025110115555">
-			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
-				<time itemprop="startDate" content="2025-11-01T15:55:00+02:00" datetime="2025-11-01T15:55:00+02:00">15.55</time> - 
-				<time itemprop="endDate" content="2025-11-01T18:15:00+02:00" datetime="2025-11-01T18:15:00+02:00">18.15</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">TV5</span></span>
-			</span>
-		</a><h3><a itemprop="name" href="/lego-elokuva-2" class="op" data-pid="2025110115555">Lego elokuva 2</a> <a href="https://www.imdb.com/title/tt3513498/" target="_blank" class="program-imdb-link">IMDb 6,5</a></h3><a href="/lego-elokuva-2" class="op" data-pid="2025110115555">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">On kulunut viisi vuotta siitä, kun kaikki oli nastaa. Nyt kaupunkilaisia kohtaa uusi suuri uhka: ulkoavaruuden Lego Duplo tunkeutujat, jotka tuhoavat kaiken nopeammin kuin palikkalalaiset ehtivät rakentaa.</span></div>
-			</a><div id="program-progress" class="progress-bar-container" data-start="1762005300" data-end="1762013700"><div class="progress-bar" style="width: 86.964285714286%; "></div></div><a href="/kanava/tv5" class="channel-logo program-channel-logo"><picture>
-			<source srcset="/static/img/kanava-darktheme/tv5.webp" media="(prefers-color-scheme: dark)">
-			<source srcset="/static/img/kanava/tv5.webp" media="(prefers-color-scheme: light)">
-			<img src="/static/img/kanava/tv5.png" alt="TV5">
-			</picture></a></div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Ihmeotukset ja niiden olinpaikat IMDb 7,2]]></title>
         <id>https://www.iltapulu.fi/ihmeotukset-ja-niiden-olinpaikat</id>
@@ -39,7 +19,7 @@
 			</span>
 		</a><h3><a itemprop="name" href="/ihmeotukset-ja-niiden-olinpaikat" class="op" data-pid="2025110118155">Ihmeotukset ja niiden olinpaikat</a> <a href="https://www.imdb.com/title/tt3183660/" target="_blank" class="program-imdb-link">IMDb 7,2</a></h3><a href="/ihmeotukset-ja-niiden-olinpaikat" class="op" data-pid="2025110118155">
 				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Elokuvan tapahtumat sijoittuvat vuoteen 1926, jolloin Lisko Scamander on juuri saanut päätökseen maailmanlaajuisen tutkimusmatkansa löytääkseen ja dokumentoidakseen erikoislaatuisen joukon taikaolentoja. Ennen kotiinpaluutaan Lisko tekee välipysähdyksen New Yorkissa. Lyhyeksi suunniteltu pysähdys kuitenkin pitkittyy, kun kuvioihin astuvat Jacob-niminen ei-taik, kadonnut taikasalkku, sekä Liskon karanneet ihmeotukset, jotka tapaavat aiheuttaa harmia niin velhoille kuin ei-taikeille.</span></div>
-			</a><a href="/kanava/tv5" class="channel-logo program-channel-logo"><picture>
+			</a><div id="program-progress" class="progress-bar-container" data-start="1762013700" data-end="1762023600"><div class="progress-bar" style="width: 28.606060606061%; "></div></div><a href="/kanava/tv5" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/tv5.webp" media="(prefers-color-scheme: dark)">
 			<source srcset="/static/img/kanava/tv5.webp" media="(prefers-color-scheme: light)">
 			<img src="/static/img/kanava/tv5.png" alt="TV5">
@@ -106,25 +86,6 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5]]></title>
-        <id>https://www.iltapulu.fi/elokuvat</id>
-        <link href="https://www.iltapulu.fi/elokuvat"/>
-        <updated>2025-11-01T16:01:25.007Z</updated>
-        <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
-				<div data-ad-position="middlebannerATF03" class="sadblob-loading">
-					<script>
-						sanomaAd.render("middlebannerATF03");
-					</script>
-				</div>
-			
-				<div data-ad-position="mobicontentfeedhigh01" class="sadblob-loading">
-					<script>
-						sanomaAd.render("mobicontentfeedhigh01");
-					</script>
-				</div>
-			</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Suuri puhallus IMDb 7,2]]></title>
         <id>https://www.iltapulu.fi/suuri-puhallus</id>
         <link href="https://www.iltapulu.fi/suuri-puhallus"/>
@@ -143,6 +104,25 @@
 			<source srcset="/static/img/kanava/fox.webp" media="(prefers-color-scheme: light)">
 			<img src="/static/img/kanava/fox.png" alt="STAR Channel">
 			</picture></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5]]></title>
+        <id>https://www.iltapulu.fi/elokuvat</id>
+        <link href="https://www.iltapulu.fi/elokuvat"/>
+        <updated>2025-11-01T17:05:05.932Z</updated>
+        <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
+				<div data-ad-position="middlebannerATF03" class="sadblob-loading">
+					<script>
+						sanomaAd.render("middlebannerATF03");
+					</script>
+				</div>
+			
+				<div data-ad-position="mobicontentfeedhigh01" class="sadblob-loading">
+					<script>
+						sanomaAd.render("mobicontentfeedhigh01");
+					</script>
+				</div>
+			</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pelastakaa sotamies Ryan IMDb 8,6]]></title>
@@ -225,25 +205,6 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[11]]></title>
-        <id>https://www.iltapulu.fi/elokuvat</id>
-        <link href="https://www.iltapulu.fi/elokuvat"/>
-        <updated>2025-11-01T16:01:25.009Z</updated>
-        <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
-			<div data-ad-position="middlebannerBTF01" class="sadblob-loading">
-				<script>
-					sanomaAd.render("middlebannerBTF01");
-				</script>
-			</div>
-		
-			<div data-ad-position="mobicontentfeedhigh02" class="sadblob-loading">
-				<script>
-					sanomaAd.render("mobicontentfeedhigh02");
-				</script>
-			</div>
-		</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hereditary - pahan perintö IMDb 7,3]]></title>
         <id>https://www.iltapulu.fi/hereditary-pahan-perint</id>
         <link href="https://www.iltapulu.fi/hereditary-pahan-perint"/>
@@ -262,6 +223,25 @@
 			<source srcset="/static/img/kanava/sub.webp" media="(prefers-color-scheme: light)">
 			<img src="/static/img/kanava/sub.png" alt="MTV Sub">
 			</picture></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11]]></title>
+        <id>https://www.iltapulu.fi/elokuvat</id>
+        <link href="https://www.iltapulu.fi/elokuvat"/>
+        <updated>2025-11-01T17:05:05.932Z</updated>
+        <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
+			<div data-ad-position="middlebannerBTF01" class="sadblob-loading">
+				<script>
+					sanomaAd.render("middlebannerBTF01");
+				</script>
+			</div>
+		
+			<div data-ad-position="mobicontentfeedhigh02" class="sadblob-loading">
+				<script>
+					sanomaAd.render("mobicontentfeedhigh02");
+				</script>
+			</div>
+		</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Indiana Jones ja kristallikallon valtakunta IMDb 6,2]]></title>
@@ -344,25 +324,6 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[17]]></title>
-        <id>https://www.iltapulu.fi/elokuvat</id>
-        <link href="https://www.iltapulu.fi/elokuvat"/>
-        <updated>2025-11-01T16:01:25.009Z</updated>
-        <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
-			<div data-ad-position="middlebannerBTF02" class="sadblob-loading">
-				<script>
-					sanomaAd.render("middlebannerBTF02");
-				</script>
-			</div>
-		
-			<div data-ad-position="mobicontentfeedlow01" class="sadblob-loading">
-				<script>
-					sanomaAd.render("mobicontentfeedlow01");
-				</script>
-			</div>
-		</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[San Andreas IMDb 6,1]]></title>
         <id>https://www.iltapulu.fi/san-andreas</id>
         <link href="https://www.iltapulu.fi/san-andreas"/>
@@ -381,6 +342,25 @@
 			<source srcset="/static/img/kanava/tv5.webp" media="(prefers-color-scheme: light)">
 			<img src="/static/img/kanava/tv5.png" alt="TV5">
 			</picture></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[17]]></title>
+        <id>https://www.iltapulu.fi/elokuvat</id>
+        <link href="https://www.iltapulu.fi/elokuvat"/>
+        <updated>2025-11-01T17:05:05.932Z</updated>
+        <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
+			<div data-ad-position="middlebannerBTF02" class="sadblob-loading">
+				<script>
+					sanomaAd.render("middlebannerBTF02");
+				</script>
+			</div>
+		
+			<div data-ad-position="mobicontentfeedlow01" class="sadblob-loading">
+				<script>
+					sanomaAd.render("mobicontentfeedlow01");
+				</script>
+			</div>
+		</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rocky Balboa IMDb 7,1]]></title>
@@ -463,23 +443,10 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[23]]></title>
-        <id>https://www.iltapulu.fi/elokuvat</id>
-        <link href="https://www.iltapulu.fi/elokuvat"/>
-        <updated>2025-11-01T16:01:25.009Z</updated>
-        <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
-			<div data-ad-position="mobicontentfeedlow02" class="sadblob-loading">
-				<script>
-					sanomaAd.render("mobicontentfeedlow02");
-				</script>
-			</div>
-		</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lego elokuva 2 IMDb 6,5]]></title>
         <id>https://www.iltapulu.fi/lego-elokuva-2</id>
         <link href="https://www.iltapulu.fi/lego-elokuva-2"/>
-        <updated>2025-11-01T16:01:25.316Z</updated>
+        <updated>2025-11-01T16:01:25.279Z</updated>
         <content type="html"><![CDATA[<div class="program-image"><a href="/lego-elokuva-2" class="op" data-pid="2025110210255">
 				<img src="https://www.iltapulu.fi/data/iltapulu/images/ve001r06kl.webp" alt="Lego elokuva 2" loading="lazy">
 			</a></div><div class="program-content"><a href="/lego-elokuva-2" class="op" data-pid="2025110210255">
@@ -494,6 +461,19 @@
 			<source srcset="/static/img/kanava/tv5.webp" media="(prefers-color-scheme: light)">
 			<img src="/static/img/kanava/tv5.png" alt="TV5">
 			</picture></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[23]]></title>
+        <id>https://www.iltapulu.fi/elokuvat</id>
+        <link href="https://www.iltapulu.fi/elokuvat"/>
+        <updated>2025-11-01T17:05:05.932Z</updated>
+        <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
+			<div data-ad-position="mobicontentfeedlow02" class="sadblob-loading">
+				<script>
+					sanomaAd.render("mobicontentfeedlow02");
+				</script>
+			</div>
+		</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nuoruuteni savotat IMDb 7,1]]></title>
@@ -537,17 +517,17 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Ihmeotukset ja niiden olinpaikat IMDb 7,2]]></title>
-        <id>https://www.iltapulu.fi/ihmeotukset-ja-niiden-olinpaikat/2025110212305</id>
-        <link href="https://www.iltapulu.fi/ihmeotukset-ja-niiden-olinpaikat/2025110212305"/>
-        <updated>2025-11-01T16:01:25.320Z</updated>
-        <content type="html"><![CDATA[<div class="program-image"><a href="/ihmeotukset-ja-niiden-olinpaikat/2025110212305" class="op" data-pid="2025110212305">
+        <id>https://www.iltapulu.fi/ihmeotukset-ja-niiden-olinpaikat</id>
+        <link href="https://www.iltapulu.fi/ihmeotukset-ja-niiden-olinpaikat"/>
+        <updated>2025-11-01T16:01:25.281Z</updated>
+        <content type="html"><![CDATA[<div class="program-image"><a href="/ihmeotukset-ja-niiden-olinpaikat" class="op" data-pid="2025110212305">
 				<img src="https://www.iltapulu.fi/data/iltapulu/images/ve001tzub6.webp" alt="Ihmeotukset ja niiden olinpaikat" loading="lazy">
-			</a></div><div class="program-content"><a href="/ihmeotukset-ja-niiden-olinpaikat/2025110212305" class="op" data-pid="2025110212305">
+			</a></div><div class="program-content"><a href="/ihmeotukset-ja-niiden-olinpaikat" class="op" data-pid="2025110212305">
 			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
 				<time itemprop="startDate" content="2025-11-02T12:30:00+02:00" datetime="2025-11-02T12:30:00+02:00">12.30</time> - 
 				<time itemprop="endDate" content="2025-11-02T15:30:00+02:00" datetime="2025-11-02T15:30:00+02:00">15.30</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">TV5</span></span>
 			</span>
-		</a><h3><a itemprop="name" href="/ihmeotukset-ja-niiden-olinpaikat/2025110212305" class="op" data-pid="2025110212305">Ihmeotukset ja niiden olinpaikat</a> <a href="https://www.imdb.com/title/tt3183660/" target="_blank" class="program-imdb-link">IMDb 7,2</a></h3><a href="/ihmeotukset-ja-niiden-olinpaikat/2025110212305" class="op" data-pid="2025110212305">
+		</a><h3><a itemprop="name" href="/ihmeotukset-ja-niiden-olinpaikat" class="op" data-pid="2025110212305">Ihmeotukset ja niiden olinpaikat</a> <a href="https://www.imdb.com/title/tt3183660/" target="_blank" class="program-imdb-link">IMDb 7,2</a></h3><a href="/ihmeotukset-ja-niiden-olinpaikat" class="op" data-pid="2025110212305">
 				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Elokuvan tapahtumat sijoittuvat vuoteen 1926, jolloin Lisko Scamander on juuri saanut päätökseen maailmanlaajuisen tutkimusmatkansa löytääkseen ja dokumentoidakseen erikoislaatuisen joukon taikaolentoja. Ennen kotiinpaluutaan Lisko tekee välipysähdyksen New Yorkissa. Lyhyeksi suunniteltu pysähdys kuitenkin pitkittyy, kun kuvioihin astuvat Jacob-niminen ei-taik, kadonnut taikasalkku, sekä Liskon karanneet ihmeotukset, jotka tapaavat aiheuttaa harmia niin velhoille kuin ei-taikeille.</span></div>
 			</a><a href="/kanava/tv5" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/tv5.webp" media="(prefers-color-scheme: dark)">
@@ -1073,6 +1053,26 @@
 			<source srcset="/static/img/kanava-darktheme/tv5.webp" media="(prefers-color-scheme: dark)">
 			<source srcset="/static/img/kanava/tv5.webp" media="(prefers-color-scheme: light)">
 			<img src="/static/img/kanava/tv5.png" alt="TV5">
+			</picture></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beck: Houkutuslintu IMDb 6,6]]></title>
+        <id>https://www.iltapulu.fi/beck-houkutuslintu</id>
+        <link href="https://www.iltapulu.fi/beck-houkutuslintu"/>
+        <updated>2025-11-01T17:05:06.272Z</updated>
+        <content type="html"><![CDATA[<div class="program-image"><a href="/beck-houkutuslintu" class="op" data-pid="2025110321006">
+				<img src="https://www.iltapulu.fi/data/iltapulu/images/ve002411ce.webp" alt="Beck: Houkutuslintu" loading="lazy">
+			</a></div><div class="program-content"><a href="/beck-houkutuslintu" class="op" data-pid="2025110321006">
+			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
+				<time itemprop="startDate" content="2025-11-03T21:00:00+02:00" datetime="2025-11-03T21:00:00+02:00">21.00</time> - 
+				<time itemprop="endDate" content="2025-11-03T22:50:00+02:00" datetime="2025-11-03T22:50:00+02:00">22.50</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">MTV Sub</span></span>
+			</span>
+		</a><h3><a itemprop="name" href="/beck-houkutuslintu" class="op" data-pid="2025110321006">Beck: Houkutuslintu</a> <a href="https://www.imdb.com/title/tt1373498/" target="_blank" class="program-imdb-link">IMDb 6,6</a></h3><a href="/beck-houkutuslintu" class="op" data-pid="2025110321006">
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">(Beck – Undercover, Ruotsi 2020) Jengiläinen murhataan, ja Beckin ryhmän tutkinta viittaa huumeverkostoon. Alex ja muut saavat armosta tutkia samalla murhaa, mikä johtaa konflikteihin, kun Martin Beck tulee mukaan.</span></div>
+			</a><a href="/kanava/sub" class="channel-logo program-channel-logo"><picture>
+			<source srcset="/static/img/kanava-darktheme/sub.webp" media="(prefers-color-scheme: dark)">
+			<source srcset="/static/img/kanava/sub.webp" media="(prefers-color-scheme: light)">
+			<img src="/static/img/kanava/sub.png" alt="MTV Sub">
 			</picture></a></div>]]></content>
     </entry>
 </feed>
