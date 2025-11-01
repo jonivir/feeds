@@ -11,3 +11,15 @@ url = "https://en.wikivoyage.org/wiki/Main_Page"
 entrySelector = ".jcarousel-wrapper .jcarousel-item"
 titleSelector = "h2"
 linkSelector = "h2 a"
+
+[leffat]
+title = "Päivän TV-elokuvat
+url = "https://www.iltapulu.fi/elokuvat"
+entrySelector = ".day-wrapper > ul li"
+titleSelector = "h3"
+linkSelector = "h3 a"
+
+
+#mp-dyk > ul:nth-child(2) > li:nth-child(1)
+#div.day-wrapper:nth-child(2) > ul:nth-child(2) > li:nth-child(1)
+#mp-dyk
