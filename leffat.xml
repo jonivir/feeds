@@ -1,131 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://jonivir.github.io/feeds/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2025-11-01T16:01:26.045Z</updated>
+    <id>https://www.iltapulu.fi/elokuvat</id>
+    <title>Päivän TV-elokuvat</title>
+    <updated>2025-11-01T16:01:26.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.iltapulu.fi/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[D. M. Clemson (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/SS_D._M._Clemson_(1903)</id>
-        <link href="https://en.wikipedia.org/wiki/SS_D._M._Clemson_(1903)"/>
-        <updated>2025-11-01T15:37:22.830Z</updated>
-        <content type="html"><![CDATA[... that the freighter <i><b><a href="/wiki/SS_D._M._Clemson_(1903)" title="SS D. M. Clemson (1903)">D.&nbsp;M. Clemson</a></b></i> <i>(pictured)</i> was one of the largest vessels on the <a href="/wiki/Great_Lakes" title="Great Lakes">Great Lakes</a> in 1903?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Miriam Defensor Santiago (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Miriam_Defensor_Santiago</id>
-        <link href="https://en.wikipedia.org/wiki/Miriam_Defensor_Santiago"/>
-        <updated>2025-11-01T15:37:22.831Z</updated>
-        <content type="html"><![CDATA[... that Filipino politician <b><a href="/wiki/Miriam_Defensor_Santiago" title="Miriam Defensor Santiago">Miriam Defensor Santiago</a></b> is known as the "Iron Lady of Asia"?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[a 16th-century ethnic term used in Africa (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Mina_(historical_ethnic_term)</id>
-        <link href="https://en.wikipedia.org/wiki/Mina_(historical_ethnic_term)"/>
-        <updated>2025-11-01T15:37:22.832Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Mina_(historical_ethnic_term)" title="Mina (historical ethnic term)">a 16th-century ethnic term used in Africa</a></b> is still used today for <a href="/wiki/Tambor_de_Mina" title="Tambor de Mina">a Brazilian religion</a>, <b><a href="/wiki/Gen-Mina_people" title="Gen-Mina people">a Togolese and Beninese ethnic group</a></b>, and <a href="/wiki/Gen_language" title="Gen language">their language</a>?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raghunath Brahmbhatt (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Raghunath_Brahmbhatt</id>
-        <link href="https://en.wikipedia.org/wiki/Raghunath_Brahmbhatt"/>
-        <updated>2025-11-01T15:37:22.833Z</updated>
-        <content type="html"><![CDATA[... that it took 40 years for <b><a href="/wiki/Raghunath_Brahmbhatt" title="Raghunath Brahmbhatt">Raghunath Brahmbhatt</a></b> to be credited for the lyrics to <b><a href="/wiki/Mohe_Panghat_Pe_Nandlal_Chhed_Gayo_Re" title="Mohe Panghat Pe Nandlal Chhed Gayo Re">a popular song he wrote</a></b>, 21 years after his death?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Family Member (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/My_Family_Member</id>
-        <link href="https://en.wikipedia.org/wiki/My_Family_Member"/>
-        <updated>2025-11-01T15:37:22.834Z</updated>
-        <content type="html"><![CDATA[... that <i>My Dad</i>, the first entry in <i><b><a href="/wiki/My_Family_Member" title="My Family Member">My Family Member</a></b></i>, a series of illustrated children books, was inspired by the author's discovery of his father's old gown?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[John Adams Cameron (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/John_Adams_Cameron</id>
-        <link href="https://en.wikipedia.org/wiki/John_Adams_Cameron"/>
-        <updated>2025-11-01T15:37:22.836Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/John_Adams_Cameron" title="John Adams Cameron">John Adams Cameron</a></b> lost twice to <a href="/wiki/John_Culpepper" title="John Culpepper">John Culpepper</a> in elections for the <a href="/wiki/United_States_Congress" title="United States Congress">United States Congress</a> that were 14 years apart?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Way of the Warrior (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Way_of_the_Warrior</id>
-        <link href="https://en.wikipedia.org/wiki/Way_of_the_Warrior"/>
-        <updated>2025-11-01T15:37:22.838Z</updated>
-        <content type="html"><![CDATA[... that neighbors thought <a href="/wiki/Naughty_Dog" title="Naughty Dog">Naughty Dog</a> was filming adult films due to their setup of shooting moves for <i><b><a href="/wiki/Way_of_the_Warrior" title="Way of the Warrior">Way of the Warrior</a></b></i> from an apartment hallway?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mia Lee (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Mia_Lee</id>
-        <link href="https://en.wikipedia.org/wiki/Mia_Lee"/>
-        <updated>2025-11-01T15:37:22.840Z</updated>
-        <content type="html"><![CDATA[... that painter and designer <b><a href="/wiki/Mia_Lee" title="Mia Lee">Mia Lee</a></b> used to make doll fashions from her grandmother's scraps?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hogan's golf clubs (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Ben_Hogan_Golf_Company</id>
-        <link href="https://en.wikipedia.org/wiki/Ben_Hogan_Golf_Company"/>
-        <updated>2025-11-01T15:37:22.842Z</updated>
-        <content type="html"><![CDATA[... that <a href="/wiki/Jack_Fleck" title="Jack Fleck">Jack Fleck</a> defeated <a href="/wiki/Ben_Hogan" title="Ben Hogan">Ben Hogan</a> in a playoff to win the <a href="/wiki/1955_U.S._Open_(golf)" title="1955 U.S. Open (golf)">1955 U.S. Open</a> using <b><a href="/wiki/Ben_Hogan_Golf_Company" title="Ben Hogan Golf Company">Hogan's golf clubs</a></b>?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Destination of the Month (Wikivoyage recommendations)]]></title>
-        <id>https://en.wikivoyage.org/wiki/Previous_Destinations_of_the_month</id>
-        <link href="https://en.wikivoyage.org/wiki/Previous_Destinations_of_the_month"/>
-        <updated>2025-11-01T15:37:25.355Z</updated>
-        <content type="html"><![CDATA[<style data-mw-deduplicate="TemplateStyles:r4523569" typeof="mw:Extension/templatestyles mw:Transclusion" about="#mwt7" id="mwIQ" data-mw="{&quot;name&quot;:&quot;templatestyles&quot;,&quot;attrs&quot;:{&quot;src&quot;:&quot;Banner/styles.css&quot;},&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;banner&quot;,&quot;href&quot;:&quot;./Template:Banner&quot;},&quot;params&quot;:{&quot;direction&quot;:{&quot;wt&quot;:&quot;left&quot;},&quot;title&quot;:{&quot;wt&quot;:&quot;San Carlos de Bariloche&quot;},&quot;type&quot;:{&quot;wt&quot;:&quot;dotm&quot;},&quot;image&quot;:{&quot;wt&quot;:&quot;SanCarlosBanner1.jpg&quot;},&quot;quote&quot;:{&quot;wt&quot;:&quot;The Argentine adventure capital offers great opportunities for skiing, sightseeing, water sports, trekking and climbing amidst the amazing mountainous landscapes of Argentine Patagonia.&quot;}},&quot;i&quot;:0}}]}">.mw-parser-output .mainpage-shadowbox{color:white;background:rgb(16,16,16);background:rgba(0,0,0,0.3);border-radius:4px}.mw-parser-output .mainpage-shadowbox h2,.mw-parser-output .mainpage-shadowbox h3{color:white;border:none;font-family:sans-serif;line-height:1.2em;margin:0;padding:0}.mw-parser-output .mainpage-shadowbox a{color:white;font-weight:bold}.mw-parser-output .banner-image{position:relative;max-width:1125px;height:auto;margin-bottom:.6em}.mw-parser-output .banner-image img{max-width:100%;height:auto}.mw-parser-output .banner-box-wide{width:80%}.mw-parser-output .banner-box-left,.mw-parser-output .banner-box-right{padding:8px 7px;background:rgb(16,16,16);background:rgba(0,0,0,0.3);border-radius:4px;width:40%}.mw-parser-output .banner-box-left{text-align:left}.mw-parser-output .banner-box-right{text-align:right}.mw-parser-output .banner-box-2{position:absolute;z-index:2;min-width:20em}@media screen and (min-width:720px){.mw-parser-output .banner-image img.nolink{display:none}.mw-parser-output .banner-image span[typeof~="mw:File/Frameless"].nolink{display:none}.mw-parser-output .mainpage-shadowbox h2{font-size:190%}.mw-parser-output .mainpage-shadowbox h3{font-size:150%}.mw-parser-output .banner-image{overflow:hidden}.mw-parser-output .banner-box-left{left:3%}.mw-parser-output .banner-box-right{right:3%}.mw-parser-output .banner-box-2{margin-top:2em}.mw-parser-output .banner-box-2 .quote{font-size:80%;line-height:1.2em}}@media screen and (max-width:720px){.mw-parser-output .banner-image img:not(.nolink){display:none}.mw-parser-output .banner-image span[typeof~="mw:File/Frameless"] img{display:inline-block}.mw-parser-output .banner-image span[typeof~="mw:File/Frameless"]:not(.nolink){display:none}.mw-parser-output .banner-image>.mainpage-shadowbox{width:inherit!important;min-height:100%;margin-left:-150%;margin-right:150%;opacity:0;background:black}.mw-parser-output .mainpage-shadowbox .quote>a:after{content:"\a Tap to learn more.";white-space:pre}.mw-parser-output .jcarousel-item:hover .mainpage-shadowbox{margin:unset;opacity:1;transition:margin 0.5s;bottom:50%}.mw-parser-output .jcarousel-control-prev,.mw-parser-output .jcarousel-control-next{display:none}.mw-parser-output img.interactiveIcon,.mw-parser-output .interactiveIcon img{position:absolute;opacity:0.4;height:75%!important;width:auto;bottom:0;right:0}}</style><span about="#mwt7">
-</span><div class="banner-image js-proportonal-resize notheme" about="#mwt7" id="mwIg" style="font-size: 108%;">
-	<p><span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless"><span><img resource="//en.wikivoyage.org/wiki/File:Interactive_icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/250px-Interactive_icon.svg.png" decoding="async" data-file-width="133" data-file-height="200" data-file-type="drawing" height="376" width="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/375px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/500px-Interactive_icon.svg.png 2x" class="mw-file-element"></span></span></p>
-	<div class="mainpage-shadowbox notheme banner-box-2 banner-box-left" style="width:45%">
-        <div style="position:relative; float:right; margin:-4px;">
-        <span typeof="mw:File/Frameless"><a href="//en.wikivoyage.org/wiki/Previous_Destinations_of_the_Month" title="Previous Destinations of the Month"><img alt="DotM" resource="//en.wikivoyage.org/wiki/File:Yes_Check_Circle_white.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Yes_Check_Circle_white.svg/32px-Yes_Check_Circle_white.svg.png" decoding="async" data-file-width="20" data-file-height="20" data-file-type="drawing" height="32" width="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Yes_Check_Circle_white.svg/48px-Yes_Check_Circle_white.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Yes_Check_Circle_white.svg/64px-Yes_Check_Circle_white.svg.png 2x" class="mw-file-element"></a></span></div>
-		<section data-mw-section-id="-1" id="mwIw"><h2 style="font-size:1.25em;" id="Destination_of_the_Month" class="mw-html-heading"><a rel="mw:WikiLink" href="//en.wikivoyage.org/wiki/Previous_Destinations_of_the_month" title="Previous Destinations of the month">Destination of the Month</a></h2>
-        <section data-mw-section-id="-1" id="mwJA"><h3 style="font-size:2em;" id="San_Carlos_de_Bariloche" class="mw-html-heading"><a rel="mw:WikiLink" href="//en.wikivoyage.org/wiki/San_Carlos_de_Bariloche" title="San Carlos de Bariloche">San Carlos de Bariloche</a></h3>
-		<div class="quote"><a rel="mw:WikiLink" href="//en.wikivoyage.org/wiki/San_Carlos_de_Bariloche" title="San Carlos de Bariloche">The Argentine adventure capital offers great opportunities for skiing, sightseeing, water sports, trekking and climbing amidst the amazing mountainous landscapes of Argentine Patagonia.</a></div>
-	</section></section></div>
-	<p><span class="nolink" typeof="mw:File/Frameless" data-mw="{&quot;caption&quot;:&quot;San Carlos de Bariloche&quot;}"><span title="San Carlos de Bariloche"><img alt="San Carlos de Bariloche" resource="//en.wikivoyage.org/wiki/File:SanCarlosBanner1.jpg" src="//upload.wikimedia.org/wikivoyage/en/thumb/9/98/SanCarlosBanner1.jpg/1700px-SanCarlosBanner1.jpg" decoding="async" data-file-width="1710" data-file-height="570" data-file-type="bitmap" height="567" width="1700" srcset="//upload.wikimedia.org/wikivoyage/en/9/98/SanCarlosBanner1.jpg 1.5x, //upload.wikimedia.org/wikivoyage/en/9/98/SanCarlosBanner1.jpg 2x" class="mw-file-element"></span></span>
-	<span typeof="mw:File/Frameless" data-mw="{&quot;caption&quot;:&quot;San Carlos de Bariloche&quot;}"><a href="//en.wikivoyage.org/wiki/San_Carlos_de_Bariloche" title="San Carlos de Bariloche"><img alt="San Carlos de Bariloche" resource="//en.wikivoyage.org/wiki/File:SanCarlosBanner1.jpg" src="//upload.wikimedia.org/wikivoyage/en/thumb/9/98/SanCarlosBanner1.jpg/1700px-SanCarlosBanner1.jpg" decoding="async" data-file-width="1710" data-file-height="570" data-file-type="bitmap" height="567" width="1700" srcset="//upload.wikimedia.org/wikivoyage/en/9/98/SanCarlosBanner1.jpg 1.5x, //upload.wikimedia.org/wikivoyage/en/9/98/SanCarlosBanner1.jpg 2x" class="mw-file-element"></a></span></p>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Off the Beaten Path (Wikivoyage recommendations)]]></title>
-        <id>https://en.wikivoyage.org/wiki/Previously_Off_the_beaten_path</id>
-        <link href="https://en.wikivoyage.org/wiki/Previously_Off_the_beaten_path"/>
-        <updated>2025-11-01T15:37:25.358Z</updated>
-        <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4523569" about="#mwt9" typeof="mw:Extension/templatestyles mw:Transclusion" id="mwJg" data-mw="{&quot;name&quot;:&quot;templatestyles&quot;,&quot;attrs&quot;:{&quot;src&quot;:&quot;Banner/styles.css&quot;},&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;banner&quot;,&quot;href&quot;:&quot;./Template:Banner&quot;},&quot;params&quot;:{&quot;direction&quot;:{&quot;wt&quot;:&quot;left&quot;},&quot;width&quot;:{&quot;wt&quot;:&quot;50%&quot;},&quot;title&quot;:{&quot;wt&quot;:&quot;Sekigahara&quot;},&quot;type&quot;:{&quot;wt&quot;:&quot;otbp&quot;},&quot;image&quot;:{&quot;wt&quot;:&quot;SekigaharaBanner1.jpg&quot;},&quot;quote&quot;:{&quot;wt&quot;:&quot;This quaint mountain town and battlefield, where Tokugawa won control of Japan, gives visitors firsthand insight into feudal Japanese warfare.&quot;}},&quot;i&quot;:0}}]}"><span about="#mwt9">
-</span><div class="banner-image js-proportonal-resize notheme" about="#mwt9" id="mwJw" style="font-size: 108%;">
-	<p><span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless"><span><img resource="//en.wikivoyage.org/wiki/File:Interactive_icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/250px-Interactive_icon.svg.png" decoding="async" data-file-width="133" data-file-height="200" data-file-type="drawing" height="376" width="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/375px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/500px-Interactive_icon.svg.png 2x" class="mw-file-element"></span></span></p>
-	<div class="mainpage-shadowbox notheme banner-box-2 banner-box-left" style="width:50%">
-        <div style="position:relative; float:right; margin:-4px;">
-        <span typeof="mw:File/Frameless"><a href="//en.wikivoyage.org/wiki/Previously_Off_the_beaten_path" title="Previously Off the beaten path"><img alt="OtBP" resource="//en.wikivoyage.org/wiki/File:Right_turn_icon_white.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Right_turn_icon_white.svg/32px-Right_turn_icon_white.svg.png" decoding="async" data-file-width="20" data-file-height="20" data-file-type="drawing" height="32" width="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Right_turn_icon_white.svg/48px-Right_turn_icon_white.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Right_turn_icon_white.svg/64px-Right_turn_icon_white.svg.png 2x" class="mw-file-element"></a></span></div>
-		<section data-mw-section-id="-1" id="mwKA"><h2 style="font-size:1.25em;" id="Off_the_Beaten_Path" class="mw-html-heading"><a rel="mw:WikiLink" href="//en.wikivoyage.org/wiki/Previously_Off_the_beaten_path" title="Previously Off the beaten path">Off the Beaten Path</a></h2>
-        <section data-mw-section-id="-1" id="mwKQ"><h3 style="font-size:2em;" id="Sekigahara" class="mw-html-heading"><a rel="mw:WikiLink" href="//en.wikivoyage.org/wiki/Sekigahara" title="Sekigahara">Sekigahara</a></h3>
-		<div class="quote"><a rel="mw:WikiLink" href="//en.wikivoyage.org/wiki/Sekigahara" title="Sekigahara">This quaint mountain town and battlefield, where Tokugawa won control of Japan, gives visitors firsthand insight into feudal Japanese warfare.</a></div>
-	</section></section></div>
-	<p><span class="nolink" typeof="mw:File/Frameless" data-mw="{&quot;caption&quot;:&quot;Sekigahara&quot;}"><span title="Sekigahara"><img alt="Sekigahara" resource="//en.wikivoyage.org/wiki/File:SekigaharaBanner1.jpg" src="//upload.wikimedia.org/wikivoyage/en/thumb/4/4d/SekigaharaBanner1.jpg/1700px-SekigaharaBanner1.jpg" decoding="async" data-file-width="1710" data-file-height="570" data-file-type="bitmap" height="567" width="1700" srcset="//upload.wikimedia.org/wikivoyage/en/4/4d/SekigaharaBanner1.jpg 1.5x, //upload.wikimedia.org/wikivoyage/en/4/4d/SekigaharaBanner1.jpg 2x" class="mw-file-element"></span></span>
-	<span typeof="mw:File/Frameless" data-mw="{&quot;caption&quot;:&quot;Sekigahara&quot;}"><a href="//en.wikivoyage.org/wiki/Sekigahara" title="Sekigahara"><img alt="Sekigahara" resource="//en.wikivoyage.org/wiki/File:SekigaharaBanner1.jpg" src="//upload.wikimedia.org/wikivoyage/en/thumb/4/4d/SekigaharaBanner1.jpg/1700px-SekigaharaBanner1.jpg" decoding="async" data-file-width="1710" data-file-height="570" data-file-type="bitmap" height="567" width="1700" srcset="//upload.wikimedia.org/wikivoyage/en/4/4d/SekigaharaBanner1.jpg 1.5x, //upload.wikimedia.org/wikivoyage/en/4/4d/SekigaharaBanner1.jpg 2x" class="mw-file-element"></a></span></p>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Featured Travel Topic (Wikivoyage recommendations)]]></title>
-        <id>https://en.wikivoyage.org/wiki/Previous_Featured_travel_topics</id>
-        <link href="https://en.wikivoyage.org/wiki/Previous_Featured_travel_topics"/>
-        <updated>2025-11-01T15:37:25.360Z</updated>
-        <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4523569" about="#mwt11" typeof="mw:Extension/templatestyles mw:Transclusion" id="mwKw" data-mw="{&quot;name&quot;:&quot;templatestyles&quot;,&quot;attrs&quot;:{&quot;src&quot;:&quot;Banner/styles.css&quot;},&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;banner&quot;,&quot;href&quot;:&quot;./Template:Banner&quot;},&quot;params&quot;:{&quot;direction&quot;:{&quot;wt&quot;:&quot;left&quot;},&quot;title&quot;:{&quot;wt&quot;:&quot;Driving in China&quot;},&quot;type&quot;:{&quot;wt&quot;:&quot;ftt&quot;},&quot;image&quot;:{&quot;wt&quot;:&quot;DrivingChinaBanner1.jpg&quot;},&quot;quote&quot;:{&quot;wt&quot;:&quot;China isn't one of the countries that foreigners commonly explore by driving themselves. If you'd still like to, the first step would be getting a local driving licence.&quot;}},&quot;i&quot;:0}}]}"><span about="#mwt11">
-</span><div class="banner-image js-proportonal-resize notheme" about="#mwt11" id="mwLA" style="font-size: 108%;">
-	<p><span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless"><span><img resource="//en.wikivoyage.org/wiki/File:Interactive_icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/250px-Interactive_icon.svg.png" decoding="async" data-file-width="133" data-file-height="200" data-file-type="drawing" height="376" width="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/375px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/500px-Interactive_icon.svg.png 2x" class="mw-file-element"></span></span></p>
-	<div class="mainpage-shadowbox notheme banner-box-2 banner-box-left" style="width:45%">
-        <div style="position:relative; float:right; margin:-4px;">
-        <span typeof="mw:File/Frameless"><a href="//en.wikivoyage.org/wiki/Previous_Featured_travel_topics" title="Previous Featured travel topics"><img alt="FTT" resource="//en.wikivoyage.org/wiki/File:Writing_Circle_white.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Writing_Circle_white.svg/32px-Writing_Circle_white.svg.png" decoding="async" data-file-width="20" data-file-height="20" data-file-type="drawing" height="32" width="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Writing_Circle_white.svg/48px-Writing_Circle_white.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Writing_Circle_white.svg/64px-Writing_Circle_white.svg.png 2x" class="mw-file-element"></a></span></div>
-		<section data-mw-section-id="-1" id="mwLQ"><h2 style="font-size:1.25em;" id="Featured_Travel_Topic" class="mw-html-heading"><a rel="mw:WikiLink" href="//en.wikivoyage.org/wiki/Previous_Featured_travel_topics" title="Previous Featured travel topics">Featured Travel Topic</a></h2>
-        <section data-mw-section-id="-1" id="mwLg"><h3 style="font-size:2em;" id="Driving_in_China" class="mw-html-heading"><a rel="mw:WikiLink" href="//en.wikivoyage.org/wiki/Driving_in_China" title="Driving in China">Driving in China</a></h3>
-		<div class="quote"><a rel="mw:WikiLink" href="//en.wikivoyage.org/wiki/Driving_in_China" title="Driving in China">China isn't one of the countries that foreigners commonly explore by driving themselves. If you'd still like to, the first step would be getting a local driving licence.</a></div>
-	</section></section></div>
-	<p><span class="nolink" typeof="mw:File/Frameless" data-mw="{&quot;caption&quot;:&quot;Driving in China&quot;}"><span title="Driving in China"><img alt="Driving in China" resource="//en.wikivoyage.org/wiki/File:DrivingChinaBanner1.jpg" src="//upload.wikimedia.org/wikivoyage/en/thumb/c/c5/DrivingChinaBanner1.jpg/1700px-DrivingChinaBanner1.jpg" decoding="async" data-file-width="1710" data-file-height="570" data-file-type="bitmap" height="567" width="1700" srcset="//upload.wikimedia.org/wikivoyage/en/c/c5/DrivingChinaBanner1.jpg 1.5x, //upload.wikimedia.org/wikivoyage/en/c/c5/DrivingChinaBanner1.jpg 2x" class="mw-file-element"></span></span>
-	<span typeof="mw:File/Frameless" data-mw="{&quot;caption&quot;:&quot;Driving in China&quot;}"><a href="//en.wikivoyage.org/wiki/Driving_in_China" title="Driving in China"><img alt="Driving in China" resource="//en.wikivoyage.org/wiki/File:DrivingChinaBanner1.jpg" src="//upload.wikimedia.org/wikivoyage/en/thumb/c/c5/DrivingChinaBanner1.jpg/1700px-DrivingChinaBanner1.jpg" decoding="async" data-file-width="1710" data-file-height="570" data-file-type="bitmap" height="567" width="1700" srcset="//upload.wikimedia.org/wikivoyage/en/c/c5/DrivingChinaBanner1.jpg 1.5x, //upload.wikimedia.org/wikivoyage/en/c/c5/DrivingChinaBanner1.jpg 2x" class="mw-file-element"></a></span></p>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lego elokuva 2 IMDb 6,5 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Lego elokuva 2 IMDb 6,5]]></title>
         <id>https://www.iltapulu.fi/lego-elokuva-2</id>
         <link href="https://www.iltapulu.fi/lego-elokuva-2"/>
         <updated>2025-11-01T16:01:25.279Z</updated>
@@ -145,7 +26,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ihmeotukset ja niiden olinpaikat IMDb 7,2 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Ihmeotukset ja niiden olinpaikat IMDb 7,2]]></title>
         <id>https://www.iltapulu.fi/ihmeotukset-ja-niiden-olinpaikat</id>
         <link href="https://www.iltapulu.fi/ihmeotukset-ja-niiden-olinpaikat"/>
         <updated>2025-11-01T16:01:25.281Z</updated>
@@ -165,7 +46,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kahden viikon iskuaika IMDb 6,4 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Kahden viikon iskuaika IMDb 6,4]]></title>
         <id>https://www.iltapulu.fi/kahden-viikon-iskuaika</id>
         <link href="https://www.iltapulu.fi/kahden-viikon-iskuaika"/>
         <updated>2025-11-01T16:01:25.281Z</updated>
@@ -185,7 +66,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Elvis IMDb 7,3 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Elvis IMDb 7,3]]></title>
         <id>https://www.iltapulu.fi/elvis</id>
         <link href="https://www.iltapulu.fi/elvis"/>
         <updated>2025-11-01T16:01:25.282Z</updated>
@@ -205,7 +86,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top Gun - lentäjistä parhaat IMDb 7,0 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Top Gun - lentäjistä parhaat IMDb 7,0]]></title>
         <id>https://www.iltapulu.fi/top-gun-lentajista-parhaat</id>
         <link href="https://www.iltapulu.fi/top-gun-lentajista-parhaat"/>
         <updated>2025-11-01T16:01:25.283Z</updated>
@@ -225,9 +106,9 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Päivän TV-elokuvat)]]></title>
-        <id>https://jonivir.github.io/feeds/all.xml</id>
-        <link href="https://jonivir.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[5]]></title>
+        <id>https://www.iltapulu.fi/elokuvat</id>
+        <link href="https://www.iltapulu.fi/elokuvat"/>
         <updated>2025-11-01T16:01:25.007Z</updated>
         <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
 				<div data-ad-position="middlebannerATF03" class="sadblob-loading">
@@ -244,7 +125,7 @@
 			</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Suuri puhallus IMDb 7,2 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Suuri puhallus IMDb 7,2]]></title>
         <id>https://www.iltapulu.fi/suuri-puhallus</id>
         <link href="https://www.iltapulu.fi/suuri-puhallus"/>
         <updated>2025-11-01T16:01:25.290Z</updated>
@@ -264,7 +145,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pelastakaa sotamies Ryan IMDb 8,6 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Pelastakaa sotamies Ryan IMDb 8,6]]></title>
         <id>https://www.iltapulu.fi/pelastakaa-sotamies-ryan</id>
         <link href="https://www.iltapulu.fi/pelastakaa-sotamies-ryan"/>
         <updated>2025-11-01T16:01:25.291Z</updated>
@@ -284,7 +165,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Terminaattori - tuhoaja IMDb 8,1 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Terminaattori - tuhoaja IMDb 8,1]]></title>
         <id>https://www.iltapulu.fi/terminaattori-tuhoaja</id>
         <link href="https://www.iltapulu.fi/terminaattori-tuhoaja"/>
         <updated>2025-11-01T16:01:25.292Z</updated>
@@ -304,7 +185,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nunna IMDb 5,4 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Nunna IMDb 5,4]]></title>
         <id>https://www.iltapulu.fi/nunna</id>
         <link href="https://www.iltapulu.fi/nunna"/>
         <updated>2025-11-01T16:01:25.294Z</updated>
@@ -324,7 +205,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Viisi lainsuojatonta IMDb 4,0 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Viisi lainsuojatonta IMDb 4,0]]></title>
         <id>https://www.iltapulu.fi/viisi-lainsuojatonta</id>
         <link href="https://www.iltapulu.fi/viisi-lainsuojatonta"/>
         <updated>2025-11-01T16:01:25.298Z</updated>
@@ -344,9 +225,9 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Päivän TV-elokuvat)]]></title>
-        <id>https://jonivir.github.io/feeds/all.xml</id>
-        <link href="https://jonivir.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[11]]></title>
+        <id>https://www.iltapulu.fi/elokuvat</id>
+        <link href="https://www.iltapulu.fi/elokuvat"/>
         <updated>2025-11-01T16:01:25.009Z</updated>
         <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
 			<div data-ad-position="middlebannerBTF01" class="sadblob-loading">
@@ -363,7 +244,7 @@
 		</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hereditary - pahan perintö IMDb 7,3 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Hereditary - pahan perintö IMDb 7,3]]></title>
         <id>https://www.iltapulu.fi/hereditary-pahan-perint</id>
         <link href="https://www.iltapulu.fi/hereditary-pahan-perint"/>
         <updated>2025-11-01T16:01:25.299Z</updated>
@@ -383,7 +264,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Indiana Jones ja kristallikallon valtakunta IMDb 6,2 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Indiana Jones ja kristallikallon valtakunta IMDb 6,2]]></title>
         <id>https://www.iltapulu.fi/indiana-jones-ja-kristallikallon-valtakunta</id>
         <link href="https://www.iltapulu.fi/indiana-jones-ja-kristallikallon-valtakunta"/>
         <updated>2025-11-01T16:01:25.302Z</updated>
@@ -403,7 +284,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tully IMDb 6.9 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Tully IMDb 6.9]]></title>
         <id>https://www.iltapulu.fi/tully</id>
         <link href="https://www.iltapulu.fi/tully"/>
         <updated>2025-11-01T16:01:25.303Z</updated>
@@ -423,7 +304,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tropic Thunder IMDb 7,1 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Tropic Thunder IMDb 7,1]]></title>
         <id>https://www.iltapulu.fi/tropic-thunder</id>
         <link href="https://www.iltapulu.fi/tropic-thunder"/>
         <updated>2025-11-01T16:01:25.304Z</updated>
@@ -443,7 +324,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Poliisiopisto 6: Suuri rikosaalto IMDb 4,4 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Poliisiopisto 6: Suuri rikosaalto IMDb 4,4]]></title>
         <id>https://www.iltapulu.fi/poliisiopisto-6-suuri-rikosaalto</id>
         <link href="https://www.iltapulu.fi/poliisiopisto-6-suuri-rikosaalto"/>
         <updated>2025-11-01T16:01:25.306Z</updated>
@@ -463,9 +344,9 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Päivän TV-elokuvat)]]></title>
-        <id>https://jonivir.github.io/feeds/all.xml</id>
-        <link href="https://jonivir.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[17]]></title>
+        <id>https://www.iltapulu.fi/elokuvat</id>
+        <link href="https://www.iltapulu.fi/elokuvat"/>
         <updated>2025-11-01T16:01:25.009Z</updated>
         <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
 			<div data-ad-position="middlebannerBTF02" class="sadblob-loading">
@@ -482,7 +363,7 @@
 		</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[San Andreas IMDb 6,1 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[San Andreas IMDb 6,1]]></title>
         <id>https://www.iltapulu.fi/san-andreas</id>
         <link href="https://www.iltapulu.fi/san-andreas"/>
         <updated>2025-11-01T16:01:25.307Z</updated>
@@ -502,7 +383,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rocky Balboa IMDb 7,1 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Rocky Balboa IMDb 7,1]]></title>
         <id>https://www.iltapulu.fi/rocky-balboa</id>
         <link href="https://www.iltapulu.fi/rocky-balboa"/>
         <updated>2025-11-01T16:01:25.309Z</updated>
@@ -522,7 +403,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Truth IMDb 6.8 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Truth IMDb 6.8]]></title>
         <id>https://www.iltapulu.fi/truth</id>
         <link href="https://www.iltapulu.fi/truth"/>
         <updated>2025-11-01T16:01:25.310Z</updated>
@@ -542,7 +423,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Duudsonit elokuva IMDb 6,0 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Duudsonit elokuva IMDb 6,0]]></title>
         <id>https://www.iltapulu.fi/duudsonit-elokuva</id>
         <link href="https://www.iltapulu.fi/duudsonit-elokuva"/>
         <updated>2025-11-01T16:01:25.313Z</updated>
@@ -562,7 +443,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Navigating Christmas IMDb 6,4 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Navigating Christmas IMDb 6,4]]></title>
         <id>https://www.iltapulu.fi/navigating-christmas</id>
         <link href="https://www.iltapulu.fi/navigating-christmas"/>
         <updated>2025-11-01T16:01:25.314Z</updated>
@@ -582,9 +463,9 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Päivän TV-elokuvat)]]></title>
-        <id>https://jonivir.github.io/feeds/all.xml</id>
-        <link href="https://jonivir.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[23]]></title>
+        <id>https://www.iltapulu.fi/elokuvat</id>
+        <link href="https://www.iltapulu.fi/elokuvat"/>
         <updated>2025-11-01T16:01:25.009Z</updated>
         <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
 			<div data-ad-position="mobicontentfeedlow02" class="sadblob-loading">
@@ -595,7 +476,7 @@
 		</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lego elokuva 2 IMDb 6,5 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Lego elokuva 2 IMDb 6,5]]></title>
         <id>https://www.iltapulu.fi/lego-elokuva-2</id>
         <link href="https://www.iltapulu.fi/lego-elokuva-2"/>
         <updated>2025-11-01T16:01:25.316Z</updated>
@@ -615,7 +496,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nuoruuteni savotat IMDb 7,1 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Nuoruuteni savotat IMDb 7,1]]></title>
         <id>https://www.iltapulu.fi/nuoruuteni-savotat</id>
         <link href="https://www.iltapulu.fi/nuoruuteni-savotat"/>
         <updated>2025-11-01T16:01:25.317Z</updated>
@@ -635,7 +516,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Christmas Cookie Catastrophe IMDb 6,4 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Christmas Cookie Catastrophe IMDb 6,4]]></title>
         <id>https://www.iltapulu.fi/christmas-cookie-catastrophe</id>
         <link href="https://www.iltapulu.fi/christmas-cookie-catastrophe"/>
         <updated>2025-11-01T16:01:25.318Z</updated>
@@ -655,7 +536,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ihmeotukset ja niiden olinpaikat IMDb 7,2 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Ihmeotukset ja niiden olinpaikat IMDb 7,2]]></title>
         <id>https://www.iltapulu.fi/ihmeotukset-ja-niiden-olinpaikat/2025110212305</id>
         <link href="https://www.iltapulu.fi/ihmeotukset-ja-niiden-olinpaikat/2025110212305"/>
         <updated>2025-11-01T16:01:25.320Z</updated>
@@ -675,7 +556,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Saapasjalkakissa IMDb 6,6 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Saapasjalkakissa IMDb 6,6]]></title>
         <id>https://www.iltapulu.fi/saapasjalkakissa</id>
         <link href="https://www.iltapulu.fi/saapasjalkakissa"/>
         <updated>2025-11-01T16:01:25.321Z</updated>
@@ -695,7 +576,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ghost - näkymätön rakkaus IMDb 7,1 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Ghost - näkymätön rakkaus IMDb 7,1]]></title>
         <id>https://www.iltapulu.fi/ghost-nakymaton-rakkaus</id>
         <link href="https://www.iltapulu.fi/ghost-nakymaton-rakkaus"/>
         <updated>2025-11-01T16:01:25.323Z</updated>
@@ -715,7 +596,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kauhea Kankkunen 2 IMDb 6.5 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Kauhea Kankkunen 2 IMDb 6.5]]></title>
         <id>https://www.iltapulu.fi/kauhea-kankkunen-2</id>
         <link href="https://www.iltapulu.fi/kauhea-kankkunen-2"/>
         <updated>2025-11-01T16:01:25.324Z</updated>
@@ -735,7 +616,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Super 8 IMDb 7,0 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Super 8 IMDb 7,0]]></title>
         <id>https://www.iltapulu.fi/super-8</id>
         <link href="https://www.iltapulu.fi/super-8"/>
         <updated>2025-11-01T16:01:25.326Z</updated>
@@ -755,7 +636,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rankka päivä IMDb 7,6 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Rankka päivä IMDb 7,6]]></title>
         <id>https://www.iltapulu.fi/rankka-paiva</id>
         <link href="https://www.iltapulu.fi/rankka-paiva"/>
         <updated>2025-11-01T16:01:25.327Z</updated>
@@ -775,7 +656,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Taken IMDb 7,7 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Taken IMDb 7,7]]></title>
         <id>https://www.iltapulu.fi/taken</id>
         <link href="https://www.iltapulu.fi/taken"/>
         <updated>2025-11-01T16:01:25.329Z</updated>
@@ -795,7 +676,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sympathy for the Devil IMDb 5,5 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Sympathy for the Devil IMDb 5,5]]></title>
         <id>https://www.iltapulu.fi/sympathy-for-the-devil</id>
         <link href="https://www.iltapulu.fi/sympathy-for-the-devil"/>
         <updated>2025-11-01T16:01:25.330Z</updated>
@@ -815,7 +696,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aitoa kauhua IMDb 4.6 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Aitoa kauhua IMDb 4.6]]></title>
         <id>https://www.iltapulu.fi/aitoa-kauhua</id>
         <link href="https://www.iltapulu.fi/aitoa-kauhua"/>
         <updated>2025-11-01T16:01:25.332Z</updated>
@@ -835,7 +716,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[100 litraa sahtia IMDb 6,8 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[100 litraa sahtia IMDb 6,8]]></title>
         <id>https://www.iltapulu.fi/100-litraa-sahtia</id>
         <link href="https://www.iltapulu.fi/100-litraa-sahtia"/>
         <updated>2025-11-01T16:01:25.333Z</updated>
@@ -855,7 +736,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Truth IMDb 6.8 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Truth IMDb 6.8]]></title>
         <id>https://www.iltapulu.fi/truth/202511022200106</id>
         <link href="https://www.iltapulu.fi/truth/202511022200106"/>
         <updated>2025-11-01T16:01:25.335Z</updated>
@@ -875,7 +756,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mission Impossible - Ghost Protocol IMDb 7,4 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Mission Impossible - Ghost Protocol IMDb 7,4]]></title>
         <id>https://www.iltapulu.fi/mission-impossible-ghost-protocol</id>
         <link href="https://www.iltapulu.fi/mission-impossible-ghost-protocol"/>
         <updated>2025-11-01T16:01:25.336Z</updated>
@@ -895,7 +776,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hereditary - pahan perintö IMDb 7,3 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Hereditary - pahan perintö IMDb 7,3]]></title>
         <id>https://www.iltapulu.fi/hereditary-pahan-perint/2025110223056</id>
         <link href="https://www.iltapulu.fi/hereditary-pahan-perint/2025110223056"/>
         <updated>2025-11-01T16:01:25.339Z</updated>
@@ -915,7 +796,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Monster Calls IMDb 7,4 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[A Monster Calls IMDb 7,4]]></title>
         <id>https://www.iltapulu.fi/a-monster-calls</id>
         <link href="https://www.iltapulu.fi/a-monster-calls"/>
         <updated>2025-11-01T16:01:25.340Z</updated>
@@ -935,7 +816,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tully IMDb 6.9 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Tully IMDb 6.9]]></title>
         <id>https://www.iltapulu.fi/tully/202511022330106</id>
         <link href="https://www.iltapulu.fi/tully/202511022330106"/>
         <updated>2025-11-01T16:01:25.341Z</updated>
@@ -955,7 +836,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Doctor Sleep IMDb 7.3 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Doctor Sleep IMDb 7.3]]></title>
         <id>https://www.iltapulu.fi/doctor-sleep</id>
         <link href="https://www.iltapulu.fi/doctor-sleep"/>
         <updated>2025-11-01T16:01:25.343Z</updated>
@@ -975,7 +856,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Christmas Sail IMDb 6,2 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Christmas Sail IMDb 6,2]]></title>
         <id>https://www.iltapulu.fi/christmas-sail</id>
         <link href="https://www.iltapulu.fi/christmas-sail"/>
         <updated>2025-11-01T16:01:25.344Z</updated>
@@ -995,7 +876,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Coyote Creek Christmas IMDb 5,8 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Coyote Creek Christmas IMDb 5,8]]></title>
         <id>https://www.iltapulu.fi/coyote-creek-christmas</id>
         <link href="https://www.iltapulu.fi/coyote-creek-christmas"/>
         <updated>2025-11-01T16:01:25.346Z</updated>
@@ -1015,7 +896,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[August järjestää kaiken IMDb 6,1 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[August järjestää kaiken IMDb 6,1]]></title>
         <id>https://www.iltapulu.fi/august-jarjestaa-kaiken</id>
         <link href="https://www.iltapulu.fi/august-jarjestaa-kaiken"/>
         <updated>2025-11-01T16:01:25.347Z</updated>
@@ -1035,7 +916,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crashing Through the Snow IMDb 7,1 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Crashing Through the Snow IMDb 7,1]]></title>
         <id>https://www.iltapulu.fi/crashing-through-the-snow</id>
         <link href="https://www.iltapulu.fi/crashing-through-the-snow"/>
         <updated>2025-11-01T16:01:25.348Z</updated>
@@ -1055,7 +936,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Holiday Crashers IMDb 6,3 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Holiday Crashers IMDb 6,3]]></title>
         <id>https://www.iltapulu.fi/holiday-crashers</id>
         <link href="https://www.iltapulu.fi/holiday-crashers"/>
         <updated>2025-11-01T16:01:25.350Z</updated>
@@ -1075,7 +956,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Old Man And The Gun IMDb 6,7 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[The Old Man And The Gun IMDb 6,7]]></title>
         <id>https://www.iltapulu.fi/the-old-man-and-the-gun</id>
         <link href="https://www.iltapulu.fi/the-old-man-and-the-gun"/>
         <updated>2025-11-01T16:01:25.351Z</updated>
@@ -1095,7 +976,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mission Impossible - Rogue Nation IMDb 7,4 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Mission Impossible - Rogue Nation IMDb 7,4]]></title>
         <id>https://www.iltapulu.fi/mission-impossible-rogue-nation</id>
         <link href="https://www.iltapulu.fi/mission-impossible-rogue-nation"/>
         <updated>2025-11-01T16:01:25.352Z</updated>
@@ -1115,7 +996,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Se: Toinen luku IMDb 6,5 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Se: Toinen luku IMDb 6,5]]></title>
         <id>https://www.iltapulu.fi/se-toinen-luku</id>
         <link href="https://www.iltapulu.fi/se-toinen-luku"/>
         <updated>2025-11-01T16:01:25.354Z</updated>
@@ -1135,7 +1016,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beck: Omaa vertasi IMDb 5,9 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Beck: Omaa vertasi IMDb 5,9]]></title>
         <id>https://www.iltapulu.fi/beck-omaa-vertasi</id>
         <link href="https://www.iltapulu.fi/beck-omaa-vertasi"/>
         <updated>2025-11-01T16:01:25.356Z</updated>
@@ -1155,7 +1036,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[100 litraa sahtia IMDb 6,8 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[100 litraa sahtia IMDb 6,8]]></title>
         <id>https://www.iltapulu.fi/100-litraa-sahtia/2025110321004</id>
         <link href="https://www.iltapulu.fi/100-litraa-sahtia/2025110321004"/>
         <updated>2025-11-01T16:01:25.357Z</updated>
@@ -1175,7 +1056,7 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kauhea kankkunen 3 IMDb 5,9 (Päivän TV-elokuvat)]]></title>
+        <title type="html"><![CDATA[Kauhea kankkunen 3 IMDb 5,9]]></title>
         <id>https://www.iltapulu.fi/kauhea-kankkunen-3</id>
         <link href="https://www.iltapulu.fi/kauhea-kankkunen-3"/>
         <updated>2025-11-01T16:01:25.359Z</updated>
