@@ -13,7 +13,7 @@ titleSelector = "h2"
 linkSelector = "h2 a"
 
 [leffat]
-title = "Päivän TV-elokuvat
+title = "Päivän TV-elokuvat"
 url = "https://www.iltapulu.fi/elokuvat"
 entrySelector = ".day-wrapper > ul li"
 titleSelector = "h3"
