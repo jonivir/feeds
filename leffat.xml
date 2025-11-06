@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.iltapulu.fi/elokuvat</id>
     <title>Päivän TV-elokuvat</title>
-    <updated>2025-11-06T16:29:49.262Z</updated>
+    <updated>2025-11-06T17:45:15.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.iltapulu.fi/favicon.ico</icon>
     <entry>
@@ -19,7 +19,7 @@
 			</span>
 		</a><h3><a itemprop="name" href="/the-christmas-promise" class="op" data-pid="20251106182074">The Christmas Promise</a> <a href="https://www.imdb.com/title/tt15348352/" target="_blank" class="program-imdb-link">IMDb 6,7</a></h3><a href="/the-christmas-promise" class="op" data-pid="20251106182074">
 				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Sisustussuunnittelija Jen on ongelmissa, kun designbrändi valitsee hänet sosiaalisen median kilpailuun. Hän esiintyy vaikuttajana, jolla on valeperhe.</span></div>
-			</a><div id="program-progress" class="progress-bar-container" data-start="1762446000" data-end="1762452000"><div class="progress-bar" style="width: 9.6666666666667%; "></div></div><a href="/kanava/frii" class="channel-logo program-channel-logo"><picture>
+			</a><div id="program-progress" class="progress-bar-container" data-start="1762446000" data-end="1762452000"><div class="progress-bar" style="width: 80.75%; "></div></div><a href="/kanava/frii" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/frii.webp" media="(prefers-color-scheme: dark)">
 			<source srcset="/static/img/kanava/frii.webp" media="(prefers-color-scheme: light)">
 			<img src="/static/img/kanava/frii.png" alt="Frii">
@@ -109,7 +109,7 @@
         <title type="html"><![CDATA[5]]></title>
         <id>https://www.iltapulu.fi/elokuvat</id>
         <link href="https://www.iltapulu.fi/elokuvat"/>
-        <updated>2025-11-06T16:29:41.770Z</updated>
+        <updated>2025-11-06T17:45:07.714Z</updated>
         <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
 				<div data-ad-position="middlebannerATF03" class="sadblob-loading">
 					<script>
@@ -228,7 +228,7 @@
         <title type="html"><![CDATA[11]]></title>
         <id>https://www.iltapulu.fi/elokuvat</id>
         <link href="https://www.iltapulu.fi/elokuvat"/>
-        <updated>2025-11-06T16:29:41.772Z</updated>
+        <updated>2025-11-06T17:45:07.714Z</updated>
         <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
 			<div data-ad-position="middlebannerBTF01" class="sadblob-loading">
 				<script>
@@ -347,7 +347,7 @@
         <title type="html"><![CDATA[17]]></title>
         <id>https://www.iltapulu.fi/elokuvat</id>
         <link href="https://www.iltapulu.fi/elokuvat"/>
-        <updated>2025-11-06T16:29:41.775Z</updated>
+        <updated>2025-11-06T17:45:07.714Z</updated>
         <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
 			<div data-ad-position="middlebannerBTF02" class="sadblob-loading">
 				<script>
@@ -466,7 +466,7 @@
         <title type="html"><![CDATA[23]]></title>
         <id>https://www.iltapulu.fi/elokuvat</id>
         <link href="https://www.iltapulu.fi/elokuvat"/>
-        <updated>2025-11-06T16:29:41.777Z</updated>
+        <updated>2025-11-06T17:45:07.714Z</updated>
         <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
 			<div data-ad-position="mobicontentfeedlow02" class="sadblob-loading">
 				<script>
