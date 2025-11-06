@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jonivir.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-11-06T16:11:31.458Z</updated>
+    <updated>2025-11-06T16:29:49.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Alex the Great (Wikipedia — did you know?)]]></title>
@@ -73,7 +73,7 @@
         <link href="https://en.wikivoyage.org/wiki/Previous_Destinations_of_the_month"/>
         <updated>2025-11-01T15:37:25.355Z</updated>
         <content type="html"><![CDATA[<style data-mw-deduplicate="TemplateStyles:r4523569" typeof="mw:Extension/templatestyles mw:Transclusion" about="#mwt7" id="mwIQ" data-mw="{&quot;name&quot;:&quot;templatestyles&quot;,&quot;attrs&quot;:{&quot;src&quot;:&quot;Banner/styles.css&quot;},&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;banner&quot;,&quot;href&quot;:&quot;./Template:Banner&quot;},&quot;params&quot;:{&quot;direction&quot;:{&quot;wt&quot;:&quot;left&quot;},&quot;title&quot;:{&quot;wt&quot;:&quot;San Carlos de Bariloche&quot;},&quot;type&quot;:{&quot;wt&quot;:&quot;dotm&quot;},&quot;image&quot;:{&quot;wt&quot;:&quot;SanCarlosBanner1.jpg&quot;},&quot;quote&quot;:{&quot;wt&quot;:&quot;The Argentine adventure capital offers great opportunities for skiing, sightseeing, water sports, trekking and climbing amidst the amazing mountainous landscapes of Argentine Patagonia.&quot;}},&quot;i&quot;:0}}]}">.mw-parser-output .mainpage-shadowbox{color:white;background:rgb(16,16,16);background:rgba(0,0,0,0.3);border-radius:4px}.mw-parser-output .mainpage-shadowbox h2,.mw-parser-output .mainpage-shadowbox h3{color:white;border:none;font-family:sans-serif;line-height:1.2em;margin:0;padding:0}.mw-parser-output .mainpage-shadowbox a{color:white;font-weight:bold}.mw-parser-output .banner-image{position:relative;max-width:1125px;height:auto;margin-bottom:.6em}.mw-parser-output .banner-image img{max-width:100%;height:auto}.mw-parser-output .banner-box-wide{width:80%}.mw-parser-output .banner-box-left,.mw-parser-output .banner-box-right{padding:8px 7px;background:rgb(16,16,16);background:rgba(0,0,0,0.3);border-radius:4px;width:40%}.mw-parser-output .banner-box-left{text-align:left}.mw-parser-output .banner-box-right{text-align:right}.mw-parser-output .banner-box-2{position:absolute;z-index:2;min-width:20em}@media screen and (min-width:720px){.mw-parser-output .banner-image img.nolink{display:none}.mw-parser-output .banner-image span[typeof~="mw:File/Frameless"].nolink{display:none}.mw-parser-output .mainpage-shadowbox h2{font-size:190%}.mw-parser-output .mainpage-shadowbox h3{font-size:150%}.mw-parser-output .banner-image{overflow:hidden}.mw-parser-output .banner-box-left{left:3%}.mw-parser-output .banner-box-right{right:3%}.mw-parser-output .banner-box-2{margin-top:2em}.mw-parser-output .banner-box-2 .quote{font-size:80%;line-height:1.2em}}@media screen and (max-width:720px){.mw-parser-output .banner-image img:not(.nolink){display:none}.mw-parser-output .banner-image span[typeof~="mw:File/Frameless"] img{display:inline-block}.mw-parser-output .banner-image span[typeof~="mw:File/Frameless"]:not(.nolink){display:none}.mw-parser-output .banner-image>.mainpage-shadowbox{width:inherit!important;min-height:100%;margin-left:-150%;margin-right:150%;opacity:0;background:black}.mw-parser-output .mainpage-shadowbox .quote>a:after{content:"\a Tap to learn more.";white-space:pre}.mw-parser-output .jcarousel-item:hover .mainpage-shadowbox{margin:unset;opacity:1;transition:margin 0.5s;bottom:50%}.mw-parser-output .jcarousel-control-prev,.mw-parser-output .jcarousel-control-next{display:none}.mw-parser-output img.interactiveIcon,.mw-parser-output .interactiveIcon img{position:absolute;opacity:0.4;height:75%!important;width:auto;bottom:0;right:0}}</style><span about="#mwt7">
-</span><div class="banner-image js-proportonal-resize notheme" about="#mwt7" id="mwIg" style="font-size: 108%;">
+</span><div class="banner-image js-proportonal-resize notheme" about="#mwt7" id="mwIg">
 	<p><span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless"><span><img resource="//en.wikivoyage.org/wiki/File:Interactive_icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/250px-Interactive_icon.svg.png" decoding="async" data-file-width="133" data-file-height="200" data-file-type="drawing" height="376" width="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/375px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/500px-Interactive_icon.svg.png 2x" class="mw-file-element"></span></span></p>
 	<div class="mainpage-shadowbox notheme banner-box-2 banner-box-left" style="width:45%">
         <div style="position:relative; float:right; margin:-4px;">
@@ -92,7 +92,7 @@
         <link href="https://en.wikivoyage.org/wiki/Previously_Off_the_beaten_path"/>
         <updated>2025-11-01T15:37:25.358Z</updated>
         <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4523569" about="#mwt9" typeof="mw:Extension/templatestyles mw:Transclusion" id="mwJg" data-mw="{&quot;name&quot;:&quot;templatestyles&quot;,&quot;attrs&quot;:{&quot;src&quot;:&quot;Banner/styles.css&quot;},&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;banner&quot;,&quot;href&quot;:&quot;./Template:Banner&quot;},&quot;params&quot;:{&quot;direction&quot;:{&quot;wt&quot;:&quot;left&quot;},&quot;width&quot;:{&quot;wt&quot;:&quot;50%&quot;},&quot;title&quot;:{&quot;wt&quot;:&quot;Sekigahara&quot;},&quot;type&quot;:{&quot;wt&quot;:&quot;otbp&quot;},&quot;image&quot;:{&quot;wt&quot;:&quot;SekigaharaBanner1.jpg&quot;},&quot;quote&quot;:{&quot;wt&quot;:&quot;This quaint mountain town and battlefield, where Tokugawa won control of Japan, gives visitors firsthand insight into feudal Japanese warfare.&quot;}},&quot;i&quot;:0}}]}"><span about="#mwt9">
-</span><div class="banner-image js-proportonal-resize notheme" about="#mwt9" id="mwJw" style="font-size: 108%;">
+</span><div class="banner-image js-proportonal-resize notheme" about="#mwt9" id="mwJw">
 	<p><span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless"><span><img resource="//en.wikivoyage.org/wiki/File:Interactive_icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/250px-Interactive_icon.svg.png" decoding="async" data-file-width="133" data-file-height="200" data-file-type="drawing" height="376" width="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/375px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/500px-Interactive_icon.svg.png 2x" class="mw-file-element"></span></span></p>
 	<div class="mainpage-shadowbox notheme banner-box-2 banner-box-left" style="width:50%">
         <div style="position:relative; float:right; margin:-4px;">
@@ -125,26 +125,6 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sugar Plum Twist IMDb 6,1 (Päivän TV-elokuvat)]]></title>
-        <id>https://www.iltapulu.fi/sugar-plum-twist</id>
-        <link href="https://www.iltapulu.fi/sugar-plum-twist"/>
-        <updated>2025-11-03T05:44:57.487Z</updated>
-        <content type="html"><![CDATA[<div class="program-image"><a href="/sugar-plum-twist" class="op" data-pid="20251106163074">
-				<img src="https://www.iltapulu.fi/data/iltapulu/images/ve001zv6v0.webp" alt="Sugar Plum Twist" loading="lazy">
-			</a></div><div class="program-content"><a href="/sugar-plum-twist" class="op" data-pid="20251106163074">
-			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
-				<time itemprop="startDate" content="2025-11-06T16:30:00+02:00" datetime="2025-11-06T16:30:00+02:00">16.30</time> - 
-				<time itemprop="endDate" content="2025-11-06T18:20:00+02:00" datetime="2025-11-06T18:20:00+02:00">18.20</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Frii</span></span>
-			</span>
-		</a><h3><a itemprop="name" href="/sugar-plum-twist" class="op" data-pid="20251106163074">Sugar Plum Twist</a> <a href="https://www.imdb.com/title/tt15721028/?ref_=fn_al_tt_1" target="_blank" class="program-imdb-link">IMDb 6,1</a></h3><a href="/sugar-plum-twist" class="op" data-pid="20251106163074">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Vivíana Serrano ei onnistu saamaan haluamaansa roolia Pähkinänsärkijä-baletissa hän yhdistää voimansa Natalian kanssa luodakseen oman version. latinalaisen sellaisen.</span></div>
-			</a><div id="program-progress" class="progress-bar-container" data-start="1762439400" data-end="1762446000"><div class="progress-bar" style="width: 90.863636363636%; "></div></div><a href="/kanava/frii" class="channel-logo program-channel-logo"><picture>
-			<source srcset="/static/img/kanava-darktheme/frii.webp" media="(prefers-color-scheme: dark)">
-			<source srcset="/static/img/kanava/frii.webp" media="(prefers-color-scheme: light)">
-			<img src="/static/img/kanava/frii.png" alt="Frii">
-			</picture></a></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Christmas Promise IMDb 6,7 (Päivän TV-elokuvat)]]></title>
         <id>https://www.iltapulu.fi/the-christmas-promise</id>
         <link href="https://www.iltapulu.fi/the-christmas-promise"/>
@@ -158,7 +138,7 @@
 			</span>
 		</a><h3><a itemprop="name" href="/the-christmas-promise" class="op" data-pid="20251106182074">The Christmas Promise</a> <a href="https://www.imdb.com/title/tt15348352/" target="_blank" class="program-imdb-link">IMDb 6,7</a></h3><a href="/the-christmas-promise" class="op" data-pid="20251106182074">
 				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Sisustussuunnittelija Jen on ongelmissa, kun designbrändi valitsee hänet sosiaalisen median kilpailuun. Hän esiintyy vaikuttajana, jolla on valeperhe.</span></div>
-			</a><a href="/kanava/frii" class="channel-logo program-channel-logo"><picture>
+			</a><div id="program-progress" class="progress-bar-container" data-start="1762446000" data-end="1762452000"><div class="progress-bar" style="width: 9.6666666666667%; "></div></div><a href="/kanava/frii" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/frii.webp" media="(prefers-color-scheme: dark)">
 			<source srcset="/static/img/kanava/frii.webp" media="(prefers-color-scheme: light)">
 			<img src="/static/img/kanava/frii.png" alt="Frii">
@@ -225,25 +205,6 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Päivän TV-elokuvat)]]></title>
-        <id>https://jonivir.github.io/feeds/all.xml</id>
-        <link href="https://jonivir.github.io/feeds/all.xml"/>
-        <updated>2025-11-06T16:11:24.115Z</updated>
-        <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
-				<div data-ad-position="middlebannerATF03" class="sadblob-loading">
-					<script>
-						sanomaAd.render("middlebannerATF03");
-					</script>
-				</div>
-			
-				<div data-ad-position="mobicontentfeedhigh01" class="sadblob-loading">
-					<script>
-						sanomaAd.render("mobicontentfeedhigh01");
-					</script>
-				</div>
-			</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hypnoosi IMDb 6,5 (Päivän TV-elokuvat)]]></title>
         <id>https://www.iltapulu.fi/hypnoosi</id>
         <link href="https://www.iltapulu.fi/hypnoosi"/>
@@ -262,6 +223,25 @@
 			<source srcset="/static/img/kanava/yle_teema_fem.webp" media="(prefers-color-scheme: light)">
 			<img src="/static/img/kanava/yle_teema_fem.png" alt="Yle Teema &amp; Fem">
 			</picture></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Päivän TV-elokuvat)]]></title>
+        <id>https://jonivir.github.io/feeds/all.xml</id>
+        <link href="https://jonivir.github.io/feeds/all.xml"/>
+        <updated>2025-11-06T16:29:41.770Z</updated>
+        <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
+				<div data-ad-position="middlebannerATF03" class="sadblob-loading">
+					<script>
+						sanomaAd.render("middlebannerATF03");
+					</script>
+				</div>
+			
+				<div data-ad-position="mobicontentfeedhigh01" class="sadblob-loading">
+					<script>
+						sanomaAd.render("mobicontentfeedhigh01");
+					</script>
+				</div>
+			</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Joker (2019) IMDb 8,3 (Päivän TV-elokuvat)]]></title>
@@ -344,25 +324,6 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Päivän TV-elokuvat)]]></title>
-        <id>https://jonivir.github.io/feeds/all.xml</id>
-        <link href="https://jonivir.github.io/feeds/all.xml"/>
-        <updated>2025-11-06T16:11:24.115Z</updated>
-        <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
-			<div data-ad-position="middlebannerBTF01" class="sadblob-loading">
-				<script>
-					sanomaAd.render("middlebannerBTF01");
-				</script>
-			</div>
-		
-			<div data-ad-position="mobicontentfeedhigh02" class="sadblob-loading">
-				<script>
-					sanomaAd.render("mobicontentfeedhigh02");
-				</script>
-			</div>
-		</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sugar Plum Twist IMDb 6,1 (Päivän TV-elokuvat)]]></title>
         <id>https://www.iltapulu.fi/sugar-plum-twist</id>
         <link href="https://www.iltapulu.fi/sugar-plum-twist"/>
@@ -383,18 +344,37 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[undefined (Päivän TV-elokuvat)]]></title>
+        <id>https://jonivir.github.io/feeds/all.xml</id>
+        <link href="https://jonivir.github.io/feeds/all.xml"/>
+        <updated>2025-11-06T16:29:41.772Z</updated>
+        <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
+			<div data-ad-position="middlebannerBTF01" class="sadblob-loading">
+				<script>
+					sanomaAd.render("middlebannerBTF01");
+				</script>
+			</div>
+		
+			<div data-ad-position="mobicontentfeedhigh02" class="sadblob-loading">
+				<script>
+					sanomaAd.render("mobicontentfeedhigh02");
+				</script>
+			</div>
+		</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Christmas Promise IMDb 6,7 (Päivän TV-elokuvat)]]></title>
-        <id>https://www.iltapulu.fi/the-christmas-promise/20251107102074</id>
-        <link href="https://www.iltapulu.fi/the-christmas-promise/20251107102074"/>
-        <updated>2025-11-04T05:44:52.786Z</updated>
-        <content type="html"><![CDATA[<div class="program-image"><a href="/the-christmas-promise/20251107102074" class="op" data-pid="20251107102074">
+        <id>https://www.iltapulu.fi/the-christmas-promise</id>
+        <link href="https://www.iltapulu.fi/the-christmas-promise"/>
+        <updated>2025-11-03T05:44:57.489Z</updated>
+        <content type="html"><![CDATA[<div class="program-image"><a href="/the-christmas-promise" class="op" data-pid="20251107102074">
 				<img src="https://www.iltapulu.fi/data/iltapulu/images/ve001zv6uv.webp" alt="The Christmas Promise" loading="lazy">
-			</a></div><div class="program-content"><a href="/the-christmas-promise/20251107102074" class="op" data-pid="20251107102074">
+			</a></div><div class="program-content"><a href="/the-christmas-promise" class="op" data-pid="20251107102074">
 			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
 				<time itemprop="startDate" content="2025-11-07T10:20:00+02:00" datetime="2025-11-07T10:20:00+02:00">10.20</time> - 
 				<time itemprop="endDate" content="2025-11-07T12:15:00+02:00" datetime="2025-11-07T12:15:00+02:00">12.15</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Frii</span></span>
 			</span>
-		</a><h3><a itemprop="name" href="/the-christmas-promise/20251107102074" class="op" data-pid="20251107102074">The Christmas Promise</a> <a href="https://www.imdb.com/title/tt15348352/" target="_blank" class="program-imdb-link">IMDb 6,7</a></h3><a href="/the-christmas-promise/20251107102074" class="op" data-pid="20251107102074">
+		</a><h3><a itemprop="name" href="/the-christmas-promise" class="op" data-pid="20251107102074">The Christmas Promise</a> <a href="https://www.imdb.com/title/tt15348352/" target="_blank" class="program-imdb-link">IMDb 6,7</a></h3><a href="/the-christmas-promise" class="op" data-pid="20251107102074">
 				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Sisustussuunnittelija Jen on ongelmissa, kun designbrändi valitsee hänet sosiaalisen median kilpailuun. Hän esiintyy vaikuttajana, jolla on valeperhe.</span></div>
 			</a><a href="/kanava/frii" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/frii.webp" media="(prefers-color-scheme: dark)">
@@ -463,25 +443,6 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Päivän TV-elokuvat)]]></title>
-        <id>https://jonivir.github.io/feeds/all.xml</id>
-        <link href="https://jonivir.github.io/feeds/all.xml"/>
-        <updated>2025-11-06T16:11:24.116Z</updated>
-        <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
-			<div data-ad-position="middlebannerBTF02" class="sadblob-loading">
-				<script>
-					sanomaAd.render("middlebannerBTF02");
-				</script>
-			</div>
-		
-			<div data-ad-position="mobicontentfeedlow01" class="sadblob-loading">
-				<script>
-					sanomaAd.render("mobicontentfeedlow01");
-				</script>
-			</div>
-		</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Poliisiopisto: Moskovan keikka IMDb 3,5 (Päivän TV-elokuvat)]]></title>
         <id>https://www.iltapulu.fi/poliisiopisto-moskovan-keikka</id>
         <link href="https://www.iltapulu.fi/poliisiopisto-moskovan-keikka"/>
@@ -500,6 +461,25 @@
 			<source srcset="/static/img/kanava/tv5.webp" media="(prefers-color-scheme: light)">
 			<img src="/static/img/kanava/tv5.png" alt="TV5">
 			</picture></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Päivän TV-elokuvat)]]></title>
+        <id>https://jonivir.github.io/feeds/all.xml</id>
+        <link href="https://jonivir.github.io/feeds/all.xml"/>
+        <updated>2025-11-06T16:29:41.775Z</updated>
+        <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
+			<div data-ad-position="middlebannerBTF02" class="sadblob-loading">
+				<script>
+					sanomaAd.render("middlebannerBTF02");
+				</script>
+			</div>
+		
+			<div data-ad-position="mobicontentfeedlow01" class="sadblob-loading">
+				<script>
+					sanomaAd.render("mobicontentfeedlow01");
+				</script>
+			</div>
+		</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lapua 1976 IMDb 6,3 (Päivän TV-elokuvat)]]></title>
@@ -582,19 +562,6 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Päivän TV-elokuvat)]]></title>
-        <id>https://jonivir.github.io/feeds/all.xml</id>
-        <link href="https://jonivir.github.io/feeds/all.xml"/>
-        <updated>2025-11-06T16:11:24.123Z</updated>
-        <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
-			<div data-ad-position="mobicontentfeedlow02" class="sadblob-loading">
-				<script>
-					sanomaAd.render("mobicontentfeedlow02");
-				</script>
-			</div>
-		</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[100 litraa sahtia IMDb 6,8 (Päivän TV-elokuvat)]]></title>
         <id>https://www.iltapulu.fi/100-litraa-sahtia</id>
         <link href="https://www.iltapulu.fi/100-litraa-sahtia"/>
@@ -613,6 +580,19 @@
 			<source srcset="/static/img/kanava/jim.webp" media="(prefers-color-scheme: light)">
 			<img src="/static/img/kanava/jim.png" alt="Jim">
 			</picture></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Päivän TV-elokuvat)]]></title>
+        <id>https://jonivir.github.io/feeds/all.xml</id>
+        <link href="https://jonivir.github.io/feeds/all.xml"/>
+        <updated>2025-11-06T16:29:41.777Z</updated>
+        <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
+			<div data-ad-position="mobicontentfeedlow02" class="sadblob-loading">
+				<script>
+					sanomaAd.render("mobicontentfeedlow02");
+				</script>
+			</div>
+		</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kummeli V IMDb 4,7 (Päivän TV-elokuvat)]]></title>
@@ -1195,6 +1175,26 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Trumbo IMDb 7.1 (Päivän TV-elokuvat)]]></title>
+        <id>https://www.iltapulu.fi/trumbo/202511090030106</id>
+        <link href="https://www.iltapulu.fi/trumbo/202511090030106"/>
+        <updated>2025-11-06T16:29:42.144Z</updated>
+        <content type="html"><![CDATA[<div class="program-image"><a href="/trumbo/202511090030106" class="op" data-pid="202511090030106">
+				<img src="https://www.iltapulu.fi/data/images/yle/trumbo-600.webp" alt="Trumbo" loading="lazy">
+			</a></div><div class="program-content"><a href="/trumbo/202511090030106" class="op" data-pid="202511090030106">
+			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
+				<time itemprop="startDate" content="2025-11-09T00:30:00+02:00" datetime="2025-11-09T00:30:00+02:00">00.30</time> - 
+				<time itemprop="endDate" content="2025-11-09T02:30:00+02:00" datetime="2025-11-09T02:30:00+02:00">02.30</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Eveo</span></span>
+			</span>
+		</a><h3><a itemprop="name" href="/trumbo/202511090030106" class="op" data-pid="202511090030106">Trumbo</a> <a href="https://www.imdb.com/title/tt14755038/" target="_blank" class="program-imdb-link">IMDb 7.1</a></h3><a href="/trumbo/202511090030106" class="op" data-pid="202511090030106">
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Hollywoodissa alkoi kommunistien karkoittaminen 1940-luvulla. Käsikirjoittaja Dalton Trumbon menestyksekäs ura joutuu vaakalaudalle, kun hän päätyy vasemmistosympatioista epäiltynä viihdeteollisuuden mustalle listalle. (USA 2015)</span></div>
+			</a><a href="/kanava/eveo" class="channel-logo program-channel-logo"><picture>
+			<source srcset="/static/img/kanava-darktheme/eveo.webp" media="(prefers-color-scheme: dark)">
+			<source srcset="/static/img/kanava/eveo.webp" media="(prefers-color-scheme: light)">
+			<img src="/static/img/kanava/eveo.png" alt="Eveo">
+			</picture></a></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Clueless (Leffat tänään)]]></title>
         <id>https://www.telsu.fi/clueless</id>
         <link href="https://www.telsu.fi/clueless"/>
@@ -1335,49 +1335,49 @@
         <content type="html"><![CDATA[<div class="h"><h2><b>Kotikino esittää: Trumbo</b></h2><div class="meta">tänään 22.00 - 22.45 <small>45 min</small><img src="/ch/eveo.avif" class="chimg" rel="eveo" loading="lazy" alt="Eveo" title="Eveo"><div class="rate" rel="8"><span rel="1" class="ft-star2"></span><span rel="2" class="ft-star2"></span><span rel="3" class="ft-star2"></span><span rel="4" class="ft-star2"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>7.4</b><i></i></a><a href="#" data="https://www.youtube.com/embed/n0dZ_2ICpJE?rel=0&amp;autohide=1&amp;autoplay=1&amp;modestbranding=1&amp;showinfo=0&amp;wmode=transparent" data-type="iframe" data-width="100%" data-height="100%" class="btn trl lightbox" title="Katso ohjelman esittelyvideo">Traileri<i></i></a></div>Hollywoodissa alkoi kommunistien karkoittaminen 1940-luvulla. Käsikirjoittaja Dalton Trumbon menestyksekäs ura joutuu vaakalaudalle, kun hän päätyy vasemmistosympatioista epäiltynä viihdeteollisuuden mustalle listalle. (USA 2015)<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16285597" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/kotikino-esittää-trumbo" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Vieritypalkki työpaikat)]]></title>
+        <title type="html"><![CDATA[Product Owner, Integrations (Vieritypalkki työpaikat)]]></title>
         <id>https://vierityspalkki.fi/tyopaikat/product-owner-integrations/</id>
         <link href="https://vierityspalkki.fi/tyopaikat/product-owner-integrations/"/>
         <updated>2025-11-06T16:11:30.758Z</updated>
         <content type="html"><![CDATA[<h2> <a href="https://vierityspalkki.fi/tyopaikat/product-owner-integrations/"> Product Owner, Integrations </a></h2><ul class="links"><li> <a href="https://vierityspalkki.fi/tyopaikat/product-owner-integrations/"> Lue työpaikkailmoitus </a></li></ul><div class="meta meta-job"><div class="item item-logo"> <img loading="lazy" alt="" src="https://vierityspalkki.fi/media/2023/03/b6e78dcb-c279-4e00-a080-b59b798dfb9b.jpeg" srcset="https://vierityspalkki.fi/media/2023/03/b6e78dcb-c279-4e00-a080-b59b798dfb9b-300x165.jpeg 300w, https://vierityspalkki.fi/media/2023/03/b6e78dcb-c279-4e00-a080-b59b798dfb9b-200x110.jpeg 200w, https://vierityspalkki.fi/media/2023/03/b6e78dcb-c279-4e00-a080-b59b798dfb9b.jpeg 408w" sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 100vw" width="408" height="225"></div><div class="item item-details"><p class="company"> <b>Yritys:</b> Posti Oyj</p><p class="location"> <b>Paikkakunta:</b> Helsinki</p><p class="categories"> <b>Tyyppi:</b> Digipalvelun kehityksen johtaminen (esim. tuoteomistajana tai projektipäällikkönä)</p><p class="last-apply-date"> <b>Viim. hakupäivä:</b> 12.11.2025 <span class="job-apply-end urgent" data-deadline="2025-11-12">7 päivää jäljellä</span></p></div></div><p class="excerpt"> We are looking for an experienced and dynamic Product Owner, Integrations to join TecHub Integration &amp; Automation team. In this position you would be responsible for the ownership of Posti’s integration platforms. Product Owner plays a key role in managing the development and evolution of the integration platforms in alignment with Posti digitalization strategy. Since […] <a href="https://vierityspalkki.fi/tyopaikat/product-owner-integrations/"> Lue lisää </a></p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Vieritypalkki työpaikat)]]></title>
+        <title type="html"><![CDATA[Digital (Marketing) Strategy Manager (Vieritypalkki työpaikat)]]></title>
         <id>https://vierityspalkki.fi/tyopaikat/digital-marketing-strategy-manager/</id>
         <link href="https://vierityspalkki.fi/tyopaikat/digital-marketing-strategy-manager/"/>
         <updated>2025-11-06T16:11:30.765Z</updated>
         <content type="html"><![CDATA[<h2> <a href="https://vierityspalkki.fi/tyopaikat/digital-marketing-strategy-manager/"> Digital (Marketing) Strategy Manager </a></h2><ul class="links"><li> <a href="https://vierityspalkki.fi/tyopaikat/digital-marketing-strategy-manager/"> Lue työpaikkailmoitus </a></li></ul><div class="meta meta-job"><div class="item item-logo"> <img loading="lazy" alt="" src="https://vierityspalkki.fi/media/2025/08/orion-5053-img_2237-t8jmg5wa3s.jpeg" srcset="https://vierityspalkki.fi/media/2025/08/orion-5053-img_2237-t8jmg5wa3s.jpeg 296w, https://vierityspalkki.fi/media/2025/08/orion-5053-img_2237-t8jmg5wa3s-200x122.jpeg 200w" sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 100vw" width="296" height="181"></div><div class="item item-details"><p class="company"> <b>Yritys:</b> Orion</p><p class="location"> <b>Paikkakunta:</b> Espoo</p><p class="categories"> <b>Tyyppi:</b> Digipalvelun kehityksen johtaminen (esim. tuoteomistajana tai projektipäällikkönä), Digitaalinen markkinointi</p><p class="last-apply-date"> <b>Viim. hakupäivä:</b> 21.11.2025</p></div></div><p class="excerpt"> The Digital Strategy Manager plays a pivotal role in the execution of our Animal Health global marketing strategy. This role is responsible for leading the development and execution of digital strategies across our global portfolio, with a strong focus on translating global direction into impactful local execution across multiple EU countries. You will drive strategic […] <a href="https://vierityspalkki.fi/tyopaikat/digital-marketing-strategy-manager/"> Lue lisää </a></p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Vieritypalkki työpaikat)]]></title>
+        <title type="html"><![CDATA[Digital Marketing Manager (Vieritypalkki työpaikat)]]></title>
         <id>https://vierityspalkki.fi/tyopaikat/digital-marketing-manager-2025/</id>
         <link href="https://vierityspalkki.fi/tyopaikat/digital-marketing-manager-2025/"/>
         <updated>2025-11-06T16:11:30.766Z</updated>
         <content type="html"><![CDATA[<h2> <a href="https://vierityspalkki.fi/tyopaikat/digital-marketing-manager-2025/"> Digital Marketing Manager </a></h2><ul class="links"><li> <a href="https://vierityspalkki.fi/tyopaikat/digital-marketing-manager-2025/"> Lue työpaikkailmoitus </a></li></ul><div class="meta meta-job"><div class="item item-logo"> <img loading="lazy" alt="" src="https://vierityspalkki.fi/media/2023/07/veikkaus-2596-img_0863-by5dzfmopd.jpeg" srcset="https://vierityspalkki.fi/media/2023/07/veikkaus-2596-img_0863-by5dzfmopd-300x207.jpeg 300w, https://vierityspalkki.fi/media/2023/07/veikkaus-2596-img_0863-by5dzfmopd-200x138.jpeg 200w, https://vierityspalkki.fi/media/2023/07/veikkaus-2596-img_0863-by5dzfmopd.jpeg 382w" sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 100vw" width="382" height="263"></div><div class="item item-details"><p class="company"> <b>Yritys:</b> Veikkaus</p><p class="location"> <b>Paikkakunta:</b> Helsinki</p><p class="categories"> <b>Tyyppi:</b> Digitaalinen markkinointi</p><p class="last-apply-date"> <b>Viim. hakupäivä:</b> 16.11.2025</p></div></div><p class="excerpt"> We are seeking a Digital Marketing Manager to join our Growth &amp; Sales team in the Sales &amp; Marketing unit in a permanent, full-time role. In this position, you will play a key role in planning and executing digital marketing campaigns that drive customer acquisition and business growth. You’ll be responsible for designing strategies, managing […] <a href="https://vierityspalkki.fi/tyopaikat/digital-marketing-manager-2025/"> Lue lisää </a></p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Vieritypalkki työpaikat)]]></title>
+        <title type="html"><![CDATA[Digimarkkinoinnin asiantuntija (Vieritypalkki työpaikat)]]></title>
         <id>https://vierityspalkki.fi/tyopaikat/digimarkkinoinnin-asiantuntija-2025-maaraaikainen/</id>
         <link href="https://vierityspalkki.fi/tyopaikat/digimarkkinoinnin-asiantuntija-2025-maaraaikainen/"/>
         <updated>2025-11-06T16:11:30.770Z</updated>
         <content type="html"><![CDATA[<h2> <a href="https://vierityspalkki.fi/tyopaikat/digimarkkinoinnin-asiantuntija-2025-maaraaikainen/"> Digimarkkinoinnin asiantuntija </a></h2><ul class="links"><li> <a href="https://vierityspalkki.fi/tyopaikat/digimarkkinoinnin-asiantuntija-2025-maaraaikainen/"> Lue työpaikkailmoitus </a></li></ul><div class="meta meta-job"><div class="item item-logo"> <img loading="lazy" alt="" src="https://vierityspalkki.fi/media/2025/11/kaffa-5355-kaffa-46hhsll8zl.png" srcset="https://vierityspalkki.fi/media/2025/11/kaffa-5355-kaffa-46hhsll8zl-300x72.png 300w, https://vierityspalkki.fi/media/2025/11/kaffa-5355-kaffa-46hhsll8zl-200x48.png 200w, https://vierityspalkki.fi/media/2025/11/kaffa-5355-kaffa-46hhsll8zl.png 352w" sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 100vw" width="352" height="85"></div><div class="item item-details"><p class="company"> <b>Yritys:</b> Kaffa</p><p class="location"> <b>Paikkakunta:</b> Helsinki</p><p class="salary"> <b>Palkka:</b> 2 000–3 000 € / kk</p><p class="categories"> <b>Tyyppi:</b> Digitaalinen markkinointi</p><p class="last-apply-date"> <b>Viim. hakupäivä:</b> 9.11.2025 <span class="job-apply-end urgent" data-deadline="2025-11-09">4 päivää jäljellä</span></p></div></div><p class="excerpt"> Digimarkkinoinnin asiantuntija (määräaikainen) Nautitko elämän pienistä iloista, kuten hyvästä kahvista ja huonoista vitseistä? Haemme markkinointitiimiimme määräaikaiseen työsuhteeseen digitaalisen markkinoinnin ammattilaista, joka innostuu niin uutiskirjeiden kirjoittamisesta kuin hakukoneoptimoinnistakin. Tässä roolissa pääset suunnittelemaan ja toteuttamaan Kaffa Roasteryn digimarkkinointia yhdessä Kaffan sosiaalisen median sisällöntuottajan sekä markkinointipäällikön kanssa. Pienessä ja iloisessa markkinointitiimissä saat tilaa kokeilla, oppia ja jättää oman […] <a href="https://vierityspalkki.fi/tyopaikat/digimarkkinoinnin-asiantuntija-2025-maaraaikainen/"> Lue lisää </a></p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Vieritypalkki työpaikat)]]></title>
+        <title type="html"><![CDATA[Verkkoviestinnän asiantuntija (Vieritypalkki työpaikat)]]></title>
         <id>https://vierityspalkki.fi/tyopaikat/verkkoviestinnan-asiantuntija/</id>
         <link href="https://vierityspalkki.fi/tyopaikat/verkkoviestinnan-asiantuntija/"/>
         <updated>2025-11-06T16:11:30.773Z</updated>
         <content type="html"><![CDATA[<h2> <a href="https://vierityspalkki.fi/tyopaikat/verkkoviestinnan-asiantuntija/"> Verkkoviestinnän asiantuntija </a></h2><ul class="links"><li> <a href="https://vierityspalkki.fi/tyopaikat/verkkoviestinnan-asiantuntija/"> Lue työpaikkailmoitus </a></li></ul><div class="meta meta-job"><div class="item item-logo"> <img loading="lazy" alt="" src="https://vierityspalkki.fi/media/2025/11/tieteellisten-seurain-valtuuskunta-5354-tieteellisten-clrlid76et.png" srcset="https://vierityspalkki.fi/media/2025/11/tieteellisten-seurain-valtuuskunta-5354-tieteellisten-clrlid76et-300x71.png 300w, https://vierityspalkki.fi/media/2025/11/tieteellisten-seurain-valtuuskunta-5354-tieteellisten-clrlid76et-200x47.png 200w, https://vierityspalkki.fi/media/2025/11/tieteellisten-seurain-valtuuskunta-5354-tieteellisten-clrlid76et.png 475w" sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 100vw" width="475" height="112"></div><div class="item item-details"><p class="company"> <b>Yritys:</b> Tieteellisten seurain valtuuskunta</p><p class="location"> <b>Paikkakunta:</b> Helsinki</p><p class="salary"> <b>Palkka:</b> 3 000–4 000 € / kk</p><p class="categories"> <b>Tyyppi:</b> Verkkoviestintä ja sisällöntuotanto</p><p class="last-apply-date"> <b>Viim. hakupäivä:</b> 12.11.2025 <span class="job-apply-end urgent" data-deadline="2025-11-12">7 päivää jäljellä</span></p></div></div><p class="excerpt"> Tieteellisten seurain valtuuskunta (TSV) hakee verkkoviestinnän asiantuntijaa määräaikaiseen työsuhteeseen 14 kuukaudeksi. Työ alkaa 1.1.2026 tai sopimuksen mukaan. Onko sinulla kokemusta verkkosivu-uudistuksista ja kiinnostusta tieteeseen? Etsimme Tieteellisten seurain valtuuskuntaan (TSV) verkkoviestinnän asiantuntijaa, joka osallistuu TSV:n verkkosivu-uudistukseen ja keskeisten digitaalisten viestintäkanavien kehittämiseen ja sisällöntuotantoon. Verkkoviestinnän asiantuntija työskentelee TSV:n viestintäyksikössä osana asiantuntevaa kuuden hengen tiimiä. Verkkoviestinnän asiantuntijan tehtäviin […] <a href="https://vierityspalkki.fi/tyopaikat/verkkoviestinnan-asiantuntija/"> Lue lisää </a></p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Vieritypalkki työpaikat)]]></title>
+        <title type="html"><![CDATA[Web Developer (Vieritypalkki työpaikat)]]></title>
         <id>https://vierityspalkki.fi/tyopaikat/web-developer-2025-evermade/</id>
         <link href="https://vierityspalkki.fi/tyopaikat/web-developer-2025-evermade/"/>
         <updated>2025-11-06T16:11:30.774Z</updated>
         <content type="html"><![CDATA[<h2> <a href="https://vierityspalkki.fi/tyopaikat/web-developer-2025-evermade/"> Web Developer </a></h2><ul class="links"><li> <a href="https://vierityspalkki.fi/tyopaikat/web-developer-2025-evermade/"> Lue työpaikkailmoitus </a></li></ul><div class="meta meta-job"><div class="item item-logo"> <img loading="lazy" alt="" src="https://vierityspalkki.fi/media/2015/03/Evermade_Logotype.png" srcset="https://vierityspalkki.fi/media/2015/03/Evermade_Logotype-300x36.png 300w, https://vierityspalkki.fi/media/2015/03/Evermade_Logotype-590x71.png 590w, https://vierityspalkki.fi/media/2015/03/Evermade_Logotype-200x24.png 200w, https://vierityspalkki.fi/media/2015/03/Evermade_Logotype-768x92.png 768w, https://vierityspalkki.fi/media/2015/03/Evermade_Logotype-960x115.png 960w, https://vierityspalkki.fi/media/2015/03/Evermade_Logotype-750x90.png 750w, https://vierityspalkki.fi/media/2015/03/Evermade_Logotype.png 1250w" sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 100vw" width="1250" height="150"></div><div class="item item-details"><p class="company"> <b>Yritys:</b> <a href="https://vierityspalkki.fi/toimistot/evermade/">Evermade</a></p><p class="location"> <b>Paikkakunta:</b> Helsinki, Turku, Oulu - with possibility to work remotely from Finland</p><p class="salary"> <b>Palkka:</b> 3 000–4 000 € / kk</p><p class="categories"> <b>Tyyppi:</b> Ohjelmistokehitys - back end, Ohjelmistokehitys - front end</p><p class="last-apply-date"> <b>Viim. hakupäivä:</b> 16.11.2025</p></div></div><p class="excerpt"> Evermade Care is the backbone of our company providing support, hosting, maintenance, and continuous small-scale development for nearly two hundred high-profile web services and online stores. The care team focuses on proactive monitoring, quick responses, and continuous development, making sure that our customers get the full advantage of our partnership. In this role, you will […] <a href="https://vierityspalkki.fi/tyopaikat/web-developer-2025-evermade/"> Lue lisää </a></p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Vieritypalkki työpaikat)]]></title>
+        <title type="html"><![CDATA[Tuoteomistaja Suomi.fi-viesteille (Vieritypalkki työpaikat)]]></title>
         <id>https://vierityspalkki.fi/tyopaikat/tuoteomistaja-suomi-fi-viesteille-digi-ja-vaestotietovirasto-2025/</id>
         <link href="https://vierityspalkki.fi/tyopaikat/tuoteomistaja-suomi-fi-viesteille-digi-ja-vaestotietovirasto-2025/"/>
         <updated>2025-11-06T16:11:30.776Z</updated>

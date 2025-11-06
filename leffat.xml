@@ -2,29 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.iltapulu.fi/elokuvat</id>
     <title>Päivän TV-elokuvat</title>
-    <updated>2025-11-06T16:11:31.402Z</updated>
+    <updated>2025-11-06T16:29:49.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.iltapulu.fi/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Sugar Plum Twist IMDb 6,1]]></title>
-        <id>https://www.iltapulu.fi/sugar-plum-twist</id>
-        <link href="https://www.iltapulu.fi/sugar-plum-twist"/>
-        <updated>2025-11-03T05:44:57.487Z</updated>
-        <content type="html"><![CDATA[<div class="program-image"><a href="/sugar-plum-twist" class="op" data-pid="20251106163074">
-				<img src="https://www.iltapulu.fi/data/iltapulu/images/ve001zv6v0.webp" alt="Sugar Plum Twist" loading="lazy">
-			</a></div><div class="program-content"><a href="/sugar-plum-twist" class="op" data-pid="20251106163074">
-			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
-				<time itemprop="startDate" content="2025-11-06T16:30:00+02:00" datetime="2025-11-06T16:30:00+02:00">16.30</time> - 
-				<time itemprop="endDate" content="2025-11-06T18:20:00+02:00" datetime="2025-11-06T18:20:00+02:00">18.20</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Frii</span></span>
-			</span>
-		</a><h3><a itemprop="name" href="/sugar-plum-twist" class="op" data-pid="20251106163074">Sugar Plum Twist</a> <a href="https://www.imdb.com/title/tt15721028/?ref_=fn_al_tt_1" target="_blank" class="program-imdb-link">IMDb 6,1</a></h3><a href="/sugar-plum-twist" class="op" data-pid="20251106163074">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Vivíana Serrano ei onnistu saamaan haluamaansa roolia Pähkinänsärkijä-baletissa hän yhdistää voimansa Natalian kanssa luodakseen oman version. latinalaisen sellaisen.</span></div>
-			</a><div id="program-progress" class="progress-bar-container" data-start="1762439400" data-end="1762446000"><div class="progress-bar" style="width: 90.863636363636%; "></div></div><a href="/kanava/frii" class="channel-logo program-channel-logo"><picture>
-			<source srcset="/static/img/kanava-darktheme/frii.webp" media="(prefers-color-scheme: dark)">
-			<source srcset="/static/img/kanava/frii.webp" media="(prefers-color-scheme: light)">
-			<img src="/static/img/kanava/frii.png" alt="Frii">
-			</picture></a></div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[The Christmas Promise IMDb 6,7]]></title>
         <id>https://www.iltapulu.fi/the-christmas-promise</id>
@@ -39,7 +19,7 @@
 			</span>
 		</a><h3><a itemprop="name" href="/the-christmas-promise" class="op" data-pid="20251106182074">The Christmas Promise</a> <a href="https://www.imdb.com/title/tt15348352/" target="_blank" class="program-imdb-link">IMDb 6,7</a></h3><a href="/the-christmas-promise" class="op" data-pid="20251106182074">
 				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Sisustussuunnittelija Jen on ongelmissa, kun designbrändi valitsee hänet sosiaalisen median kilpailuun. Hän esiintyy vaikuttajana, jolla on valeperhe.</span></div>
-			</a><a href="/kanava/frii" class="channel-logo program-channel-logo"><picture>
+			</a><div id="program-progress" class="progress-bar-container" data-start="1762446000" data-end="1762452000"><div class="progress-bar" style="width: 9.6666666666667%; "></div></div><a href="/kanava/frii" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/frii.webp" media="(prefers-color-scheme: dark)">
 			<source srcset="/static/img/kanava/frii.webp" media="(prefers-color-scheme: light)">
 			<img src="/static/img/kanava/frii.png" alt="Frii">
@@ -106,25 +86,6 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5]]></title>
-        <id>https://www.iltapulu.fi/elokuvat</id>
-        <link href="https://www.iltapulu.fi/elokuvat"/>
-        <updated>2025-11-06T16:11:24.115Z</updated>
-        <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
-				<div data-ad-position="middlebannerATF03" class="sadblob-loading">
-					<script>
-						sanomaAd.render("middlebannerATF03");
-					</script>
-				</div>
-			
-				<div data-ad-position="mobicontentfeedhigh01" class="sadblob-loading">
-					<script>
-						sanomaAd.render("mobicontentfeedhigh01");
-					</script>
-				</div>
-			</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hypnoosi IMDb 6,5]]></title>
         <id>https://www.iltapulu.fi/hypnoosi</id>
         <link href="https://www.iltapulu.fi/hypnoosi"/>
@@ -143,6 +104,25 @@
 			<source srcset="/static/img/kanava/yle_teema_fem.webp" media="(prefers-color-scheme: light)">
 			<img src="/static/img/kanava/yle_teema_fem.png" alt="Yle Teema &amp; Fem">
 			</picture></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5]]></title>
+        <id>https://www.iltapulu.fi/elokuvat</id>
+        <link href="https://www.iltapulu.fi/elokuvat"/>
+        <updated>2025-11-06T16:29:41.770Z</updated>
+        <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
+				<div data-ad-position="middlebannerATF03" class="sadblob-loading">
+					<script>
+						sanomaAd.render("middlebannerATF03");
+					</script>
+				</div>
+			
+				<div data-ad-position="mobicontentfeedhigh01" class="sadblob-loading">
+					<script>
+						sanomaAd.render("mobicontentfeedhigh01");
+					</script>
+				</div>
+			</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Joker (2019) IMDb 8,3]]></title>
@@ -225,25 +205,6 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[11]]></title>
-        <id>https://www.iltapulu.fi/elokuvat</id>
-        <link href="https://www.iltapulu.fi/elokuvat"/>
-        <updated>2025-11-06T16:11:24.115Z</updated>
-        <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
-			<div data-ad-position="middlebannerBTF01" class="sadblob-loading">
-				<script>
-					sanomaAd.render("middlebannerBTF01");
-				</script>
-			</div>
-		
-			<div data-ad-position="mobicontentfeedhigh02" class="sadblob-loading">
-				<script>
-					sanomaAd.render("mobicontentfeedhigh02");
-				</script>
-			</div>
-		</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sugar Plum Twist IMDb 6,1]]></title>
         <id>https://www.iltapulu.fi/sugar-plum-twist</id>
         <link href="https://www.iltapulu.fi/sugar-plum-twist"/>
@@ -264,18 +225,37 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[11]]></title>
+        <id>https://www.iltapulu.fi/elokuvat</id>
+        <link href="https://www.iltapulu.fi/elokuvat"/>
+        <updated>2025-11-06T16:29:41.772Z</updated>
+        <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
+			<div data-ad-position="middlebannerBTF01" class="sadblob-loading">
+				<script>
+					sanomaAd.render("middlebannerBTF01");
+				</script>
+			</div>
+		
+			<div data-ad-position="mobicontentfeedhigh02" class="sadblob-loading">
+				<script>
+					sanomaAd.render("mobicontentfeedhigh02");
+				</script>
+			</div>
+		</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Christmas Promise IMDb 6,7]]></title>
-        <id>https://www.iltapulu.fi/the-christmas-promise/20251107102074</id>
-        <link href="https://www.iltapulu.fi/the-christmas-promise/20251107102074"/>
-        <updated>2025-11-04T05:44:52.786Z</updated>
-        <content type="html"><![CDATA[<div class="program-image"><a href="/the-christmas-promise/20251107102074" class="op" data-pid="20251107102074">
+        <id>https://www.iltapulu.fi/the-christmas-promise</id>
+        <link href="https://www.iltapulu.fi/the-christmas-promise"/>
+        <updated>2025-11-03T05:44:57.489Z</updated>
+        <content type="html"><![CDATA[<div class="program-image"><a href="/the-christmas-promise" class="op" data-pid="20251107102074">
 				<img src="https://www.iltapulu.fi/data/iltapulu/images/ve001zv6uv.webp" alt="The Christmas Promise" loading="lazy">
-			</a></div><div class="program-content"><a href="/the-christmas-promise/20251107102074" class="op" data-pid="20251107102074">
+			</a></div><div class="program-content"><a href="/the-christmas-promise" class="op" data-pid="20251107102074">
 			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
 				<time itemprop="startDate" content="2025-11-07T10:20:00+02:00" datetime="2025-11-07T10:20:00+02:00">10.20</time> - 
 				<time itemprop="endDate" content="2025-11-07T12:15:00+02:00" datetime="2025-11-07T12:15:00+02:00">12.15</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Frii</span></span>
 			</span>
-		</a><h3><a itemprop="name" href="/the-christmas-promise/20251107102074" class="op" data-pid="20251107102074">The Christmas Promise</a> <a href="https://www.imdb.com/title/tt15348352/" target="_blank" class="program-imdb-link">IMDb 6,7</a></h3><a href="/the-christmas-promise/20251107102074" class="op" data-pid="20251107102074">
+		</a><h3><a itemprop="name" href="/the-christmas-promise" class="op" data-pid="20251107102074">The Christmas Promise</a> <a href="https://www.imdb.com/title/tt15348352/" target="_blank" class="program-imdb-link">IMDb 6,7</a></h3><a href="/the-christmas-promise" class="op" data-pid="20251107102074">
 				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Sisustussuunnittelija Jen on ongelmissa, kun designbrändi valitsee hänet sosiaalisen median kilpailuun. Hän esiintyy vaikuttajana, jolla on valeperhe.</span></div>
 			</a><a href="/kanava/frii" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/frii.webp" media="(prefers-color-scheme: dark)">
@@ -344,25 +324,6 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[17]]></title>
-        <id>https://www.iltapulu.fi/elokuvat</id>
-        <link href="https://www.iltapulu.fi/elokuvat"/>
-        <updated>2025-11-06T16:11:24.116Z</updated>
-        <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
-			<div data-ad-position="middlebannerBTF02" class="sadblob-loading">
-				<script>
-					sanomaAd.render("middlebannerBTF02");
-				</script>
-			</div>
-		
-			<div data-ad-position="mobicontentfeedlow01" class="sadblob-loading">
-				<script>
-					sanomaAd.render("mobicontentfeedlow01");
-				</script>
-			</div>
-		</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Poliisiopisto: Moskovan keikka IMDb 3,5]]></title>
         <id>https://www.iltapulu.fi/poliisiopisto-moskovan-keikka</id>
         <link href="https://www.iltapulu.fi/poliisiopisto-moskovan-keikka"/>
@@ -381,6 +342,25 @@
 			<source srcset="/static/img/kanava/tv5.webp" media="(prefers-color-scheme: light)">
 			<img src="/static/img/kanava/tv5.png" alt="TV5">
 			</picture></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[17]]></title>
+        <id>https://www.iltapulu.fi/elokuvat</id>
+        <link href="https://www.iltapulu.fi/elokuvat"/>
+        <updated>2025-11-06T16:29:41.775Z</updated>
+        <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
+			<div data-ad-position="middlebannerBTF02" class="sadblob-loading">
+				<script>
+					sanomaAd.render("middlebannerBTF02");
+				</script>
+			</div>
+		
+			<div data-ad-position="mobicontentfeedlow01" class="sadblob-loading">
+				<script>
+					sanomaAd.render("mobicontentfeedlow01");
+				</script>
+			</div>
+		</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lapua 1976 IMDb 6,3]]></title>
@@ -463,19 +443,6 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[23]]></title>
-        <id>https://www.iltapulu.fi/elokuvat</id>
-        <link href="https://www.iltapulu.fi/elokuvat"/>
-        <updated>2025-11-06T16:11:24.123Z</updated>
-        <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
-			<div data-ad-position="mobicontentfeedlow02" class="sadblob-loading">
-				<script>
-					sanomaAd.render("mobicontentfeedlow02");
-				</script>
-			</div>
-		</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[100 litraa sahtia IMDb 6,8]]></title>
         <id>https://www.iltapulu.fi/100-litraa-sahtia</id>
         <link href="https://www.iltapulu.fi/100-litraa-sahtia"/>
@@ -494,6 +461,19 @@
 			<source srcset="/static/img/kanava/jim.webp" media="(prefers-color-scheme: light)">
 			<img src="/static/img/kanava/jim.png" alt="Jim">
 			</picture></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[23]]></title>
+        <id>https://www.iltapulu.fi/elokuvat</id>
+        <link href="https://www.iltapulu.fi/elokuvat"/>
+        <updated>2025-11-06T16:29:41.777Z</updated>
+        <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
+			<div data-ad-position="mobicontentfeedlow02" class="sadblob-loading">
+				<script>
+					sanomaAd.render("mobicontentfeedlow02");
+				</script>
+			</div>
+		</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kummeli V IMDb 4,7]]></title>
@@ -1073,6 +1053,26 @@
 			<source srcset="/static/img/kanava-darktheme/nelonen.webp" media="(prefers-color-scheme: dark)">
 			<source srcset="/static/img/kanava/nelonen.webp" media="(prefers-color-scheme: light)">
 			<img src="/static/img/kanava/nelonen.png" alt="Nelonen">
+			</picture></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trumbo IMDb 7.1]]></title>
+        <id>https://www.iltapulu.fi/trumbo/202511090030106</id>
+        <link href="https://www.iltapulu.fi/trumbo/202511090030106"/>
+        <updated>2025-11-06T16:29:42.144Z</updated>
+        <content type="html"><![CDATA[<div class="program-image"><a href="/trumbo/202511090030106" class="op" data-pid="202511090030106">
+				<img src="https://www.iltapulu.fi/data/images/yle/trumbo-600.webp" alt="Trumbo" loading="lazy">
+			</a></div><div class="program-content"><a href="/trumbo/202511090030106" class="op" data-pid="202511090030106">
+			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
+				<time itemprop="startDate" content="2025-11-09T00:30:00+02:00" datetime="2025-11-09T00:30:00+02:00">00.30</time> - 
+				<time itemprop="endDate" content="2025-11-09T02:30:00+02:00" datetime="2025-11-09T02:30:00+02:00">02.30</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Eveo</span></span>
+			</span>
+		</a><h3><a itemprop="name" href="/trumbo/202511090030106" class="op" data-pid="202511090030106">Trumbo</a> <a href="https://www.imdb.com/title/tt14755038/" target="_blank" class="program-imdb-link">IMDb 7.1</a></h3><a href="/trumbo/202511090030106" class="op" data-pid="202511090030106">
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Hollywoodissa alkoi kommunistien karkoittaminen 1940-luvulla. Käsikirjoittaja Dalton Trumbon menestyksekäs ura joutuu vaakalaudalle, kun hän päätyy vasemmistosympatioista epäiltynä viihdeteollisuuden mustalle listalle. (USA 2015)</span></div>
+			</a><a href="/kanava/eveo" class="channel-logo program-channel-logo"><picture>
+			<source srcset="/static/img/kanava-darktheme/eveo.webp" media="(prefers-color-scheme: dark)">
+			<source srcset="/static/img/kanava/eveo.webp" media="(prefers-color-scheme: light)">
+			<img src="/static/img/kanava/eveo.png" alt="Eveo">
 			</picture></a></div>]]></content>
     </entry>
 </feed>
