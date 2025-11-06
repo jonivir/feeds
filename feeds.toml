@@ -31,5 +31,5 @@ matchOneOf = ["tänään"]
 title = "Vieritypalkki työpaikat"
 url = "https://vierityspalkki.fi/tyopaikat/"
 entrySelector = ".item-single.item-single-job"
-titleSelector = "h"
+titleSelector = "h2"
 linkSelector = "h2 a"
