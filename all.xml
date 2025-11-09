@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jonivir.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-11-09T05:43:06.768Z</updated>
+    <updated>2025-11-09T17:40:53.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[McLaren MCL38 (Wikipedia — did you know?)]]></title>
@@ -125,125 +125,6 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meet Me at Christmas IMDb 6.4 (Päivän TV-elokuvat)]]></title>
-        <id>https://www.iltapulu.fi/meet-me-at-christmas</id>
-        <link href="https://www.iltapulu.fi/meet-me-at-christmas"/>
-        <updated>2025-11-07T05:44:27.077Z</updated>
-        <content type="html"><![CDATA[<div class="program-image"><a href="/meet-me-at-christmas" class="op" data-pid="20251109112574">
-				<img src="https://www.iltapulu.fi/data/iltapulu/images/ve00252qdt.webp" alt="Meet Me at Christmas" loading="lazy">
-			</a></div><div class="program-content"><a href="/meet-me-at-christmas" class="op" data-pid="20251109112574">
-			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
-				<time itemprop="startDate" content="2025-11-09T11:25:00+02:00" datetime="2025-11-09T11:25:00+02:00">11.25</time> - 
-				<time itemprop="endDate" content="2025-11-09T13:15:00+02:00" datetime="2025-11-09T13:15:00+02:00">13.15</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Frii</span></span>
-			</span>
-		</a><h3><a itemprop="name" href="/meet-me-at-christmas" class="op" data-pid="20251109112574">Meet Me at Christmas</a> <a href="https://www.imdb.com/title/tt13243610/" target="_blank" class="program-imdb-link">IMDb 6.4</a></h3><a href="/meet-me-at-christmas" class="op" data-pid="20251109112574">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Joanin on järjestettävä poikansa jouluaaton häät yhdessä morsiamen enon, Beaun, avulla. He huomaavat, että heidän kohtalonsa ja menneisyytensä ovat kietoutuneet yhteen.</span></div>
-			</a><a href="/kanava/frii" class="channel-logo program-channel-logo"><picture>
-			<source srcset="/static/img/kanava-darktheme/frii.webp" media="(prefers-color-scheme: dark)">
-			<source srcset="/static/img/kanava/frii.webp" media="(prefers-color-scheme: light)">
-			<img src="/static/img/kanava/frii.png" alt="Frii">
-			</picture></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yö meren rannalla IMDb 6,1 (Päivän TV-elokuvat)]]></title>
-        <id>https://www.iltapulu.fi/yo-meren-rannalla</id>
-        <link href="https://www.iltapulu.fi/yo-meren-rannalla"/>
-        <updated>2025-11-07T05:44:27.078Z</updated>
-        <content type="html"><![CDATA[<div class="program-image"><a href="/yo-meren-rannalla" class="op" data-pid="20251109120011">
-				<img src="https://www.iltapulu.fi/data/images/yle/yo-meren-rannalla-600.webp" alt="Yö meren rannalla" loading="lazy">
-			</a></div><div class="program-content"><a href="/yo-meren-rannalla" class="op" data-pid="20251109120011">
-			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
-				<time itemprop="startDate" content="2025-11-09T12:00:00+02:00" datetime="2025-11-09T12:00:00+02:00">12.00</time> - 
-				<time itemprop="endDate" content="2025-11-09T13:20:16+02:00" datetime="2025-11-09T13:20:16+02:00">13.20</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Yle Teema &amp; Fem</span></span>
-			</span>
-		</a><h3><a itemprop="name" href="/yo-meren-rannalla" class="op" data-pid="20251109120011">Yö meren rannalla</a> <a href="https://www.imdb.com/title/tt0122325/" target="_blank" class="program-imdb-link">IMDb 6,1</a></h3><a href="/yo-meren-rannalla" class="op" data-pid="20251109120011">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Avioparin järjestämän illanvieton aikana aletaan käydä läpi menneisyyden saavutuksia ja tappioita. O: Erkko Kivikoski. N: Pertti Palo, Sirkku Grahn, Pauli Virtanen, Eeva Eloranta, Mauri Heikkilä.</span></div>
-			</a><a href="/kanava/yle-teema-fem" class="channel-logo program-channel-logo"><picture>
-			<source srcset="/static/img/kanava-darktheme/yle_teema_fem.webp" media="(prefers-color-scheme: dark)">
-			<source srcset="/static/img/kanava/yle_teema_fem.webp" media="(prefers-color-scheme: light)">
-			<img src="/static/img/kanava/yle_teema_fem.png" alt="Yle Teema &amp; Fem">
-			</picture></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shrek ja ikuinen onni IMDb 6,3 (Päivän TV-elokuvat)]]></title>
-        <id>https://www.iltapulu.fi/shrek-ja-ikuinen-onni</id>
-        <link href="https://www.iltapulu.fi/shrek-ja-ikuinen-onni"/>
-        <updated>2025-11-07T05:44:27.080Z</updated>
-        <content type="html"><![CDATA[<div class="program-image"><a href="/shrek-ja-ikuinen-onni" class="op" data-pid="2025110913004">
-				<img src="https://www.iltapulu.fi/data/images/nelonen/shrek-ja-ikuinen-onni-600.webp" alt="Shrek ja ikuinen onni" loading="lazy">
-			</a></div><div class="program-content"><a href="/shrek-ja-ikuinen-onni" class="op" data-pid="2025110913004">
-			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
-				<time itemprop="startDate" content="2025-11-09T13:00:00+02:00" datetime="2025-11-09T13:00:00+02:00">13.00</time> - 
-				<time itemprop="endDate" content="2025-11-09T14:55:00+02:00" datetime="2025-11-09T14:55:00+02:00">14.55</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Nelonen</span></span>
-			</span>
-		</a><h3><a itemprop="name" href="/shrek-ja-ikuinen-onni" class="op" data-pid="2025110913004">Shrek ja ikuinen onni</a> <a href="https://www.imdb.com/title/tt0892791/" target="_blank" class="program-imdb-link">IMDb 6,3</a></h3><a href="/shrek-ja-ikuinen-onni" class="op" data-pid="2025110913004">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">(Shrek Forever After 2010). Shrek potee keski-iän kriisiä, sillä kaikki tuntuu jo voitetulta: lohikäärme, prinsessa Fiona ja valtakunta. Edes kyläläiset eivät enää kaikkoa karkuun hurjan jätin tieltä. Tittelintuure huijaa Shrekin solmimaan kanssaan sopimuksen, ja simsalabim: yhtäkkiä koko maailma onkin muuttunut! Aasi ei enää muistakaan parasta ystäväänsä, Fiona on hurja soturiprinsessa ja Saapasjalkakissa sangen lihava mirri. Yhdessä heillä on vain vuorokausi aikaa mitätöidä sopimus, pelastaa Kaukainen maa ja palauttaa ikuinen onni. Suomenkielisen version äänirooleissa: Samuli Edelmann, Tiina Isohanni, Jukka Rasila, Heikki Sankari, Jani Alkio, Jarmo Koski. Ohjaus: Mike Mitchell. </span></div>
-			</a><a href="/kanava/nelonen" class="channel-logo program-channel-logo"><picture>
-			<source srcset="/static/img/kanava-darktheme/nelonen.webp" media="(prefers-color-scheme: dark)">
-			<source srcset="/static/img/kanava/nelonen.webp" media="(prefers-color-scheme: light)">
-			<img src="/static/img/kanava/nelonen.png" alt="Nelonen">
-			</picture></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Santa Summit IMDb 6.8 (Päivän TV-elokuvat)]]></title>
-        <id>https://www.iltapulu.fi/the-santa-summit</id>
-        <link href="https://www.iltapulu.fi/the-santa-summit"/>
-        <updated>2025-11-07T05:44:27.081Z</updated>
-        <content type="html"><![CDATA[<div class="program-image"><a href="/the-santa-summit" class="op" data-pid="20251109131574">
-				<img src="https://www.iltapulu.fi/data/images/the-santa-summit-600.webp" alt="The Santa Summit" loading="lazy">
-			</a></div><div class="program-content"><a href="/the-santa-summit" class="op" data-pid="20251109131574">
-			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
-				<time itemprop="startDate" content="2025-11-09T13:15:00+02:00" datetime="2025-11-09T13:15:00+02:00">13.15</time> - 
-				<time itemprop="endDate" content="2025-11-09T15:10:00+02:00" datetime="2025-11-09T15:10:00+02:00">15.10</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Frii</span></span>
-			</span>
-		</a><h3><a itemprop="name" href="/the-santa-summit" class="op" data-pid="20251109131574">The Santa Summit</a> <a href="https://www.imdb.com/title/tt29381717/" target="_blank" class="program-imdb-link">IMDb 6.8</a></h3><a href="/the-santa-summit" class="op" data-pid="20251109131574">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Joulupukki-aiheisessa joulutapahtumassa kolme opettajaa pääsee taas vauhtiin, vahvistaa ystävyyttään ja löytää matkan varrella yllättäen rakkauden.</span></div>
-			</a><a href="/kanava/frii" class="channel-logo program-channel-logo"><picture>
-			<source srcset="/static/img/kanava-darktheme/frii.webp" media="(prefers-color-scheme: dark)">
-			<source srcset="/static/img/kanava/frii.webp" media="(prefers-color-scheme: light)">
-			<img src="/static/img/kanava/frii.png" alt="Frii">
-			</picture></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kauas pilvet karkaavat IMDb 7.6 (Päivän TV-elokuvat)]]></title>
-        <id>https://www.iltapulu.fi/kauas-pilvet-karkaavat</id>
-        <link href="https://www.iltapulu.fi/kauas-pilvet-karkaavat"/>
-        <updated>2025-11-07T05:44:27.088Z</updated>
-        <content type="html"><![CDATA[<div class="program-image"><a href="/kauas-pilvet-karkaavat" class="op" data-pid="20251109140711">
-				<img src="https://www.iltapulu.fi/data/iltapulu/images/ve00181j66.webp" alt="Kauas pilvet karkaavat" loading="lazy">
-			</a></div><div class="program-content"><a href="/kauas-pilvet-karkaavat" class="op" data-pid="20251109140711">
-			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
-				<time itemprop="startDate" content="2025-11-09T14:07:05+02:00" datetime="2025-11-09T14:07:05+02:00">14.07</time> - 
-				<time itemprop="endDate" content="2025-11-09T15:40:00+02:00" datetime="2025-11-09T15:40:00+02:00">15.40</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Yle Teema &amp; Fem</span></span>
-			</span>
-		</a><h3><a itemprop="name" href="/kauas-pilvet-karkaavat" class="op" data-pid="20251109140711">Kauas pilvet karkaavat</a> <a href="https://www.imdb.com/title/tt0116752/" target="_blank" class="program-imdb-link">IMDb 7.6</a></h3><a href="/kauas-pilvet-karkaavat" class="op" data-pid="20251109140711">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Suomalaista todellisuutta peilaava haikea komedia työttömäksi joutuneen avioparin sitkeästä uskosta parempaan. N: Kati Outinen, Kari Väänänen, Elina Salo, Sakari Kuosmanen, Markku Peltola. O: Aki Kaurismäki, 1996. Kuvailutulkattu. (U)</span></div>
-			</a><a href="/kanava/yle-teema-fem" class="channel-logo program-channel-logo"><picture>
-			<source srcset="/static/img/kanava-darktheme/yle_teema_fem.webp" media="(prefers-color-scheme: dark)">
-			<source srcset="/static/img/kanava/yle_teema_fem.webp" media="(prefers-color-scheme: light)">
-			<img src="/static/img/kanava/yle_teema_fem.png" alt="Yle Teema &amp; Fem">
-			</picture></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Päivän TV-elokuvat)]]></title>
-        <id>https://jonivir.github.io/feeds/all.xml</id>
-        <link href="https://jonivir.github.io/feeds/all.xml"/>
-        <updated>2025-11-09T05:42:58.736Z</updated>
-        <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
-				<div data-ad-position="middlebannerATF03" class="sadblob-loading">
-					<script>
-						sanomaAd.render("middlebannerATF03");
-					</script>
-				</div>
-			
-				<div data-ad-position="mobicontentfeedhigh01" class="sadblob-loading">
-					<script>
-						sanomaAd.render("mobicontentfeedhigh01");
-					</script>
-				</div>
-			</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Holiday Crashers IMDb 6.3 (Päivän TV-elokuvat)]]></title>
         <id>https://www.iltapulu.fi/holiday-crashers</id>
         <link href="https://www.iltapulu.fi/holiday-crashers"/>
@@ -257,7 +138,7 @@
 			</span>
 		</a><h3><a itemprop="name" href="/holiday-crashers" class="op" data-pid="20251109191074">Holiday Crashers</a> <a href="https://www.imdb.com/title/tt32011999/" target="_blank" class="program-imdb-link">IMDb 6.3</a></h3><a href="/holiday-crashers" class="op" data-pid="20251109191074">
 				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Parhaat ystävykset kuokkivat joulujuhliin uuden identiteettiensä kanssa ja löytävät yllättäen rakkauden ja tarkoituksen elämälleen.</span></div>
-			</a><a href="/kanava/frii" class="channel-logo program-channel-logo"><picture>
+			</a><div id="program-progress" class="progress-bar-container" data-start="1762708200" data-end="1762714800"><div class="progress-bar" style="width: 27.257575757576%; "></div></div><a href="/kanava/frii" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/frii.webp" media="(prefers-color-scheme: dark)">
 			<source srcset="/static/img/kanava/frii.webp" media="(prefers-color-scheme: light)">
 			<img src="/static/img/kanava/frii.png" alt="Frii">
@@ -284,19 +165,19 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Taken 2 IMDb 6,2 (Päivän TV-elokuvat)]]></title>
-        <id>https://www.iltapulu.fi/taken-2</id>
-        <link href="https://www.iltapulu.fi/taken-2"/>
-        <updated>2025-11-09T05:42:58.995Z</updated>
-        <content type="html"><![CDATA[<div class="program-image"><a href="/taken-2" class="op" data-pid="2025110921008">
-				<img src="https://www.iltapulu.fi/data/iltapulu/images/ve00142i8t.webp" alt="Taken 2" loading="lazy">
-			</a></div><div class="program-content"><a href="/taken-2" class="op" data-pid="2025110921008">
+        <title type="html"><![CDATA[Taken (2012) IMDb 6,2 (Päivän TV-elokuvat)]]></title>
+        <id>https://www.iltapulu.fi/taken-2012</id>
+        <link href="https://www.iltapulu.fi/taken-2012"/>
+        <updated>2025-11-09T17:40:46.080Z</updated>
+        <content type="html"><![CDATA[<div class="program-image"><a href="/taken-2012" class="op" data-pid="2025110921008">
+				<img src="https://www.iltapulu.fi/data/images/taken-2012-600.webp" alt="Taken (2012)" loading="lazy">
+			</a></div><div class="program-content"><a href="/taken-2012" class="op" data-pid="2025110921008">
 			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
 				<time itemprop="startDate" content="2025-11-09T21:00:00+02:00" datetime="2025-11-09T21:00:00+02:00">21.00</time> - 
-				<time itemprop="endDate" content="2025-11-09T22:00:00+02:00" datetime="2025-11-09T22:00:00+02:00">22.00</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">STAR Channel</span></span>
+				<time itemprop="endDate" content="2025-11-09T22:55:00+02:00" datetime="2025-11-09T22:55:00+02:00">22.55</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">STAR Channel</span></span>
 			</span>
-		</a><h3><a itemprop="name" href="/taken-2" class="op" data-pid="2025110921008">Taken 2</a> <a href="https://www.imdb.com/title/tt1397280/" target="_blank" class="program-imdb-link">IMDb 6,2</a></h3><a href="/taken-2" class="op" data-pid="2025110921008">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Elokuva: Taken 2: 2012. O: Olivier Megaton. P: Liam Neeson, Maggie Grace, Famke Janssen. Liam Neeson palaa ex-vakooja Bryan Millsin rooliin jännityselokuvasarjan jatko-osassa! Bryan vaimoineen siepataan Istanbulissa, ja hänen täytyy kääntyä yllättävän liittolaisen puoleen selvitäkseen hengissä ja käyttää jälleen erityisosaamistaan päihittääkseen sieppaajansa.</span></div>
+		</a><h3><a itemprop="name" href="/taken-2012" class="op" data-pid="2025110921008">Taken (2012)</a> <a href="https://www.imdb.com/title/tt1397280/" target="_blank" class="program-imdb-link">IMDb 6,2</a></h3><a href="/taken-2012" class="op" data-pid="2025110921008">
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">2012. O: Olivier Megaton. P: Liam Neeson, Maggie Grace, Famke Janssen. Liam Neeson palaa ex-vakooja Bryan Millsin rooliin jännityselokuvasarjan jatko-osassa! Bryan vaimoineen siepataan Istanbulissa, ja hänen täytyy kääntyä yllättävän liittolaisen puoleen selvitäkseen hengissä ja käyttää jälleen erityisosaamistaan päihittääkseen sieppaajansa.</span></div>
 			</a><a href="/kanava/star-channel" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/fox.webp" media="(prefers-color-scheme: dark)">
 			<source srcset="/static/img/kanava/fox.webp" media="(prefers-color-scheme: light)">
@@ -347,20 +228,20 @@
         <title type="html"><![CDATA[undefined (Päivän TV-elokuvat)]]></title>
         <id>https://jonivir.github.io/feeds/all.xml</id>
         <link href="https://jonivir.github.io/feeds/all.xml"/>
-        <updated>2025-11-09T05:42:58.737Z</updated>
+        <updated>2025-11-09T17:40:45.805Z</updated>
         <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
-			<div data-ad-position="middlebannerBTF01" class="sadblob-loading">
-				<script>
-					sanomaAd.render("middlebannerBTF01");
-				</script>
-			</div>
-		
-			<div data-ad-position="mobicontentfeedhigh02" class="sadblob-loading">
-				<script>
-					sanomaAd.render("mobicontentfeedhigh02");
-				</script>
-			</div>
-		</div>]]></content>
+				<div data-ad-position="middlebannerATF03" class="sadblob-loading">
+					<script>
+						sanomaAd.render("middlebannerATF03");
+					</script>
+				</div>
+			
+				<div data-ad-position="mobicontentfeedhigh01" class="sadblob-loading">
+					<script>
+						sanomaAd.render("mobicontentfeedhigh01");
+					</script>
+				</div>
+			</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hevimpi reissu IMDb 6,0 (Päivän TV-elokuvat)]]></title>
@@ -395,7 +276,7 @@
 				<time itemprop="endDate" content="2025-11-10T00:25:00+02:00" datetime="2025-11-10T00:25:00+02:00">00.25</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">TV5</span></span>
 			</span>
 		</a><h3><a itemprop="name" href="/elama-pelissa" class="op" data-pid="2025110921455">Elämä pelissä</a> <a href="https://www.imdb.com/title/tt0878804/" target="_blank" class="program-imdb-link">IMDb 7.6</a></h3><a href="/elama-pelissa" class="op" data-pid="2025110921455">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Uskomaton tositarina alkapallotähdeksi tyhjyydestä nousseesta Michael Oherista. Teini-ikäinen Oher joutuu pärjäämään omillaan, käytännössä kodittomana, kunnes Leigh Anne Tuohy löytää hänet kadulta.</span></div>
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Uskomaton tositarina alkapallotähdeksi tyhjyydestä nousseesta Michael Oherista. Teini-ikäinen Oher joutuu pärjäämään omillaan, käytännössä kodittomana, kunnes Leigh Anne Tuohy löytää hänet kadulta. Kuultuaan, että nuorimies on perheen tyttären koulukaveri, Leigh Anne kutsuu - shortseissa ja t-paidassa sydäntalvella maleksivan - pojan kotiinsa lämmittelemään. Yksinkertaisesta hyväntahdon eleestä alkava ystävyys kasvaa kasvamistaan.</span></div>
 			</a><a href="/kanava/tv5" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/tv5.webp" media="(prefers-color-scheme: dark)">
 			<source srcset="/static/img/kanava/tv5.webp" media="(prefers-color-scheme: light)">
@@ -466,17 +347,17 @@
         <title type="html"><![CDATA[undefined (Päivän TV-elokuvat)]]></title>
         <id>https://jonivir.github.io/feeds/all.xml</id>
         <link href="https://jonivir.github.io/feeds/all.xml"/>
-        <updated>2025-11-09T05:42:58.737Z</updated>
+        <updated>2025-11-09T17:40:45.805Z</updated>
         <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
-			<div data-ad-position="middlebannerBTF02" class="sadblob-loading">
+			<div data-ad-position="middlebannerBTF01" class="sadblob-loading">
 				<script>
-					sanomaAd.render("middlebannerBTF02");
+					sanomaAd.render("middlebannerBTF01");
 				</script>
 			</div>
 		
-			<div data-ad-position="mobicontentfeedlow01" class="sadblob-loading">
+			<div data-ad-position="mobicontentfeedhigh02" class="sadblob-loading">
 				<script>
-					sanomaAd.render("mobicontentfeedlow01");
+					sanomaAd.render("mobicontentfeedhigh02");
 				</script>
 			</div>
 		</div>]]></content>
@@ -551,7 +432,7 @@
 			</a></div><div class="program-content"><a href="/the-christmas-house" class="op" data-pid="20251110085074">
 			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
 				<time itemprop="startDate" content="2025-11-10T08:50:00+02:00" datetime="2025-11-10T08:50:00+02:00">08.50</time> - 
-				<time itemprop="endDate" content="2025-11-10T10:50:00+02:00" datetime="2025-11-10T10:50:00+02:00">10.50</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Frii</span></span>
+				<time itemprop="endDate" content="2025-11-10T10:45:00+02:00" datetime="2025-11-10T10:45:00+02:00">10.45</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Frii</span></span>
 			</span>
 		</a><h3><a itemprop="name" href="/the-christmas-house" class="op" data-pid="20251110085074">The Christmas House</a> <a href="https://www.imdb.com/title/tt12950902/" target="_blank" class="program-imdb-link">IMDb 6.1</a></h3><a href="/the-christmas-house" class="op" data-pid="20251110085074">
 				<div class="program-description"><span class="season-episode"></span><span itemprop="description">TV-tähti Mike saa odottamattoman pyynnön vanhemmiltaan - palauttaa perheen rakastettu joulutraditio. Se tarkoittaa, että hänen täytyy palata menneisiin jouluhin.</span></div>
@@ -571,7 +452,7 @@
 			</a></div><div class="program-content"><a href="/the-christmas-house-2-deck-those-halls" class="op" data-pid="20251110105074">
 			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
 				<time itemprop="startDate" content="2025-11-10T10:50:00+02:00" datetime="2025-11-10T10:50:00+02:00">10.50</time> - 
-				<time itemprop="endDate" content="2025-11-10T12:50:00+02:00" datetime="2025-11-10T12:50:00+02:00">12.50</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Frii</span></span>
+				<time itemprop="endDate" content="2025-11-10T12:45:00+02:00" datetime="2025-11-10T12:45:00+02:00">12.45</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Frii</span></span>
 			</span>
 		</a><h3><a itemprop="name" href="/the-christmas-house-2-deck-those-halls" class="op" data-pid="20251110105074">The Christmas House 2: Deck Those Halls</a> <a href="https://www.imdb.com/title/tt16365840/?ref_=fn_al_tt_1" target="_blank" class="program-imdb-link">IMDb 6.4</a></h3><a href="/the-christmas-house-2-deck-those-halls" class="op" data-pid="20251110105074">
 				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Mike Mitchell toivoo hiljaista ja rauhallista joulua, mutta joutuukin tosi-tv-sarjaan kilpailemaan joulutalon koristelusta veljeään vastaan.</span></div>
@@ -585,11 +466,17 @@
         <title type="html"><![CDATA[undefined (Päivän TV-elokuvat)]]></title>
         <id>https://jonivir.github.io/feeds/all.xml</id>
         <link href="https://jonivir.github.io/feeds/all.xml"/>
-        <updated>2025-11-09T05:42:58.738Z</updated>
+        <updated>2025-11-09T17:40:45.806Z</updated>
         <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
-			<div data-ad-position="mobicontentfeedlow02" class="sadblob-loading">
+			<div data-ad-position="middlebannerBTF02" class="sadblob-loading">
 				<script>
-					sanomaAd.render("mobicontentfeedlow02");
+					sanomaAd.render("middlebannerBTF02");
+				</script>
+			</div>
+		
+			<div data-ad-position="mobicontentfeedlow01" class="sadblob-loading">
+				<script>
+					sanomaAd.render("mobicontentfeedlow01");
 				</script>
 			</div>
 		</div>]]></content>
@@ -667,7 +554,7 @@
 				<time itemprop="endDate" content="2025-11-10T23:40:00+02:00" datetime="2025-11-10T23:40:00+02:00">23.40</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Kutonen</span></span>
 			</span>
 		</a><h3><a itemprop="name" href="/matrix" class="op" data-pid="20251110210062">Matrix</a> <a href="https://www.imdb.com/title/tt0133093/" target="_blank" class="program-imdb-link">IMDb 8.7</a></h3><a href="/matrix" class="op" data-pid="20251110210062">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Neo etsii epätoivoisesti totuutta Matrixista, josta puhutaan vain kuiskaten. Hän on varma, että se jollain ihmeen tavalla ohjailee hänenkin elämäänsä.</span></div>
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Neo etsii epätoivoisesti totuutta Matrixista, josta puhutaan vain kuiskaten. Hän on varma, että se jollain ihmeen tavalla ohjailee hänenkin elämäänsä. Morpheus on elävä legenda ja maailman vaarallisin mies, jolla on vastaukset kaikkiin kysyksiin.</span></div>
 			</a><a href="/kanava/kutonen" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/kutonen.webp" media="(prefers-color-scheme: dark)">
 			<source srcset="/static/img/kanava/kutonen.webp" media="(prefers-color-scheme: light)">
@@ -693,6 +580,19 @@
 			<source srcset="/static/img/kanava/hero.webp" media="(prefers-color-scheme: light)">
 			<img src="/static/img/kanava/hero.png" alt="Hero">
 			</picture></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Päivän TV-elokuvat)]]></title>
+        <id>https://jonivir.github.io/feeds/all.xml</id>
+        <link href="https://jonivir.github.io/feeds/all.xml"/>
+        <updated>2025-11-09T17:40:45.809Z</updated>
+        <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
+			<div data-ad-position="mobicontentfeedlow02" class="sadblob-loading">
+				<script>
+					sanomaAd.render("mobicontentfeedlow02");
+				</script>
+			</div>
+		</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Place Beyond The Pines IMDb 7.3 (Päivän TV-elokuvat)]]></title>
@@ -727,7 +627,7 @@
 				<time itemprop="endDate" content="2025-11-10T22:45:00+02:00" datetime="2025-11-10T22:45:00+02:00">22.45</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">MTV Sub</span></span>
 			</span>
 		</a><h3><a itemprop="name" href="/beck-kuoleman-kuriirit" class="op" data-pid="2025111021006">Beck: Kuoleman kuriirit</a> <a href="https://www.imdb.com/title/tt0147878/?ref_=fn_all_ttl_1" target="_blank" class="program-imdb-link">IMDb 5,8</a></h3><a href="/beck-kuoleman-kuriirit" class="op" data-pid="2025111021006">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">(Beck – Undercover, Ruotsi 2020) Jengiläinen murhataan, ja Beckin ryhmän tutkinta viittaa huumeverkostoon.  Alex ja muut saavat armosta tutkia samalla murhaa, mikä johtaa konflikteihin, kun Martin Beck tulee mukaan.</span></div>
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">(Beck – Undercover, Ruotsi 2020) Jengiläinen murhataan, ja Beckin ryhmän tutkinta viittaa huumeverkostoon. Alex ja muut saavat armosta tutkia samalla murhaa, mikä johtaa konflikteihin, kun Martin Beck tulee mukaan.</span></div>
 			</a><a href="/kanava/sub" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/sub.webp" media="(prefers-color-scheme: dark)">
 			<source srcset="/static/img/kanava/sub.webp" media="(prefers-color-scheme: light)">
@@ -807,7 +707,7 @@
 				<time itemprop="endDate" content="2025-11-11T01:55:00+02:00" datetime="2025-11-11T01:55:00+02:00">01.55</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">TV5</span></span>
 			</span>
 		</a><h3><a itemprop="name" href="/elama-pelissa/2025111023105" class="op" data-pid="2025111023105">Elämä pelissä</a> <a href="https://www.imdb.com/title/tt0878804/" target="_blank" class="program-imdb-link">IMDb 7.6</a></h3><a href="/elama-pelissa/2025111023105" class="op" data-pid="2025111023105">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Uskomaton tositarina alkapallotähdeksi tyhjyydestä nousseesta Michael Oherista. Teini-ikäinen Oher joutuu pärjäämään omillaan, käytännössä kodittomana, kunnes Leigh Anne Tuohy löytää hänet kadulta.</span></div>
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Uskomaton tositarina alkapallotähdeksi tyhjyydestä nousseesta Michael Oherista. Teini-ikäinen Oher joutuu pärjäämään omillaan, käytännössä kodittomana, kunnes Leigh Anne Tuohy löytää hänet kadulta. Kuultuaan, että nuorimies on perheen tyttären koulukaveri, Leigh Anne kutsuu - shortseissa ja t-paidassa sydäntalvella maleksivan - pojan kotiinsa lämmittelemään. Yksinkertaisesta hyväntahdon eleestä alkava ystävyys kasvaa kasvamistaan.</span></div>
 			</a><a href="/kanava/tv5" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/tv5.webp" media="(prefers-color-scheme: dark)">
 			<source srcset="/static/img/kanava/tv5.webp" media="(prefers-color-scheme: light)">
@@ -856,17 +756,17 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[The Santa Summit IMDb 6.8 (Päivän TV-elokuvat)]]></title>
-        <id>https://www.iltapulu.fi/the-santa-summit/20251111105074</id>
-        <link href="https://www.iltapulu.fi/the-santa-summit/20251111105074"/>
-        <updated>2025-11-09T05:42:59.058Z</updated>
-        <content type="html"><![CDATA[<div class="program-image"><a href="/the-santa-summit/20251111105074" class="op" data-pid="20251111105074">
+        <id>https://www.iltapulu.fi/the-santa-summit</id>
+        <link href="https://www.iltapulu.fi/the-santa-summit"/>
+        <updated>2025-11-07T05:44:27.081Z</updated>
+        <content type="html"><![CDATA[<div class="program-image"><a href="/the-santa-summit" class="op" data-pid="20251111105074">
 				<img src="https://www.iltapulu.fi/data/images/the-santa-summit-600.webp" alt="The Santa Summit" loading="lazy">
-			</a></div><div class="program-content"><a href="/the-santa-summit/20251111105074" class="op" data-pid="20251111105074">
+			</a></div><div class="program-content"><a href="/the-santa-summit" class="op" data-pid="20251111105074">
 			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
 				<time itemprop="startDate" content="2025-11-11T10:50:00+02:00" datetime="2025-11-11T10:50:00+02:00">10.50</time> - 
 				<time itemprop="endDate" content="2025-11-11T12:50:00+02:00" datetime="2025-11-11T12:50:00+02:00">12.50</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Frii</span></span>
 			</span>
-		</a><h3><a itemprop="name" href="/the-santa-summit/20251111105074" class="op" data-pid="20251111105074">The Santa Summit</a> <a href="https://www.imdb.com/title/tt29381717/" target="_blank" class="program-imdb-link">IMDb 6.8</a></h3><a href="/the-santa-summit/20251111105074" class="op" data-pid="20251111105074">
+		</a><h3><a itemprop="name" href="/the-santa-summit" class="op" data-pid="20251111105074">The Santa Summit</a> <a href="https://www.imdb.com/title/tt29381717/" target="_blank" class="program-imdb-link">IMDb 6.8</a></h3><a href="/the-santa-summit" class="op" data-pid="20251111105074">
 				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Joulupukki-aiheisessa joulutapahtumassa kolme opettajaa pääsee taas vauhtiin, vahvistaa ystävyyttään ja löytää matkan varrella yllättäen rakkauden.</span></div>
 			</a><a href="/kanava/frii" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/frii.webp" media="(prefers-color-scheme: dark)">
@@ -910,7 +810,7 @@
 				<time itemprop="endDate" content="2025-11-11T18:20:00+02:00" datetime="2025-11-11T18:20:00+02:00">18.20</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Frii</span></span>
 			</span>
 		</a><h3><a itemprop="name" href="/open-by-christmas" class="op" data-pid="20251111162574">Open By Christmas</a> <a href="https://www.imdb.com/title/tt15758400/" target="_blank" class="program-imdb-link">IMDb 6.8</a></h3><a href="/open-by-christmas" class="op" data-pid="20251111162574">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Nicky löytää avaamattoman joulukortin, joka on lukion salaiselta ihailijalta. Hän alkaa etsimään parhaan ystävänsä kanssa nimetöntä kirjoittajaa. 84 min. Ohjaus: David Weaver. Pääosissa: Alison Sweeney, Brennan Elliott ja Erica Durance.</span></div>
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Nicky löytää avaamattoman joulukortin, joka on lukion salaiselta ihailijalta. Hän alkaa etsimään parhaan ystävänsä Simonen kanssa nimetöntä kirjoittajaa kiittääkseen häntä.</span></div>
 			</a><a href="/kanava/frii" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/frii.webp" media="(prefers-color-scheme: dark)">
 			<source srcset="/static/img/kanava/frii.webp" media="(prefers-color-scheme: light)">
@@ -990,7 +890,7 @@
 				<time itemprop="endDate" content="2025-11-11T23:30:00+02:00" datetime="2025-11-11T23:30:00+02:00">23.30</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Kutonen</span></span>
 			</span>
 		</a><h3><a itemprop="name" href="/kylma-kosto/20251111210062" class="op" data-pid="20251111210062">Kylmä kosto</a> <a href="https://www.imdb.com/title/tt5719748/" target="_blank" class="program-imdb-link">IMDb 6.2</a></h3><a href="/kylma-kosto/20251111210062" class="op" data-pid="20251111210062">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Kehoen hiihtokeskuksen poliisit ovat saaneet viettää melko toimetonta elämää kunnes paikallisen lumiaurakuskin Nels Coxmanin poika murhataan.</span></div>
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Kalliovuorilla sijaitsevan Kehoen hiihtokeskuksen poliisit ovat saaneet viettää melko toimetonta elämää mutta tilanne muuttuu, kun paikallisen lumiaurakuskin Nels Coxmanin poika murhataan. Murhan taustalla on mahtaileva huumeparoni Viking. Raivon valtaamana Nels ryhtyy tuhoamaan kartellia mies kerrallaan. Ruumisluvun kasvaessa Nels aiheuttaa tietämättään reviirisodan Vikingin ja hänen pitkäaikaisimman kilpailijansa, White Bull -nimisen mafiapomon kanssa. Sodan, joka värjää Kehoen kirkaan valkoiset rinteet verenpunaisiksi.</span></div>
 			</a><a href="/kanava/kutonen" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/kutonen.webp" media="(prefers-color-scheme: dark)">
 			<source srcset="/static/img/kanava/kutonen.webp" media="(prefers-color-scheme: light)">
@@ -1038,19 +938,19 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Taken 2 IMDb 6,2 (Päivän TV-elokuvat)]]></title>
-        <id>https://www.iltapulu.fi/taken-2/2025111123008</id>
-        <link href="https://www.iltapulu.fi/taken-2/2025111123008"/>
-        <updated>2025-11-09T05:42:59.070Z</updated>
-        <content type="html"><![CDATA[<div class="program-image"><a href="/taken-2/2025111123008" class="op" data-pid="2025111123008">
-				<img src="https://www.iltapulu.fi/data/iltapulu/images/ve00142i8t.webp" alt="Taken 2" loading="lazy">
-			</a></div><div class="program-content"><a href="/taken-2/2025111123008" class="op" data-pid="2025111123008">
+        <title type="html"><![CDATA[Taken (2012) IMDb 6,2 (Päivän TV-elokuvat)]]></title>
+        <id>https://www.iltapulu.fi/taken-2012/2025111123008</id>
+        <link href="https://www.iltapulu.fi/taken-2012/2025111123008"/>
+        <updated>2025-11-09T17:40:46.130Z</updated>
+        <content type="html"><![CDATA[<div class="program-image"><a href="/taken-2012/2025111123008" class="op" data-pid="2025111123008">
+				<img src="https://www.iltapulu.fi/data/images/taken-2012-600.webp" alt="Taken (2012)" loading="lazy">
+			</a></div><div class="program-content"><a href="/taken-2012/2025111123008" class="op" data-pid="2025111123008">
 			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
 				<time itemprop="startDate" content="2025-11-11T23:00:00+02:00" datetime="2025-11-11T23:00:00+02:00">23.00</time> - 
-				<time itemprop="endDate" content="2025-11-12T00:00:00+02:00" datetime="2025-11-12T00:00:00+02:00">00.00</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">STAR Channel</span></span>
+				<time itemprop="endDate" content="2025-11-12T00:50:00+02:00" datetime="2025-11-12T00:50:00+02:00">00.50</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">STAR Channel</span></span>
 			</span>
-		</a><h3><a itemprop="name" href="/taken-2/2025111123008" class="op" data-pid="2025111123008">Taken 2</a> <a href="https://www.imdb.com/title/tt1397280/" target="_blank" class="program-imdb-link">IMDb 6,2</a></h3><a href="/taken-2/2025111123008" class="op" data-pid="2025111123008">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Elokuva: Taken 2: 2012. O: Olivier Megaton. P: Liam Neeson, Maggie Grace, Famke Janssen. Liam Neeson palaa ex-vakooja Bryan Millsin rooliin jännityselokuvasarjan jatko-osassa! Bryan vaimoineen siepataan Istanbulissa, ja hänen täytyy kääntyä yllättävän liittolaisen puoleen selvitäkseen hengissä ja käyttää jälleen erityisosaamistaan päihittääkseen sieppaajansa.</span></div>
+		</a><h3><a itemprop="name" href="/taken-2012/2025111123008" class="op" data-pid="2025111123008">Taken (2012)</a> <a href="https://www.imdb.com/title/tt1397280/" target="_blank" class="program-imdb-link">IMDb 6,2</a></h3><a href="/taken-2012/2025111123008" class="op" data-pid="2025111123008">
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">2012. O: Olivier Megaton. P: Liam Neeson, Maggie Grace, Famke Janssen. Liam Neeson palaa ex-vakooja Bryan Millsin rooliin jännityselokuvasarjan jatko-osassa! Bryan vaimoineen siepataan Istanbulissa, ja hänen täytyy kääntyä yllättävän liittolaisen puoleen selvitäkseen hengissä ja käyttää jälleen erityisosaamistaan päihittääkseen sieppaajansa.</span></div>
 			</a><a href="/kanava/star-channel" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/fox.webp" media="(prefers-color-scheme: dark)">
 			<source srcset="/static/img/kanava/fox.webp" media="(prefers-color-scheme: light)">
@@ -1110,7 +1010,7 @@
 				<time itemprop="endDate" content="2025-11-12T10:20:00+02:00" datetime="2025-11-12T10:20:00+02:00">10.20</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Frii</span></span>
 			</span>
 		</a><h3><a itemprop="name" href="/open-by-christmas/20251112083074" class="op" data-pid="20251112083074">Open By Christmas</a> <a href="https://www.imdb.com/title/tt15758400/" target="_blank" class="program-imdb-link">IMDb 6.8</a></h3><a href="/open-by-christmas/20251112083074" class="op" data-pid="20251112083074">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Nicky löytää avaamattoman joulukortin, joka on lukion salaiselta ihailijalta. Hän alkaa etsimään parhaan ystävänsä kanssa nimetöntä kirjoittajaa. 84 min. Ohjaus: David Weaver. Pääosissa: Alison Sweeney, Brennan Elliott ja Erica Durance.</span></div>
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Nicky löytää avaamattoman joulukortin, joka on lukion salaiselta ihailijalta. Hän alkaa etsimään parhaan ystävänsä Simonen kanssa nimetöntä kirjoittajaa kiittääkseen häntä.</span></div>
 			</a><a href="/kanava/frii" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/frii.webp" media="(prefers-color-scheme: dark)">
 			<source srcset="/static/img/kanava/frii.webp" media="(prefers-color-scheme: light)">
@@ -1204,144 +1104,244 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gods of EgyptU (Leffat tänään)]]></title>
-        <id>https://www.telsu.fi/gods-of-egypt</id>
-        <link href="https://www.telsu.fi/gods-of-egypt"/>
-        <updated>2025-11-09T05:43:02.477Z</updated>
-        <content type="html"><![CDATA[<div class="h"><h2><b>Gods of Egypt</b><em class="re" title="Ohjelma on uusinta.">U</em></h2><div class="meta">tänään 07.00 - 09.05 <small>2h 5 min</small><img src="/ch/v_film_action.avif" class="chimg" rel="v_film_action" loading="lazy" alt="V film action" title="V film action"><div class="rate" rel="7"><span rel="1" class="ft-star2"></span><span rel="2" class="ft-star2"></span><span rel="3" class="ft-star2"></span><span rel="4" class="ft-star3"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a class="pic lightbox" href="/l/gods-of-egypt_16183229.avif" data-group="pics-16183229"><img src="/s/gods-of-egypt_16183229.avif" loading="lazy" alt="Gods of Egypt"></a><a class="pic lightbox" href="/l/gods-of-egypt_16183229_2.avif" data-group="pics-16183229"></a><a class="pic lightbox" href="/l/gods-of-egypt_16183229_3.avif" data-group="pics-16183229"></a><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>5.4</b><i></i></a><a href="#" data="https://www.youtube.com/embed/IJBnK2wNQSo?rel=0&amp;autohide=1&amp;autoplay=1&amp;modestbranding=1&amp;showinfo=0&amp;wmode=transparent" data-type="iframe" data-width="100%" data-height="100%" class="btn trl lightbox" title="Katso ohjelman esittelyvideo">Traileri<i></i></a></div>Pimeyden jumala Set hallitsee Egyptiä julmalla otteella ja pitää kansaa orjina. Varas Bek yrittää saada Horus-jumalan vapauttamaan maan. Amerikkalainen toiminta vuodelta 2016.<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16183229" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/gods-of-egypt" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
+        <title type="html"><![CDATA[Gangsterisota IMDb 7.7 (Päivän TV-elokuvat)]]></title>
+        <id>https://www.iltapulu.fi/gangsterisota</id>
+        <link href="https://www.iltapulu.fi/gangsterisota"/>
+        <updated>2025-11-09T17:40:46.148Z</updated>
+        <content type="html"><![CDATA[<div class="program-image"><a href="/gangsterisota" class="op" data-pid="2025111221005">
+				<img src="https://www.iltapulu.fi/data/images/gangsterisota-600.webp" alt="Gangsterisota" loading="lazy">
+			</a></div><div class="program-content"><a href="/gangsterisota" class="op" data-pid="2025111221005">
+			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
+				<time itemprop="startDate" content="2025-11-12T21:00:00+02:00" datetime="2025-11-12T21:00:00+02:00">21.00</time> - 
+				<time itemprop="endDate" content="2025-11-12T23:20:00+02:00" datetime="2025-11-12T23:20:00+02:00">23.20</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">TV5</span></span>
+			</span>
+		</a><h3><a itemprop="name" href="/gangsterisota" class="op" data-pid="2025111221005">Gangsterisota</a> <a href="https://www.imdb.com/title/tt0443706/" target="_blank" class="program-imdb-link">IMDb 7.7</a></h3><a href="/gangsterisota" class="op" data-pid="2025111221005">
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Gangsteripomo Mickey Cohen hallitsee Los Angelesin kaupunkia. Vuosi on 1949. Poliisipäällikkö Bill Parker antaa ylikonstaapeli John O'Maralle tehtäväksi ottaa oikeuden omiin käsiinsä.</span></div>
+			</a><a href="/kanava/tv5" class="channel-logo program-channel-logo"><picture>
+			<source srcset="/static/img/kanava-darktheme/tv5.webp" media="(prefers-color-scheme: dark)">
+			<source srcset="/static/img/kanava/tv5.webp" media="(prefers-color-scheme: light)">
+			<img src="/static/img/kanava/tv5.png" alt="TV5">
+			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Lose a Guy in 10 DaysU (Leffat tänään)]]></title>
-        <id>https://www.telsu.fi/how-to-lose-a-guy-in-10-days</id>
-        <link href="https://www.telsu.fi/how-to-lose-a-guy-in-10-days"/>
-        <updated>2025-11-09T05:43:02.478Z</updated>
-        <content type="html"><![CDATA[<div class="h"><h2><b>How to Lose a Guy in 10 Days</b><em class="re" title="Ohjelma on uusinta.">U</em></h2><div class="meta">tänään 07.00 - 08.55 <small>1h 55 min</small><img src="/ch/v_film_hits.avif" class="chimg" rel="v_film_hits" loading="lazy" alt="V film hits" title="V film hits"><div class="rate" rel="0"><span rel="1" class="ft-star1"></span><span rel="2" class="ft-star1"></span><span rel="3" class="ft-star1"></span><span rel="4" class="ft-star1"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a class="pic lightbox" href="/l/how-to-lose-a-guy-in-10-days_16183240.avif" data-group="pics-16183240"><img src="/s/how-to-lose-a-guy-in-10-days_16183240.avif" loading="lazy" alt="How to Lose a Guy in 10 Days"></a><a class="pic lightbox" href="/l/how-to-lose-a-guy-in-10-days_16183240_2.avif" data-group="pics-16183240"></a><a class="pic lightbox" href="/l/how-to-lose-a-guy-in-10-days_16183240_3.avif" data-group="pics-16183240"></a><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>6.4</b><i></i></a><a href="#" data="https://www.youtube.com/embed/2ZMGk_Ml1fc?rel=0&amp;autohide=1&amp;autoplay=1&amp;modestbranding=1&amp;showinfo=0&amp;wmode=transparent" data-type="iframe" data-width="100%" data-height="100%" class="btn trl lightbox" title="Katso ohjelman esittelyvideo">Traileri<i></i></a></div>Andie aikoo vietellä miehen kymmenessä päivässä ja kirjoittaa kaikista niistä tavoista, joilla naiset ajavat potentiaalisia kumppaneita pois. Mutta hän valitsee kohteekseen Benjaminin, joka on lyönyt vetoa, että hän voi saada kenet tahansa rakastumaan kymmenessä päivässä. Amerikkalainen romanttinen komedia vuodelta 2003.<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16183240" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/how-to-lose-a-guy-in-10-days" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
+        <title type="html"><![CDATA[Beck: Mahtimies IMDb 6,5 (Päivän TV-elokuvat)]]></title>
+        <id>https://www.iltapulu.fi/beck-mahtimies</id>
+        <link href="https://www.iltapulu.fi/beck-mahtimies"/>
+        <updated>2025-11-09T17:40:46.151Z</updated>
+        <content type="html"><![CDATA[<div class="program-image"><a href="/beck-mahtimies" class="op" data-pid="2025111221006">
+				<img src="https://www.iltapulu.fi/data/iltapulu/images/ve0024ooiu.webp" alt="Beck: Mahtimies" loading="lazy">
+			</a></div><div class="program-content"><a href="/beck-mahtimies" class="op" data-pid="2025111221006">
+			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
+				<time itemprop="startDate" content="2025-11-12T21:00:00+02:00" datetime="2025-11-12T21:00:00+02:00">21.00</time> - 
+				<time itemprop="endDate" content="2025-11-12T22:50:00+02:00" datetime="2025-11-12T22:50:00+02:00">22.50</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">MTV Sub</span></span>
+			</span>
+		</a><h3><a itemprop="name" href="/beck-mahtimies" class="op" data-pid="2025111221006">Beck: Mahtimies</a> <a href="https://www.imdb.com/title/tt0155536/" target="_blank" class="program-imdb-link">IMDb 6,5</a></h3><a href="/beck-mahtimies" class="op" data-pid="2025111221006">
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">(Beck – Undercover, Ruotsi 2020) Jengiläinen murhataan, ja Beckin ryhmän tutkinta viittaa huumeverkostoon. Alex ja muut saavat armosta tutkia samalla murhaa, mikä johtaa konflikteihin, kun Martin Beck tulee mukaan.</span></div>
+			</a><a href="/kanava/sub" class="channel-logo program-channel-logo"><picture>
+			<source srcset="/static/img/kanava-darktheme/sub.webp" media="(prefers-color-scheme: dark)">
+			<source srcset="/static/img/kanava/sub.webp" media="(prefers-color-scheme: light)">
+			<img src="/static/img/kanava/sub.png" alt="MTV Sub">
+			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Daddy's Home 2 (Leffat tänään)]]></title>
-        <id>https://www.telsu.fi/daddy's-home-2</id>
-        <link href="https://www.telsu.fi/daddy's-home-2"/>
-        <updated>2025-11-09T05:43:02.479Z</updated>
-        <content type="html"><![CDATA[<div class="h"><h2><b>Daddy's Home 2</b></h2><div class="meta">tänään 07.05 - 08.40 <small>1h 35 min</small><img src="/ch/mtv_viihde.avif" class="chimg" rel="mtv_viihde" loading="lazy" alt="MTV Viihde" title="MTV Viihde"><div class="rate" rel="8"><span rel="1" class="ft-star2"></span><span rel="2" class="ft-star2"></span><span rel="3" class="ft-star2"></span><span rel="4" class="ft-star2"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a class="pic lightbox" href="/l/daddys-home-2_16163821.avif" data-group="pics-16163821"><img src="/s/daddys-home-2_16163821.avif" loading="lazy" alt="Daddy's Home 2"></a><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>6.0</b><i></i></a><a href="#" data="https://www.youtube.com/embed/huaGQdrkrK0?rel=0&amp;autohide=1&amp;autoplay=1&amp;modestbranding=1&amp;showinfo=0&amp;wmode=transparent" data-type="iframe" data-width="100%" data-height="100%" class="btn trl lightbox" title="Katso ohjelman esittelyvideo">Traileri<i></i></a></div>Komedian "Daddy's Home" isät kokevat tosi sekopäisen joulun, kun perheet aikovat viettää juhlan yhdessä ja heidän omat isänsä tulevat vierailulle. Pääosissa: Will Ferrell, Mark Wahlberg, Linda Cardellini, John Lithgow, Mel Gibson. Ohjaus: Sean Anders. (Yhdysvallat, 2017)<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16163821" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/daddy's-home-2" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
+        <title type="html"><![CDATA[Place Beyond The Pines (Päivän TV-elokuvat)]]></title>
+        <id>https://www.iltapulu.fi/place-beyond-the-pines/202511122100106</id>
+        <link href="https://www.iltapulu.fi/place-beyond-the-pines/202511122100106"/>
+        <updated>2025-11-09T17:40:46.153Z</updated>
+        <content type="html"><![CDATA[<div class="program-image"><a href="/place-beyond-the-pines/202511122100106" class="op" data-pid="202511122100106">
+				<img src="https://www.iltapulu.fi/data/images/place-beyond-the-pines-600.webp" alt="Place Beyond The Pines" loading="lazy">
+			</a></div><div class="program-content"><a href="/place-beyond-the-pines/202511122100106" class="op" data-pid="202511122100106">
+			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
+				<time itemprop="startDate" content="2025-11-12T21:00:00+02:00" datetime="2025-11-12T21:00:00+02:00">21.00</time> - 
+				<time itemprop="endDate" content="2025-11-12T21:15:00+02:00" datetime="2025-11-12T21:15:00+02:00">21.15</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Eveo</span></span>
+			</span>
+		</a><h3><a itemprop="name" href="/place-beyond-the-pines/202511122100106" class="op" data-pid="202511122100106">Place Beyond The Pines</a></h3><a href="/place-beyond-the-pines/202511122100106" class="op" data-pid="202511122100106">
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Luke on määränpäätön uskalikko, joka kulkee kaupungista toiseen tekemässä stunt-performansseja moottoripyörällään. Matkalla hän kohtaa entisen rakastettunsa Rominan ja saa tietää tulleensa isäksi sillä aikaa, kun on keskittynyt maailman karnevaaleihin. Elättääkseen uuden perheensä Luke ryhtyy ryöstämään pankkeja, hyödyntäen poikkeuksellisia ajotaitojaan. (Kanava näkyy klo 20.30 jälkeen vain kaapeliverkossa)</span></div>
+			</a><a href="/kanava/eveo" class="channel-logo program-channel-logo"><picture>
+			<source srcset="/static/img/kanava-darktheme/eveo.webp" media="(prefers-color-scheme: dark)">
+			<source srcset="/static/img/kanava/eveo.webp" media="(prefers-color-scheme: light)">
+			<img src="/static/img/kanava/eveo.png" alt="Eveo">
+			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ein Weihnachtsbaum ist nicht genug! (Leffat tänään)]]></title>
-        <id>https://www.telsu.fi/ein-weihnachtsbaum-ist-nicht-genug!</id>
-        <link href="https://www.telsu.fi/ein-weihnachtsbaum-ist-nicht-genug!"/>
-        <updated>2025-11-09T05:43:02.481Z</updated>
-        <content type="html"><![CDATA[<div class="h"><h2><b>Ein Weihnachtsbaum ist nicht genug!</b></h2><div class="meta">tänään 07.10 - 08.55 <small>1h 45 min</small><img src="/ch/rtl.avif" class="chimg" rel="rtl" loading="lazy" alt="RTL" title="RTL"><div class="rate" rel="0"><span rel="1" class="ft-star1"></span><span rel="2" class="ft-star1"></span><span rel="3" class="ft-star1"></span><span rel="4" class="ft-star1"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>6.3</b><i></i></a></div>Olivia ist eine Baumexpertin. Sie muss dem Weihnachtsbaumzüchter Jack helfen, denn eine rätselhafte Krankheit hat seine Bäume befallen. Die Zeit drängt, denn Weihnachten steht bereits vor der Tür. Und während die beiden fieberhaft nach der Ursache der Krankheit und nach einer Lösung suchen, um den 100 Jahre alten Familienbetrieb zu retten, kommen sie sich immer näher, und zwischen Olivia und Jack wachsen romantische Gefühle. Kanada/Vereinigte Staaten 2021.<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16283512" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/ein-weihnachtsbaum-ist-nicht-genug!" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
+        <title type="html"><![CDATA[Father Figures IMDb 5.5 (Päivän TV-elokuvat)]]></title>
+        <id>https://www.iltapulu.fi/father-figures</id>
+        <link href="https://www.iltapulu.fi/father-figures"/>
+        <updated>2025-11-09T17:40:46.153Z</updated>
+        <content type="html"><![CDATA[<div class="program-image"><a href="/father-figures" class="op" data-pid="20251112210062">
+				<img src="https://www.iltapulu.fi/data/iltapulu/images/ve0022zbge.webp" alt="Father Figures" loading="lazy">
+			</a></div><div class="program-content"><a href="/father-figures" class="op" data-pid="20251112210062">
+			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
+				<time itemprop="startDate" content="2025-11-12T21:00:00+02:00" datetime="2025-11-12T21:00:00+02:00">21.00</time> - 
+				<time itemprop="endDate" content="2025-11-12T23:15:00+02:00" datetime="2025-11-12T23:15:00+02:00">23.15</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Kutonen</span></span>
+			</span>
+		</a><h3><a itemprop="name" href="/father-figures" class="op" data-pid="20251112210062">Father Figures</a> <a href="https://www.imdb.com/title/tt1966359/" target="_blank" class="program-imdb-link">IMDb 5.5</a></h3><a href="/father-figures" class="op" data-pid="20251112210062">
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Reynoldsin veljekset huomaavat ettei heidän isänsä olekaan niin kuollut kuin heidän äitinsä on antanut ymmärtää ja he lähtevät matkalle USA:n halki.</span></div>
+			</a><a href="/kanava/kutonen" class="channel-logo program-channel-logo"><picture>
+			<source srcset="/static/img/kanava-darktheme/kutonen.webp" media="(prefers-color-scheme: dark)">
+			<source srcset="/static/img/kanava/kutonen.webp" media="(prefers-color-scheme: light)">
+			<img src="/static/img/kanava/kutonen.png" alt="Kutonen">
+			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Från och med Herr Gunnar Papphammar (Leffat tänään)]]></title>
-        <id>https://www.telsu.fi/fr%C3%A5n-och-med-herr-gunnar-papphammar</id>
-        <link href="https://www.telsu.fi/fr%C3%A5n-och-med-herr-gunnar-papphammar"/>
-        <updated>2025-11-09T05:43:02.484Z</updated>
-        <content type="html"><![CDATA[<div class="h"><h2><b>Från och med Herr Gunnar Papphammar</b></h2><div class="meta">tänään 07.15 - 08.00 <small>45 min</small><img src="/ch/sfkanalen.avif" class="chimg" rel="sfkanalen" loading="lazy" alt="SF-Kanalen" title="SF-Kanalen"><div class="rate" rel="0"><span rel="1" class="ft-star1"></span><span rel="2" class="ft-star1"></span><span rel="3" class="ft-star1"></span><span rel="4" class="ft-star1"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a class="pic lightbox" href="/l/fran-och-med-herr-gunnar-papphammar_16163834.avif" data-group="pics-16163834"><img src="/s/fran-och-med-herr-gunnar-papphammar_16163834.avif" loading="lazy" alt="Från och med Herr Gunnar Papphammar"></a><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>6.4</b><i></i></a></div>Komediaklassikossa Gösta Ekman esittää Gunnar Papphammaria, miestä joka jatkuvasti joutuu sotkuisiin tilanteisiin. Pääosissa: Gösta Ekman. Ohjaus: Gösta Ekman. (Ruotsi, 1980)<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16163834" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/från-och-med-herr-gunnar-papphammar" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
+        <title type="html"><![CDATA[Ohjus IMDb 6,6 (Päivän TV-elokuvat)]]></title>
+        <id>https://www.iltapulu.fi/ohjus</id>
+        <link href="https://www.iltapulu.fi/ohjus"/>
+        <updated>2025-11-09T17:40:46.154Z</updated>
+        <content type="html"><![CDATA[<div class="program-image"><a href="/ohjus" class="op" data-pid="20251112211311">
+				<img src="https://www.iltapulu.fi/data/images/yle/ohjus-600.webp" alt="Ohjus" loading="lazy">
+			</a></div><div class="program-content"><a href="/ohjus" class="op" data-pid="20251112211311">
+			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
+				<time itemprop="startDate" content="2025-11-12T21:13:30+02:00" datetime="2025-11-12T21:13:30+02:00">21.13</time> - 
+				<time itemprop="endDate" content="2025-11-12T23:05:00+02:00" datetime="2025-11-12T23:05:00+02:00">23.05</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Yle Teema &amp; Fem</span></span>
+			</span>
+		</a><h3><a itemprop="name" href="/ohjus" class="op" data-pid="20251112211311">Ohjus</a> <a href="https://www.imdb.com/title/tt29266121/" target="_blank" class="program-imdb-link">IMDb 6,6</a></h3><a href="/ohjus" class="op" data-pid="20251112211311">
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Draamakomedia yksinhuoltaja Niinasta, joka saa uuden alun elämälleenpaikallislehden toimittajana - ja eteensä mahdollisen jymyjutunneuvostoliittolaisen ohjuksen syöksyttyä Inarinjärveen 1984. (Suomi 2024) Kuvailutulkattu</span></div>
+			</a><a href="/kanava/yle-teema-fem" class="channel-logo program-channel-logo"><picture>
+			<source srcset="/static/img/kanava-darktheme/yle_teema_fem.webp" media="(prefers-color-scheme: dark)">
+			<source srcset="/static/img/kanava/yle_teema_fem.webp" media="(prefers-color-scheme: light)">
+			<img src="/static/img/kanava/yle_teema_fem.png" alt="Yle Teema &amp; Fem">
+			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[One chance (Leffat tänään)]]></title>
-        <id>https://www.telsu.fi/one-chance</id>
-        <link href="https://www.telsu.fi/one-chance"/>
-        <updated>2025-11-09T05:43:02.485Z</updated>
-        <content type="html"><![CDATA[<div class="h"><h2><b>One chance</b></h2><div class="meta">tänään 07.45 - 09.25 <small>1h 40 min</small><img src="/ch/mtv_aitio.avif" class="chimg" rel="mtv_aitio" loading="lazy" alt="MTV Aitio" title="MTV Aitio"><div class="rate" rel="0"><span rel="1" class="ft-star1"></span><span rel="2" class="ft-star1"></span><span rel="3" class="ft-star1"></span><span rel="4" class="ft-star1"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a class="pic lightbox" href="/l/one-chance_16202683.avif" data-group="pics-16202683"><img src="/s/one-chance_16202683.avif" loading="lazy" alt="One chance"></a><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>6.8</b><i></i></a></div>Ujo kännykkämyyjä Paul Potts löi koko Iso-Britannian – ja maailman – ällikällä osallistuttuaan brittiläiseen kykykilpailuun ja osoitettuaan olevansa huikea oopperalaulaja. Pääosissa: James Corden, Alexandra Roach, Julie Walters, Colm Meaney, Mackenzie Crook. Ohjaus: David Frankel. (One Chance, Yhdysvallat, 2013)<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16202683" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/one-chance" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
+        <title type="html"><![CDATA[Fyra År TillU (Leffat tänään)]]></title>
+        <id>https://www.telsu.fi/fyra-%C3%A5r-till</id>
+        <link href="https://www.telsu.fi/fyra-%C3%A5r-till"/>
+        <updated>2025-11-09T17:40:49.350Z</updated>
+        <content type="html"><![CDATA[<div class="h"><h2><b>Fyra År Till</b><em class="re" title="Ohjelma on uusinta.">U</em></h2><div class="meta">tänään 19.00 - 20.25 <small>1h 25 min</small><img src="/ch/sfkanalen.avif" class="chimg" rel="sfkanalen" loading="lazy" alt="SF-Kanalen" title="SF-Kanalen"><div class="rate" rel="0"><span rel="1" class="ft-star1"></span><span rel="2" class="ft-star1"></span><span rel="3" class="ft-star1"></span><span rel="4" class="ft-star1"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a class="pic lightbox" href="/l/fyra-ar-till_16163841.avif" data-group="pics-16163841"><img src="/s/fyra-ar-till_16163841.avif" loading="lazy" alt="Fyra År Till"></a><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>6.3</b><i></i></a><a href="#" data="https://www.youtube.com/embed/PvedXm2a9uI?rel=0&amp;autohide=1&amp;autoplay=1&amp;modestbranding=1&amp;showinfo=0&amp;wmode=transparent" data-type="iframe" data-width="100%" data-height="100%" class="btn trl lightbox" title="Katso ohjelman esittelyvideo">Traileri<i></i></a></div>Romanttinen komedia Kansanpuolueen johtajasta Davidista, joka rakastuu täysin väärään ihmiseen - Martiniin, valtiosihteeriin ja sosiaalidemokraattiin. Pääosissa: Björn Kjellman, Eric Ericson, Tova Magnusson, Sten Ljunggren. Ohjaus: Tova Magnusson. (Ruotsi, 2010)<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16163841" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/fyra-år-till" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bamse ja Noita-akan tytärU (Leffat tänään)]]></title>
-        <id>https://www.telsu.fi/bamse-ja-noita-akan-tyt%C3%A4r</id>
-        <link href="https://www.telsu.fi/bamse-ja-noita-akan-tyt%C3%A4r"/>
-        <updated>2025-11-09T05:43:02.487Z</updated>
-        <content type="html"><![CDATA[<div class="h"><h2><b>Bamse ja Noita-akan tytär</b><em class="re" title="Ohjelma on uusinta.">U</em></h2><div class="meta">tänään 08.00 - 09.02 <small>1h 2 min</small><img src="/ch/v_film_family.avif" class="chimg" rel="v_film_family" loading="lazy" alt="V film family" title="V film family"><div class="rate" rel="0"><span rel="1" class="ft-star1"></span><span rel="2" class="ft-star1"></span><span rel="3" class="ft-star1"></span><span rel="4" class="ft-star1"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a class="pic lightbox" href="/l/bamse-ja-noita-akan-tytar_16183254.avif" data-group="pics-16183254"><img src="/s/bamse-ja-noita-akan-tytar_16183254.avif" loading="lazy" alt="Bamse ja Noita-akan tytär"></a><a class="pic lightbox" href="/l/bamse-ja-noita-akan-tytar_16183254_2.avif" data-group="pics-16183254"></a><a class="pic lightbox" href="/l/bamse-ja-noita-akan-tytar_16183254_3.avif" data-group="pics-16183254"></a><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>6.0</b><i></i></a><a href="#" data="https://www.youtube.com/embed/d9FHkBYJS5k?rel=0&amp;autohide=1&amp;autoplay=1&amp;modestbranding=1&amp;showinfo=0&amp;wmode=transparent" data-type="iframe" data-width="100%" data-height="100%" class="btn trl lightbox" title="Katso ohjelman esittelyvideo">Traileri<i></i></a></div>Lotta on muuttanut yhdessä äitinsä Neilikan kanssa synkkään metsään aivan Bamsen ja tämän ystävien läheisyyteen. Lotta toivoo hartaasti saavansa kavereita, sillä ei ole helppoa olla noita-akan tytär. Ruotsalainen animaatio vuodelta 2016.<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16183254" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/bamse-ja-noita-akan-tytär" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
+        <title type="html"><![CDATA[Remember Me (Leffat tänään)]]></title>
+        <id>https://www.telsu.fi/remember-me</id>
+        <link href="https://www.telsu.fi/remember-me"/>
+        <updated>2025-11-09T17:40:49.356Z</updated>
+        <content type="html"><![CDATA[<div class="h"><h2><b>Remember Me</b></h2><div class="meta">tänään 19.05 - 21.00 <small>1h 55 min</small><img src="/ch/v_film_hits.avif" class="chimg" rel="v_film_hits" loading="lazy" alt="V film hits" title="V film hits"><div class="rate" rel="7"><span rel="1" class="ft-star2"></span><span rel="2" class="ft-star2"></span><span rel="3" class="ft-star2"></span><span rel="4" class="ft-star3"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a class="pic lightbox" href="/l/remember-me_16183246.avif" data-group="pics-16183246"><img src="/s/remember-me_16183246.avif" loading="lazy" alt="Remember Me"></a><a class="pic lightbox" href="/l/remember-me_16183246_2.avif" data-group="pics-16183246"></a><a class="pic lightbox" href="/l/remember-me_16183246_3.avif" data-group="pics-16183246"></a><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>7.1</b><i></i></a></div>Romanttinen draama suuria suruja kokeneista Tylerista ja Allysta, jotka saavat toisiltaan lohtua ja rakkautta. Mukana myös Pierce Brosnan ja Lena Olin. USA romanttinen draama 2010.<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16183246" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/remember-me" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Myös maan päälläU (Leffat tänään)]]></title>
-        <id>https://www.telsu.fi/my%C3%B6s-maan-p%C3%A4%C3%A4ll%C3%A4</id>
-        <link href="https://www.telsu.fi/my%C3%B6s-maan-p%C3%A4%C3%A4ll%C3%A4"/>
-        <updated>2025-11-09T05:43:02.488Z</updated>
-        <content type="html"><![CDATA[<div class="h"><h2><b>Myös maan päällä</b><em class="re" title="Ohjelma on uusinta.">U</em></h2><div class="meta">tänään 08.00 - 10.10 <small>2h 10 min</small><img src="/ch/sfkanalen.avif" class="chimg" rel="sfkanalen" loading="lazy" alt="SF-Kanalen" title="SF-Kanalen"><div class="rate" rel="0"><span rel="1" class="ft-star1"></span><span rel="2" class="ft-star1"></span><span rel="3" class="ft-star1"></span><span rel="4" class="ft-star1"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a class="pic lightbox" href="/l/myos-maan-paalla_16163835.avif" data-group="pics-16163835"><img src="/s/myos-maan-paalla_16163835.avif" loading="lazy" alt="Myös maan päällä"></a><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>4.8</b><i></i></a><a href="#" data="https://www.youtube.com/embed/7M1phc8ys20?rel=0&amp;autohide=1&amp;autoplay=1&amp;modestbranding=1&amp;showinfo=0&amp;wmode=transparent" data-type="iframe" data-width="100%" data-height="100%" class="btn trl lightbox" title="Katso ohjelman esittelyvideo">Traileri<i></i></a></div>Jatko-osassa yhdelle ruotsalaisen elokuvan suurimmista menestystarinoista tapaamme uudelleen norlantilaisen Ljusåkerin kuoron ja sen lähipiirin. Pääosissa: Frida Hallgren, Niklas Falk, Lennart Jähkel, Ylva Lööf. Ohjaus: Kay Pollak. (Så ock på jorden, Ruotsi, 2014)<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16163835" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/myös-maan-päällä" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
+        <title type="html"><![CDATA[Holiday Crashers (Leffat tänään)]]></title>
+        <id>https://www.telsu.fi/holiday-crashers</id>
+        <link href="https://www.telsu.fi/holiday-crashers"/>
+        <updated>2025-11-09T17:40:49.357Z</updated>
+        <content type="html"><![CDATA[<div class="h"><h2><b>Holiday Crashers</b></h2><div class="meta">tänään 19.10 - 21.00 <small>1h 50 min</small><img src="/ch/frii.avif" class="chimg" rel="frii" loading="lazy" alt="Frii" title="Frii"><div class="rate" rel="8"><span rel="1" class="ft-star2"></span><span rel="2" class="ft-star2"></span><span rel="3" class="ft-star2"></span><span rel="4" class="ft-star2"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a class="pic lightbox" href="/l/holiday-crashers_16126511.avif" data-group="pics-16141087"><img src="/s/holiday-crashers_16126511.avif" loading="lazy" alt="Holiday Crashers"></a><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>6.3</b><i></i></a><a href="#" data="https://www.youtube.com/embed/Fj-ZH-opWOo?rel=0&amp;autohide=1&amp;autoplay=1&amp;modestbranding=1&amp;showinfo=0&amp;wmode=transparent" data-type="iframe" data-width="100%" data-height="100%" class="btn trl lightbox" title="Katso ohjelman esittelyvideo">Traileri<i></i></a></div>Parhaat ystävykset kuokkivat joulujuhliin uuden identiteettiensä kanssa ja löytävät yllättäen rakkauden ja tarkoituksen elämälleen. Pääosissa: Lyndsy Fonseca, Daniella Monet, Chris McNally. Ohjaus: Michael Robinson. (Yhdysvallat, 2024)<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16141087" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/holiday-crashers" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Der Kronprinz (Leffat tänään)]]></title>
-        <id>https://www.telsu.fi/der-kronprinz</id>
-        <link href="https://www.telsu.fi/der-kronprinz"/>
-        <updated>2025-11-09T05:43:02.489Z</updated>
-        <content type="html"><![CDATA[<div class="h"><h2><b>Der Kronprinz</b></h2><div class="meta">tänään 08.10 - 09.40 <small>1h 30 min</small><img src="/ch/das_erste.avif" class="chimg" rel="das_erste" loading="lazy" alt="Das Erste" title="Das Erste"><div class="rate" rel="0"><span rel="1" class="ft-star1"></span><span rel="2" class="ft-star1"></span><span rel="3" class="ft-star1"></span><span rel="4" class="ft-star1"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>6.9</b><i></i></a></div>Prinz Karel weigert sich zu akzeptieren, dass es sein älterer Bruder Jan ist, der Gesetz und Tradition entsprechend, der Thronnachfolger ist. Er stiehlt einen Zaubertrank aus der Verbotenen Kammer, der Prinz Jan , welcher ihn trinkt, seine Erinnerung verlieren und im Verwunschenen Wald verschwinden lässt, aus welchem es kein Zurück gibt. Es scheint, als ob nichts mehr zwischen Karel und dem Thron steht, aber, wie so oft, nehmen die Dinge einen anderen Lauf. Das witzige, mitreißende Märchen beruht auf einer soliden, klassischen Basis, sein Konzept ist sehr modern, voller überraschender Wendungen und mit einem charmanten Humor. Tschechien 2015.<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16290430" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/der-kronprinz" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
+        <title type="html"><![CDATA[The Last Letter from Your Lover (Leffat tänään)]]></title>
+        <id>https://www.telsu.fi/the-last-letter-from-your-lover</id>
+        <link href="https://www.telsu.fi/the-last-letter-from-your-lover"/>
+        <updated>2025-11-09T17:40:49.359Z</updated>
+        <content type="html"><![CDATA[<div class="h"><h2><b>The Last Letter from Your Lover</b></h2><div class="meta">tänään 19.15 - 21.00 <small>1h 45 min</small><img src="/ch/mtv_viihde.avif" class="chimg" rel="mtv_viihde" loading="lazy" alt="MTV Viihde" title="MTV Viihde"><div class="rate" rel="6"><span rel="1" class="ft-star2"></span><span rel="2" class="ft-star2"></span><span rel="3" class="ft-star2"></span><span rel="4" class="ft-star1"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a class="pic lightbox" href="/l/the-last-letter-from-your-lover_16163828.avif" data-group="pics-16163828"><img src="/s/the-last-letter-from-your-lover_16163828.avif" loading="lazy" alt="The Last Letter from Your Lover"></a><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>6.7</b><i></i></a><a href="#" data="https://www.youtube.com/embed/U6GlMNGx-EQ?rel=0&amp;autohide=1&amp;autoplay=1&amp;modestbranding=1&amp;showinfo=0&amp;wmode=transparent" data-type="iframe" data-width="100%" data-height="100%" class="btn trl lightbox" title="Katso ohjelman esittelyvideo">Traileri<i></i></a></div>Romanttinen draama Jojo Moyesin bestsellerin pohjalta kahdesta eri aikakausien naisesta, jotka jäävät arvoituksellisten rakkauskirjeiden pauloihin. Pääosissa: Felicity Jones, Callum Turner, Joe Alwyn, Shailene Woodley, Nabhaan Rizwan. Ohjaus: Augustine Frizzell. (Iso-Britannia, 2021)<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16163828" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/the-last-letter-from-your-lover" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Veijarikopla ja Dynamiitti-Harry (Leffat tänään)]]></title>
-        <id>https://www.telsu.fi/veijarikopla-ja-dynamiitti-harry</id>
-        <link href="https://www.telsu.fi/veijarikopla-ja-dynamiitti-harry"/>
-        <updated>2025-11-09T05:43:02.491Z</updated>
-        <content type="html"><![CDATA[<div class="h"><h2><b>Veijarikopla ja Dynamiitti-Harry</b></h2><div class="meta">tänään 08.40 - 10.25 <small>1h 45 min</small><img src="/ch/mtv_viihde.avif" class="chimg" rel="mtv_viihde" loading="lazy" alt="MTV Viihde" title="MTV Viihde"><div class="rate" rel="0"><span rel="1" class="ft-star1"></span><span rel="2" class="ft-star1"></span><span rel="3" class="ft-star1"></span><span rel="4" class="ft-star1"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a class="pic lightbox" href="/l/veijarikopla-ja-dynamiitti-harry_16163822.avif" data-group="pics-16163822"><img src="/s/veijarikopla-ja-dynamiitti-harry_16163822.avif" loading="lazy" alt="Veijarikopla ja Dynamiitti-Harry"></a><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>6.2</b><i></i></a><a href="#" data="https://www.youtube.com/embed/sCBkyof-pKU?rel=0&amp;autohide=1&amp;autoplay=1&amp;modestbranding=1&amp;showinfo=0&amp;wmode=transparent" data-type="iframe" data-width="100%" data-height="100%" class="btn trl lightbox" title="Katso ohjelman esittelyvideo">Traileri<i></i></a></div>Sickan, Vanheden ja Rocky murtautuvat gangsteripomo Wall-Enbergille ja turvautuvat räjäytysekspertti Dynamiitti-Harryyn. Harmi vain että hänen tietonsa dynamiitista ovat aikansa eläneitä... Pääosissa: Gösta Ekman, Ulf Brunnberg, Björn Gustafson. Ohjaus: Mikael Ekman. (Jönssonligan och Dynamit-Harry, Ruotsi, 1982)<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16163822" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/veijarikopla-ja-dynamiitti-harry" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
+        <title type="html"><![CDATA[Batman Begins (Leffat tänään)]]></title>
+        <id>https://www.telsu.fi/batman-begins</id>
+        <link href="https://www.telsu.fi/batman-begins"/>
+        <updated>2025-11-09T17:40:49.360Z</updated>
+        <content type="html"><![CDATA[<div class="h"><h2><b>Batman Begins</b></h2><div class="meta">tänään 19.45 - 22.30 <small>2h 45 min</small><img src="/ch/kutonen.avif" class="chimg" rel="kutonen" loading="lazy" alt="Kutonen" title="Kutonen"><div class="rate" rel="8"><span rel="1" class="ft-star2"></span><span rel="2" class="ft-star2"></span><span rel="3" class="ft-star2"></span><span rel="4" class="ft-star2"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a class="pic lightbox" href="/l/batman-begins_16253581.avif" data-group="pics-16253581"><img src="/s/batman-begins_16253581.avif" loading="lazy" alt="Batman Begins"></a><a class="pic lightbox" href="/l/batman-begins_16253581_2.avif" data-group="pics-16253581"></a><a class="pic lightbox" href="/l/batman-begins_16253581_3.avif" data-group="pics-16253581"></a><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>8.2</b><i></i></a><a href="#" data="https://www.youtube.com/embed/neY2xVmOfUM?rel=0&amp;autohide=1&amp;autoplay=1&amp;modestbranding=1&amp;showinfo=0&amp;wmode=transparent" data-type="iframe" data-width="100%" data-height="100%" class="btn trl lightbox" title="Katso ohjelman esittelyvideo">Traileri<i></i></a></div>Rikkaiden vanhempiensa murhan jälkeen Bruce Wayne lähtee matkustamaan ympäri maailmaa oppiakseen taistelemaan epäoikeudenmukaisuutta vastaan. Hän palaa Gothamiin ja paljastaa alter egonsa Batmanin, naamiosankarin, joka puolustaa kaupunkia. Pääosissa: Christian Bale, Michael Caine, Liam Neeson. Ohjaus: Christopher Nolan. (Yhdysvallat, 2005)<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16253581" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/batman-begins" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A '90s Christmas - Eine weihnachtliche Zeitreise (Leffat tänään)]]></title>
-        <id>https://www.telsu.fi/a-'90s-christmas-eine-weihnachtliche-zeitreise</id>
-        <link href="https://www.telsu.fi/a-'90s-christmas-eine-weihnachtliche-zeitreise"/>
-        <updated>2025-11-09T05:43:02.492Z</updated>
-        <content type="html"><![CDATA[<div class="h"><h2 title="A '90s Christmas - Eine weihnachtliche Zeitreise"><b>A '90s Christmas - Eine weihnachtliche Zeitreise</b></h2><div class="meta">tänään 08.55 - 10.30 <small>1h 35 min</small><img src="/ch/rtl.avif" class="chimg" rel="rtl" loading="lazy" alt="RTL" title="RTL"><div class="rate" rel="0"><span rel="1" class="ft-star1"></span><span rel="2" class="ft-star1"></span><span rel="3" class="ft-star1"></span><span rel="4" class="ft-star1"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>6.0</b><i></i></a></div>Eine arbeitssüchtige Anwältin feiert an Heiligabend allein ihre Beförderung, als sie durch eine mysteriöse Mitfahrgelegenheit ins Jahr 1999 zurückversetzt wird. Diese unerwartete Zeitreise bringt sie in Kontakt mit ihrer Vergangenheit und zwingt sie, sich mit früheren Entscheidungen auseinanderzusetzen. Die Erfahrung könnte ihr Leben nachhaltig verändern. Vereinigte Staaten 2024.<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16290465" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/a-'90s-christmas-eine-weihnachtliche-zeitreise" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
+        <title type="html"><![CDATA[Näin koulutat lohikäärmeesi (Leffat tänään)]]></title>
+        <id>https://www.telsu.fi/n%C3%A4in-koulutat-lohik%C3%A4%C3%A4rmeesi</id>
+        <link href="https://www.telsu.fi/n%C3%A4in-koulutat-lohik%C3%A4%C3%A4rmeesi"/>
+        <updated>2025-11-09T17:40:49.362Z</updated>
+        <content type="html"><![CDATA[<div class="h"><h2><b>Näin koulutat lohikäärmeesi</b></h2><div class="meta">tänään 20.00 - 21.33 <small>1h 33 min</small><img src="/ch/v_film_family.avif" class="chimg" rel="v_film_family" loading="lazy" alt="V film family" title="V film family"><div class="rate" rel="8"><span rel="1" class="ft-star2"></span><span rel="2" class="ft-star2"></span><span rel="3" class="ft-star2"></span><span rel="4" class="ft-star2"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a class="pic lightbox" href="/l/nain-koulutat-lohikaarmeesi_16183260.avif" data-group="pics-16183260"><img src="/s/nain-koulutat-lohikaarmeesi_16183260.avif" loading="lazy" alt="Näin koulutat lohikäärmeesi"></a><a class="pic lightbox" href="/l/nain-koulutat-lohikaarmeesi_16183260_2.avif" data-group="pics-16183260"></a><a class="pic lightbox" href="/l/nain-koulutat-lohikaarmeesi_16183260_3.avif" data-group="pics-16183260"></a><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>8.1</b><i></i></a></div>Tarina keskittyy viikinkiteinipoikaan, joka asuu Öystilän saarella, jossa taistelu lohikäärmeitä vastaan on suorastaan elämäntapa. Päästäkseen heimonsa täysivaltaiseksi jäseneksi pojalla on vain yksi tilaisuus todistaa kelpoisuutensa heimolleen ja isälleen. Amerikkalainen animaatio vuodelta 2010.<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16183260" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/näin-koulutat-lohikäärmeesi" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Call Me By Your NameU (Leffat tänään)]]></title>
-        <id>https://www.telsu.fi/call-me-by-your-name</id>
-        <link href="https://www.telsu.fi/call-me-by-your-name"/>
-        <updated>2025-11-09T05:43:02.494Z</updated>
-        <content type="html"><![CDATA[<div class="h"><h2><b>Call Me By Your Name</b><em class="re" title="Ohjelma on uusinta.">U</em></h2><div class="meta">tänään 08.55 - 11.05 <small>2h 10 min</small><img src="/ch/v_film_hits.avif" class="chimg" rel="v_film_hits" loading="lazy" alt="V film hits" title="V film hits"><div class="rate" rel="6"><span rel="1" class="ft-star2"></span><span rel="2" class="ft-star2"></span><span rel="3" class="ft-star2"></span><span rel="4" class="ft-star1"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a class="pic lightbox" href="/l/call-me-by-your-name_16183241.avif" data-group="pics-16183241"><img src="/s/call-me-by-your-name_16183241.avif" loading="lazy" alt="Call Me By Your Name"></a><a class="pic lightbox" href="/l/call-me-by-your-name_16183241_2.avif" data-group="pics-16183241"></a><a class="pic lightbox" href="/l/call-me-by-your-name_16183241_3.avif" data-group="pics-16183241"></a><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>7.8</b><i></i></a></div>Elio on nuori opiskelija, joka tapaa karismaattisen Oliverin. Heidän suhteensa kehittyy hitaasti mutta varmasti unohtumattomassa ruoan, musiikin ja rakkauden täyttävässä kesässä. Romanttinen draama vuodelta 2017.<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16183241" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/call-me-by-your-name" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
+        <title type="html"><![CDATA[White Bird (Leffat tänään)]]></title>
+        <id>https://www.telsu.fi/white-bird</id>
+        <link href="https://www.telsu.fi/white-bird"/>
+        <updated>2025-11-09T17:40:49.363Z</updated>
+        <content type="html"><![CDATA[<div class="h"><h2><b>White Bird</b></h2><div class="meta">tänään 20.00 - 22.00 <small>2h 0 min</small><img src="/ch/v_film_premiere.avif" class="chimg" rel="v_film_premiere" loading="lazy" alt="V film premiere" title="V film premiere"><div class="rate" rel="0"><span rel="1" class="ft-star1"></span><span rel="2" class="ft-star1"></span><span rel="3" class="ft-star1"></span><span rel="4" class="ft-star1"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a class="pic lightbox" href="/l/white-bird_16183223.avif" data-group="pics-16183223"><img src="/s/white-bird_16183223.avif" loading="lazy" alt="White Bird"></a><a class="pic lightbox" href="/l/white-bird_16183223_2.avif" data-group="pics-16183223"></a><a class="pic lightbox" href="/l/white-bird_16183223_3.avif" data-group="pics-16183223"></a><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>7.3</b><i></i></a></div>White Bird kertoo Julianista, joka kiusasi Auggie Pullmania ja joutui erotetuksi koulustaan. Nyt hän kamppailee löytääkseen oman paikkansa. Apuun tulee hänen isoäitinsä, joka vihdoin paljastaa oman tarinansa rohkeudesta: Kun isoäiti on nuori tyttö natsien miehittämässä Ranskassa, eräs poika suojelee häntä hengenvaaralta. He löytävät ensirakkauden omassa maagisessa maailmassaan, samalla kun pojan äiti vaarantaa kaiken pitääkseen tytön turvassa. Amerikkalainen draama vuodelta 2023.<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16183223" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/white-bird" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BumblebeeU (Leffat tänään)]]></title>
-        <id>https://www.telsu.fi/bumblebee</id>
-        <link href="https://www.telsu.fi/bumblebee"/>
-        <updated>2025-11-09T05:43:02.495Z</updated>
-        <content type="html"><![CDATA[<div class="h"><h2><b>Bumblebee</b><em class="re" title="Ohjelma on uusinta.">U</em></h2><div class="meta">tänään 09.05 - 11.00 <small>1h 55 min</small><img src="/ch/v_film_action.avif" class="chimg" rel="v_film_action" loading="lazy" alt="V film action" title="V film action"><div class="rate" rel="8"><span rel="1" class="ft-star2"></span><span rel="2" class="ft-star2"></span><span rel="3" class="ft-star2"></span><span rel="4" class="ft-star2"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a class="pic lightbox" href="/l/bumblebee_16183230.avif" data-group="pics-16183230"><img src="/s/bumblebee_16183230.avif" loading="lazy" alt="Bumblebee"></a><a class="pic lightbox" href="/l/bumblebee_16183230_2.avif" data-group="pics-16183230"></a><a class="pic lightbox" href="/l/bumblebee_16183230_3.avif" data-group="pics-16183230"></a><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>6.7</b><i></i></a><a href="#" data="https://www.youtube.com/embed/lcwmDAYt22k?rel=0&amp;autohide=1&amp;autoplay=1&amp;modestbranding=1&amp;showinfo=0&amp;wmode=transparent" data-type="iframe" data-width="100%" data-height="100%" class="btn trl lightbox" title="Katso ohjelman esittelyvideo">Traileri<i></i></a></div>Cybertron on kukistunut. Bumblebeen matka sankariksi alkaa, kun Optimus Prime lähettää hänet puolustamaan Maata. Paikkaansa maailmassa etsivä teini-ikäinen Charlie Watson (Hailee Steinfeld) löytää taistelussa vaurioituneen ja kupla-Volkswageniksi naamioituneen robotin. Decepticonit jahtaavat jäljellä olevia autoboteja agentti Burnsin (John Cena) johtaman salaisen viraston avustamina. Bumblebee ja Charlie yhdistävät voimansa suojellakseen maailmaamme toiminnantäyteisessä koko perheen seikkailussa. Amerikkalainen toiminta vuodelta 2018.<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16183230" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/bumblebee" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
+        <title type="html"><![CDATA[Irralliset (Leffat tänään)]]></title>
+        <id>https://www.telsu.fi/irralliset</id>
+        <link href="https://www.telsu.fi/irralliset"/>
+        <updated>2025-11-09T17:40:49.365Z</updated>
+        <content type="html"><![CDATA[<div class="h"><h2><b>Irralliset</b></h2><div class="meta">tänään 20.25 - 22.00 <small>1h 35 min</small><img src="/ch/sfkanalen.avif" class="chimg" rel="sfkanalen" loading="lazy" alt="SF-Kanalen" title="SF-Kanalen"><div class="rate" rel="0"><span rel="1" class="ft-star1"></span><span rel="2" class="ft-star1"></span><span rel="3" class="ft-star1"></span><span rel="4" class="ft-star1"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a class="pic lightbox" href="/l/irralliset_16163842.avif" data-group="pics-16163842"><img src="/s/irralliset_16163842.avif" loading="lazy" alt="Irralliset"></a><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>6.2</b><i></i></a><a href="#" data="https://www.youtube.com/embed/pvpHqVXbIt8?rel=0&amp;autohide=1&amp;autoplay=1&amp;modestbranding=1&amp;showinfo=0&amp;wmode=transparent" data-type="iframe" data-width="100%" data-height="100%" class="btn trl lightbox" title="Katso ohjelman esittelyvideo">Traileri<i></i></a></div>Frank vaikuttaa ulospäin fiksulta ja aikuiselta. Hänellä on hyvä työ arvostetussa lakimiesfirmassa ja on jo kahdeksatta vuotta naimisissa kauniin Nennen kanssa. Pinnan alla hän on epävarma ja pelkää, että aikuismaailma huomaa sen. Pääosissa: Felix Herngren, Karin Bjurström, Mikael Persbrandt. Ohjaus: Felix Herngren, Fredrik Lindström. (Vuxna människor, Ruotsi, 1999)<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16163842" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/irralliset" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aline (Leffat tänään)]]></title>
-        <id>https://www.telsu.fi/aline</id>
-        <link href="https://www.telsu.fi/aline"/>
-        <updated>2025-11-08T17:41:07.269Z</updated>
-        <content type="html"><![CDATA[<div class="h"><h2><b>Aline</b></h2><div class="meta">tänään 09.25 - 11.25 <small>2h 0 min</small><img src="/ch/mtv_aitio.avif" class="chimg" rel="mtv_aitio" loading="lazy" alt="MTV Aitio" title="MTV Aitio"><div class="rate" rel="0"><span rel="1" class="ft-star1"></span><span rel="2" class="ft-star1"></span><span rel="3" class="ft-star1"></span><span rel="4" class="ft-star1"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a class="pic lightbox" href="/l/aline_16202684.avif" data-group="pics-16202684"><img src="/s/aline_16202684.avif" loading="lazy" alt="Aline"></a><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>5.9</b><i></i></a><a href="#" data="https://www.youtube.com/embed/sdJ2dk1S4bY?rel=0&amp;autohide=1&amp;autoplay=1&amp;modestbranding=1&amp;showinfo=0&amp;wmode=transparent" data-type="iframe" data-width="100%" data-height="100%" class="btn trl lightbox" title="Katso ohjelman esittelyvideo">Traileri<i></i></a></div>Musiikintäyteinen draama megatähti Celine Dionin elämän pohjalta Québecistä kotoisin olevasta lahjakkaasta nuoresta naisesta, josta tulee maailmanluokan artisti. Pääosissa: Valérie Lemercier, Sylvain Marcel, Danielle Fichaud, Roc LaFortune, Antoine Vézina. Ohjaus: Valérie Lemercier. (France, 2020)<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16202684" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/aline" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
+        <title type="html"><![CDATA[Kuinka kuolleita käsitellään16 (Leffat tänään)]]></title>
+        <id>https://www.telsu.fi/kuinka-kuolleita-k%C3%A4sitell%C3%A4%C3%A4n</id>
+        <link href="https://www.telsu.fi/kuinka-kuolleita-k%C3%A4sitell%C3%A4%C3%A4n"/>
+        <updated>2025-11-09T17:40:49.366Z</updated>
+        <content type="html"><![CDATA[<div class="h"><h2><b>Kuinka kuolleita käsitellään</b><em class="k16" title="Ohjelma on sallittu yli 16-vuotiaille.">16</em></h2><div class="meta">tänään 21.00 - 22.35 <small>1h 35 min</small><img src="/ch/ylefem.avif" class="chimg" rel="ylefem" loading="lazy" alt="Yle Teema &amp; Fem" title="Yle Teema &amp; Fem"><div class="rate" rel="5"><span rel="1" class="ft-star2"></span><span rel="2" class="ft-star2"></span><span rel="3" class="ft-star3"></span><span rel="4" class="ft-star1"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a class="pic lightbox" href="/l/kuinka-kuolleita-kasitellaan_16164107.avif" data-group="pics-16164107"><img src="/s/kuinka-kuolleita-kasitellaan_16164107.avif" loading="lazy" alt="Kuinka kuolleita käsitellään"></a><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>5.3</b><i></i></a><a href="#" data="https://www.youtube.com/embed/8JkESSeI0Tk?rel=0&amp;autohide=1&amp;autoplay=1&amp;modestbranding=1&amp;showinfo=0&amp;wmode=transparent" data-type="iframe" data-width="100%" data-height="100%" class="btn trl lightbox" title="Katso ohjelman esittelyvideo">Traileri<i></i></a></div>Kuumana kesäpäivänä Oslossa vainajat heräävät henkiin. Kun perheen äiti menehtyy auto-onnettomuudessa, perhe joutuu kohtaamaan paitsi kuoleman myös kuolleista heräämisen. Iäkäs nainen tapaa äskettäin hautaamansa rakkaan. Isoisä yrittää saada lapsenlapsensa takaisin. Elokuva perustuu John Ajvide Lindqvistin samannimiseen romaaniin. Ohjaaja: Thea Hvistendahl. Rooleissa: Renate Reinsve, Anders Danielsen Lie, Björn Sundqvist. (Håndtering av udøde, Norja 2024)<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" class="str" title="Katso ohjelma netissä">Katso</a><a href="#" data="/x_share?id=16164107" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/kuinka-kuolleita-käsitellään" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Der Bär ist los! Die Geschichte von Bruno (Leffat tänään)]]></title>
-        <id>https://www.telsu.fi/der-b%C3%A4r-ist-los!-die-geschichte-von-bruno</id>
-        <link href="https://www.telsu.fi/der-b%C3%A4r-ist-los!-die-geschichte-von-bruno"/>
-        <updated>2025-11-09T05:43:02.498Z</updated>
-        <content type="html"><![CDATA[<div class="h"><h2 title="Der Bär ist los! Die Geschichte von Bruno"><b>Der Bär ist los! Die Geschichte von Bruno</b></h2><div class="meta">tänään 09.45 - 11.15 <small>1h 30 min</small><img src="/ch/3sat.avif" class="chimg" rel="3sat" loading="lazy" alt="3sat" title="3sat"><div class="rate" rel="0"><span rel="1" class="ft-star1"></span><span rel="2" class="ft-star1"></span><span rel="3" class="ft-star1"></span><span rel="4" class="ft-star1"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>4.9</b><i></i></a></div>Tirol und Bayern sind in Aufruhr. Braunbär Bruno geht um. Tierschützerin Linde reist an, um Brunos Abschuss zu verhindern. Zoodirektor Konrad verfolgt Bruno um ihn seiner brunftigen Bärin Cilli zuzuführen und seinen Zoo vor dem Bankrott zu bewahren. Bärenjäger Hubert soll Bruno fangen um ihn nach Italien abzuschieben. Finnische Bärenhunde, die Jägerschaft von Tirol und Bayern, Politik und Medien beiderseits der Grenze - alle wollen Bruno. Österreich/Deutschland 2009.<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16290589" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/der-bär-ist-los!-die-geschichte-von-bruno" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
+        <title type="html"><![CDATA[Kummeli V (Leffat tänään)]]></title>
+        <id>https://www.telsu.fi/kummeli-v</id>
+        <link href="https://www.telsu.fi/kummeli-v"/>
+        <updated>2025-11-09T17:40:49.369Z</updated>
+        <content type="html"><![CDATA[<div class="h"><h2><b>Kummeli V</b></h2><div class="meta">tänään 21.00 - 23.05 <small>2h 5 min</small><img src="/ch/mtv_ava.avif" class="chimg" rel="mtv_ava" loading="lazy" alt="AVA" title="AVA"><div class="rate" rel="7"><span rel="1" class="ft-star2"></span><span rel="2" class="ft-star2"></span><span rel="3" class="ft-star2"></span><span rel="4" class="ft-star3"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a class="pic lightbox" href="/l/kummeli-v_16111165.avif" data-group="pics-16111165"><img src="/s/kummeli-v_16111165.avif" loading="lazy" alt="Kummeli V"></a><a class="pic lightbox" href="/l/kummeli-v_16111165_2.avif" data-group="pics-16111165"></a><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>4.7</b><i></i></a><a href="#" data="https://www.youtube.com/embed/WsVWItZflcg?rel=0&amp;autohide=1&amp;autoplay=1&amp;modestbranding=1&amp;showinfo=0&amp;wmode=transparent" data-type="iframe" data-width="100%" data-height="100%" class="btn trl lightbox" title="Katso ohjelman esittelyvideo">Traileri<i></i></a></div>Kummeli V -elokuvassa on neljä tarinaa, jotka nivoutuvat toisiinsa. Ensimmäisessä tarinassa ex–basisti Tomi tekee virheen. Hän kutsuu vanhan bändikaverinsa, rumputaiteilija Monkki Mähösen, remontoimaan vaimonsa kesähuvilaa. Tarina alkaa saada kauhuelokuvamaisia piirteitä, kun Monkki ja talon emäntä Stina ajautuvat törmäyskurssille. Toisessa  wannabe-moottoripyöräjengiä ja sen johtajaa, Jounia, nöy Pääosissa: Timo Kahilainen, Heikki Vihinen, Heikki Silvennoinen, Heikki Hela, Kaisa Hela. Ohjaus: Aleksi Mäkelä. (Kummeli V, 2014)<div></div><a href="https://www.suomi24.fi/viihde/tag/kummeli+v" target="_blank" class="btn s24" title="Lue S24 Viihteen artikkeli">Lue juttu<i></i></a></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16111165" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/kummeli-v" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Itse ilkimys 2U (Leffat tänään)]]></title>
-        <id>https://www.telsu.fi/itse-ilkimys-2</id>
-        <link href="https://www.telsu.fi/itse-ilkimys-2"/>
-        <updated>2025-11-09T05:43:02.499Z</updated>
-        <content type="html"><![CDATA[<div class="h"><h2><b>Itse ilkimys 2</b><em class="re" title="Ohjelma on uusinta.">U</em></h2><div class="meta">tänään 10.00 - 11.38 <small>1h 38 min</small><img src="/ch/v_film_family.avif" class="chimg" rel="v_film_family" loading="lazy" alt="V film family" title="V film family"><div class="rate" rel="6"><span rel="1" class="ft-star2"></span><span rel="2" class="ft-star2"></span><span rel="3" class="ft-star2"></span><span rel="4" class="ft-star1"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a class="pic lightbox" href="/l/itse-ilkimys-2_16183255.avif" data-group="pics-16183255"><img src="/s/itse-ilkimys-2_16183255.avif" loading="lazy" alt="Itse ilkimys 2"></a><a class="pic lightbox" href="/l/itse-ilkimys-2_16183255_2.avif" data-group="pics-16183255"></a><a class="pic lightbox" href="/l/itse-ilkimys-2_16183255_3.avif" data-group="pics-16183255"></a><a class="pic lightbox" href="/l/itse-ilkimys-2_16183255_4.avif" data-group="pics-16183255"></a><a class="pic lightbox" href="/l/itse-ilkimys-2_16183255_5.avif" data-group="pics-16183255"></a><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>7.3</b><i></i></a><a href="#" data="https://www.youtube.com/embed/yM9sKpQOuEw?rel=0&amp;autohide=1&amp;autoplay=1&amp;modestbranding=1&amp;showinfo=0&amp;wmode=transparent" data-type="iframe" data-width="100%" data-height="100%" class="btn trl lightbox" title="Katso ohjelman esittelyvideo">Traileri<i></i></a></div>Superkonna Gru on jättänyt rikollisen elämän taakseen ja omistautunut hoivaamaan kolmea suloista ottotytärtään. Leppoisa perhe-elämä saa kuitenkin vauhdikkaan käänteen, kun kuvaan astuu viehättävä agentti Lucy, joka on päättänyt värvätä yksinhuoltajaisän taisteluun uutta suurkelmiä vastaan. Amerikkalainen animaatio vuodelta 2013.<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16183255" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/itse-ilkimys-2" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
+        <title type="html"><![CDATA[Safe House (Leffat tänään)]]></title>
+        <id>https://www.telsu.fi/safe-house</id>
+        <link href="https://www.telsu.fi/safe-house"/>
+        <updated>2025-11-09T17:40:49.371Z</updated>
+        <content type="html"><![CDATA[<div class="h"><h2><b>Safe House</b></h2><div class="meta">tänään 21.00 - 23.05 <small>2h 5 min</small><img src="/ch/v_film_action.avif" class="chimg" rel="v_film_action" loading="lazy" alt="V film action" title="V film action"><div class="rate" rel="0"><span rel="1" class="ft-star1"></span><span rel="2" class="ft-star1"></span><span rel="3" class="ft-star1"></span><span rel="4" class="ft-star1"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a class="pic lightbox" href="/l/safe-house_16183236.avif" data-group="pics-16183236"><img src="/s/safe-house_16183236.avif" loading="lazy" alt="Safe House"></a><a class="pic lightbox" href="/l/safe-house_16183236_2.avif" data-group="pics-16183236"></a><a class="pic lightbox" href="/l/safe-house_16183236_3.avif" data-group="pics-16183236"></a><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>6.7</b><i></i></a><a href="#" data="https://www.youtube.com/embed/1IfQY4fNcnw?rel=0&amp;autohide=1&amp;autoplay=1&amp;modestbranding=1&amp;showinfo=0&amp;wmode=transparent" data-type="iframe" data-width="100%" data-height="100%" class="btn trl lightbox" title="Katso ohjelman esittelyvideo">Traileri<i></i></a></div>Entinen CIA-huippuammattilainen Tobin Frost on ollut kymmenen vuotta pakomatkalla. Hän on aiheuttanut korvaamatonta vahinkoa maalleen vaihtamalla salaisia tietoja Pohjois-Korean kanssa. Nyt hän on palannut salaisuuden kanssa. Frost passitetaan tutkintavankeuteen eteläafrikkalaiseen turvataloon, jonka uutena ja kunnianhimoisena vartijana on Matt Weston. Kun Frost tuodaan kuulusteltavaksi, palkkasoturit hyökkäävät taloon ja tuhoavat sen. Amerikkalainen toiminta vuodelta 2012.<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16183236" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/safe-house" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KarvinenU (Leffat tänään)]]></title>
-        <id>https://www.telsu.fi/karvinen</id>
-        <link href="https://www.telsu.fi/karvinen"/>
-        <updated>2025-11-09T05:43:02.502Z</updated>
-        <content type="html"><![CDATA[<div class="h"><h2><b>Karvinen</b><em class="re" title="Ohjelma on uusinta.">U</em></h2><div class="meta">tänään 10.00 - 11.45 <small>1h 45 min</small><img src="/ch/v_film_premiere.avif" class="chimg" rel="v_film_premiere" loading="lazy" alt="V film premiere" title="V film premiere"><div class="rate" rel="7"><span rel="1" class="ft-star2"></span><span rel="2" class="ft-star2"></span><span rel="3" class="ft-star2"></span><span rel="4" class="ft-star3"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a class="pic lightbox" href="/l/karvinen_16183218.avif" data-group="pics-16183218"><img src="/s/karvinen_16183218.avif" loading="lazy" alt="Karvinen"></a><a class="pic lightbox" href="/l/karvinen_16183218_2.avif" data-group="pics-16183218"></a><a class="pic lightbox" href="/l/karvinen_16183218_3.avif" data-group="pics-16183218"></a><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>5.7</b><i></i></a><a href="#" data="https://www.youtube.com/embed/S3XjsSvwSuU?rel=0&amp;autohide=1&amp;autoplay=1&amp;modestbranding=1&amp;showinfo=0&amp;wmode=transparent" data-type="iframe" data-width="100%" data-height="100%" class="btn trl lightbox" title="Katso ohjelman esittelyvideo">Traileri<i></i></a></div>Karvinen (äänenä Chris Pratt), maailmankuulu, maanantaita vihaava, lasagnea rakastava sisäkissa kohtaa villin ulkoseikkailun! Jälleennäkemisen jälkeen kauan kadoksissa olevan isänsä – rähjäisen katukissa Vikin kanssa (äänenä Samuel L. Jackson) – Karvinen ja hänen koiraystävänsä Osku jättävät täydellisen hemmotellun elämänsä ja lähtevät Vikin mukaan hilpeään, korkeiden panosten ryöstökeikkaan. Amerikkalainen animaatioelokuva vuodelta 2024.<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16183218" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/karvinen" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
+        <title type="html"><![CDATA[Taken 2 (Leffat tänään)]]></title>
+        <id>https://www.telsu.fi/taken-2</id>
+        <link href="https://www.telsu.fi/taken-2"/>
+        <updated>2025-11-09T17:40:49.373Z</updated>
+        <content type="html"><![CDATA[<div class="h"><h2><b>Taken 2</b></h2><div class="meta">tänään 21.00 - 22.55 <small>1h 55 min</small><img src="/ch/star.avif" class="chimg" rel="star" loading="lazy" alt="STAR Channel" title="STAR Channel"><div class="rate" rel="8"><span rel="1" class="ft-star2"></span><span rel="2" class="ft-star2"></span><span rel="3" class="ft-star2"></span><span rel="4" class="ft-star2"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a class="pic lightbox" href="/l/taken-2_13193731.avif" data-group="pics-16182641"><img src="/s/taken-2_13193731.avif" loading="lazy" alt="Taken 2"></a><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>6.2</b><i></i></a><a href="#" data="https://www.youtube.com/embed/U3T9PD5IGjI?rel=0&amp;autohide=1&amp;autoplay=1&amp;modestbranding=1&amp;showinfo=0&amp;wmode=transparent" data-type="iframe" data-width="100%" data-height="100%" class="btn trl lightbox" title="Katso ohjelman esittelyvideo">Traileri<i></i></a></div>2012. O: Olivier Megaton. P: Liam Neeson, Maggie Grace, Famke Janssen. Liam Neeson palaa ex-vakooja Bryan Millsin rooliin jännityselokuvasarjan jatko-osassa! Bryan vaimoineen siepataan Istanbulissa, ja hänen täytyy kääntyä yllättävän liittolaisen puoleen selvitäkseen hengissä ja käyttää jälleen erityisosaamistaan päihittääkseen sieppaajansa.<div></div><a href="https://www.suomi24.fi/viihde/tag/taken+2" target="_blank" class="btn s24" title="Lue S24 Viihteen artikkeli">Lue juttu<i></i></a></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16182641" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/taken-2" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mies, joka rakasti järjestystäU (Leffat tänään)]]></title>
-        <id>https://www.telsu.fi/mies-joka-rakasti-j%C3%A4rjestyst%C3%A4</id>
-        <link href="https://www.telsu.fi/mies-joka-rakasti-j%C3%A4rjestyst%C3%A4"/>
-        <updated>2025-11-09T05:43:02.504Z</updated>
-        <content type="html"><![CDATA[<div class="h"><h2><b>Mies, joka rakasti järjestystä</b><em class="re" title="Ohjelma on uusinta.">U</em></h2><div class="meta">tänään 10.10 - 12.00 <small>1h 50 min</small><img src="/ch/sfkanalen.avif" class="chimg" rel="sfkanalen" loading="lazy" alt="SF-Kanalen" title="SF-Kanalen"><div class="rate" rel="8"><span rel="1" class="ft-star2"></span><span rel="2" class="ft-star2"></span><span rel="3" class="ft-star2"></span><span rel="4" class="ft-star2"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a class="pic lightbox" href="/l/mies--joka-rakasti-jarjestysta_16163836.avif" data-group="pics-16163836"><img src="/s/mies--joka-rakasti-jarjestysta_16163836.avif" loading="lazy" alt="Mies, joka rakasti järjestystä"></a><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>7.7</b><i></i></a><a href="#" data="https://www.youtube.com/embed/qddeiTXxfGA?rel=0&amp;autohide=1&amp;autoplay=1&amp;modestbranding=1&amp;showinfo=0&amp;wmode=transparent" data-type="iframe" data-width="100%" data-height="100%" class="btn trl lightbox" title="Katso ohjelman esittelyvideo">Traileri<i></i></a></div>Ove, korttelin kärttyisä järjestysmies, saa uusia naapureita. Alkaa lämminhenkinen draamakomedia, Ruotsin kaikkien aikojen 3. suosituin elokuva. Pääosissa: Rolf Lassgård, Bahar Pars, Filip Berg, Ida Engvoll, Tobias Almborg. Ohjaus: Hannes Holm. (En man som heter Ove, Ruotsi, 2015)<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16163836" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/mies-joka-rakasti-järjestystä" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
+        <title type="html"><![CDATA[The Hurt Locker (Leffat tänään)]]></title>
+        <id>https://www.telsu.fi/the-hurt-locker</id>
+        <link href="https://www.telsu.fi/the-hurt-locker"/>
+        <updated>2025-11-09T17:40:49.376Z</updated>
+        <content type="html"><![CDATA[<div class="h"><h2><b>The Hurt Locker</b></h2><div class="meta">tänään 21.00 - 23.10 <small>2h 10 min</small><img src="/ch/v_film_hits.avif" class="chimg" rel="v_film_hits" loading="lazy" alt="V film hits" title="V film hits"><div class="rate" rel="8"><span rel="1" class="ft-star2"></span><span rel="2" class="ft-star2"></span><span rel="3" class="ft-star2"></span><span rel="4" class="ft-star2"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a class="pic lightbox" href="/l/the-hurt-locker_16183247.avif" data-group="pics-16183247"><img src="/s/the-hurt-locker_16183247.avif" loading="lazy" alt="The Hurt Locker"></a><a class="pic lightbox" href="/l/the-hurt-locker_16183247_2.avif" data-group="pics-16183247"></a><a class="pic lightbox" href="/l/the-hurt-locker_16183247_3.avif" data-group="pics-16183247"></a><a class="pic lightbox" href="/l/the-hurt-locker_16183247_4.avif" data-group="pics-16183247"></a><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>7.5</b><i></i></a><a href="#" data="https://www.youtube.com/embed/AIbFvqFYRT4?rel=0&amp;autohide=1&amp;autoplay=1&amp;modestbranding=1&amp;showinfo=0&amp;wmode=transparent" data-type="iframe" data-width="100%" data-height="100%" class="btn trl lightbox" title="Katso ohjelman esittelyvideo">Traileri<i></i></a></div>The Hurt Locker kertoo amerikkalaisesta pomminpurkuyksiköstä, jolla on yksi maailman vaarallisimmista töistä. Yksikön uusi komentaja on rämäpäinen humanistikyynikko William James. James kulkee virne naamallaan läpi sala-ampujien kyttäämien katujen kohti tikittäviä pommeja. Amerikkalainen toimintaelokuva vuodelta 2008.<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16183247" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/the-hurt-locker" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Seuramatkat 2 - hassunhauska hiihtolomaU (Leffat tänään)]]></title>
-        <id>https://www.telsu.fi/seuramatkat-2-hassunhauska-hiihtoloma</id>
-        <link href="https://www.telsu.fi/seuramatkat-2-hassunhauska-hiihtoloma"/>
-        <updated>2025-11-09T05:43:02.505Z</updated>
-        <content type="html"><![CDATA[<div class="h"><h2><b>Seuramatkat 2 - hassunhauska hiihtoloma</b><em class="re" title="Ohjelma on uusinta.">U</em></h2><div class="meta">tänään 10.25 - 11.55 <small>1h 30 min</small><img src="/ch/mtv_viihde.avif" class="chimg" rel="mtv_viihde" loading="lazy" alt="MTV Viihde" title="MTV Viihde"><div class="rate" rel="0"><span rel="1" class="ft-star1"></span><span rel="2" class="ft-star1"></span><span rel="3" class="ft-star1"></span><span rel="4" class="ft-star1"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a class="pic lightbox" href="/l/seuramatkat-2-hassunhauska-hiihtoloma_16163823.avif" data-group="pics-16163823"><img src="/s/seuramatkat-2-hassunhauska-hiihtoloma_16163823.avif" loading="lazy" alt="Seuramatkat 2 - hassunhauska hiihtoloma"></a><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>6.6</b><i></i></a><a href="#" data="https://www.youtube.com/embed/omUR5CQMg_k?rel=0&amp;autohide=1&amp;autoplay=1&amp;modestbranding=1&amp;showinfo=0&amp;wmode=transparent" data-type="iframe" data-width="100%" data-height="100%" class="btn trl lightbox" title="Katso ohjelman esittelyvideo">Traileri<i></i></a></div>Silmät auki rinteessä! Stig Helmer on taas matkalla, ja tällä kertaa hänellä on sukset jalassaan. Nyt Lasse Åberg kuvailee ruotsalaisten hiihtolomamatkailua. Elokuva on täynnä hauskoja ja hullunkurisia tilanteita, jotka saavat nauramaan. Pääosissa: Lasse Åberg, Jon Skolmen, Cecilia Walton. Ohjaus: Lasse Åberg, Peter Hald. (Sällskapsresan 2, Ruotsi, 1985)<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16163823" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/seuramatkat-2-hassunhauska-hiihtoloma" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
+        <title type="html"><![CDATA[The Marsh King's Daughter (Leffat tänään)]]></title>
+        <id>https://www.telsu.fi/the-marsh-king's-daughter</id>
+        <link href="https://www.telsu.fi/the-marsh-king's-daughter"/>
+        <updated>2025-11-09T17:40:49.377Z</updated>
+        <content type="html"><![CDATA[<div class="h"><h2><b>The Marsh King's Daughter</b></h2><div class="meta">tänään 21.00 - 22.45 <small>1h 45 min</small><img src="/ch/mtv_viihde.avif" class="chimg" rel="mtv_viihde" loading="lazy" alt="MTV Viihde" title="MTV Viihde"><div class="rate" rel="0"><span rel="1" class="ft-star1"></span><span rel="2" class="ft-star1"></span><span rel="3" class="ft-star1"></span><span rel="4" class="ft-star1"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a class="pic lightbox" href="/l/the-marsh-kings-daughter_16163829.avif" data-group="pics-16163829"><img src="/s/the-marsh-kings-daughter_16163829.avif" loading="lazy" alt="The Marsh King's Daughter"></a><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>5.9</b><i></i></a><a href="#" data="https://www.youtube.com/embed/FDnUVhLMqI0?rel=0&amp;autohide=1&amp;autoplay=1&amp;modestbranding=1&amp;showinfo=0&amp;wmode=transparent" data-type="iframe" data-width="100%" data-height="100%" class="btn trl lightbox" title="Katso ohjelman esittelyvideo">Traileri<i></i></a></div>Helena elää rauhaisaa elämää miehensä ja tyttärensä kanssa, mutta hänellä on synkkä ja salattu menneisyys. Hän on kasvanut Michiganin erämaassa isänsä kanssa, joka on vankilassa. Pääosissa: Daisy Ridley, Ben Mendelsohn, Garrett Hedlund, Brooklynn Prince, Gil Birmingham. Ohjaus: Neil Burger. (Yhdysvallat, 2023)<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16163829" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/the-marsh-king's-daughter" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Believe In Christmas - Eine Liebe im Weihnachtsland (Leffat tänään)]]></title>
-        <id>https://www.telsu.fi/believe-in-christmas-eine-liebe-im-weihnachtsland</id>
-        <link href="https://www.telsu.fi/believe-in-christmas-eine-liebe-im-weihnachtsland"/>
-        <updated>2025-11-09T05:43:02.507Z</updated>
-        <content type="html"><![CDATA[<div class="h"><h2 title="Believe In Christmas - Eine Liebe im Weihnachtsland"><b>Believe In Christmas - Eine Liebe im Weihnachtsland</b></h2><div class="meta">tänään 10.30 - 12.05 <small>1h 35 min</small><img src="/ch/rtl.avif" class="chimg" rel="rtl" loading="lazy" alt="RTL" title="RTL"><div class="rate" rel="0"><span rel="1" class="ft-star1"></span><span rel="2" class="ft-star1"></span><span rel="3" class="ft-star1"></span><span rel="4" class="ft-star1"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>6.1</b><i></i></a></div>Zwei beste Freunde machen sich auf den Weg ins Weihnachtsland, um eine Welt voller Hoffnung und Wunder zu erleben. Dort entdecken sie eine magische Umgebung, die von festlicher Freude und Zauber geprägt ist. Ihre Reise bringt sie an einen Ort, der die Schönheit und den Geist der Weihnachtszeit verkörpert. Kanada 2024.<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16290466" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/believe-in-christmas-eine-liebe-im-weihnachtsland" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
+        <title type="html"><![CDATA[Hevimpi reissu (Leffat tänään)]]></title>
+        <id>https://www.telsu.fi/hevimpi-reissu</id>
+        <link href="https://www.telsu.fi/hevimpi-reissu"/>
+        <updated>2025-11-09T17:40:49.379Z</updated>
+        <content type="html"><![CDATA[<div class="h"><h2><b>Hevimpi reissu</b></h2><div class="meta">tänään 21.05 - 23.10 <small>2h 5 min</small><img src="/ch/nelonen.avif" class="chimg" rel="nelonen" loading="lazy" alt="Nelonen" title="Nelonen"><div class="rate" rel="7"><span rel="1" class="ft-star2"></span><span rel="2" class="ft-star2"></span><span rel="3" class="ft-star2"></span><span rel="4" class="ft-star3"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a class="pic lightbox" href="/l/hevimpi-reissu.avif" data-group="pics-16242130"><img src="/s/hevimpi-reissu.avif" loading="lazy" alt="Hevimpi reissu"></a><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>6.0</b><i></i></a><a href="#" data="https://www.youtube.com/embed/vPkQhG3usCA?rel=0&amp;autohide=1&amp;autoplay=1&amp;modestbranding=1&amp;showinfo=0&amp;wmode=transparent" data-type="iframe" data-width="100%" data-height="100%" class="btn trl lightbox" title="Katso ohjelman esittelyvideo">Traileri<i></i></a></div>(Hevimpi reissu 2022). Hittikomedian jatko-osassa metallibändi Impaled Rektum karkaa vankilasta pelastaakseen kitaristinsa kotitilan. Ratkaisuna on lähteä Saksaan esiintymään Wacken Open Air -metallifestareille, mutta reissusta ei tule helppoa, kun perässä tulee kostoa janoava vanginvartija. Pääosissa: Johannes Holopainen, Max Ovaska, Chike Ohanwe, Samuli Jaskio, Anatole Taubman, Helén Vikstvedt. Ohjaus: Juuso Laatio, Jukka Vidgren.<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16242130" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/hevimpi-reissu" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Die Unfassbaren (Leffat tänään)]]></title>
+        <id>https://www.telsu.fi/die-unfassbaren</id>
+        <link href="https://www.telsu.fi/die-unfassbaren"/>
+        <updated>2025-11-09T17:40:49.380Z</updated>
+        <content type="html"><![CDATA[<div class="h"><h2><b>Die Unfassbaren</b></h2><div class="meta">tänään 21.15 - 23.30 <small>2h 15 min</small><img src="/ch/rtl2.avif" class="chimg" rel="rtl2" loading="lazy" alt="RTL II" title="RTL II"><div class="rate" rel="0"><span rel="1" class="ft-star1"></span><span rel="2" class="ft-star1"></span><span rel="3" class="ft-star1"></span><span rel="4" class="ft-star1"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>7.2</b><i></i></a></div>In Las Vegas treten vier Zauberkünstler in einer Show auf, in der die Zuschauer live mitverfolgen können, wie ein Tresor aufgebrochen wird. Da es sich um reale Diebstähle handelt, bei denen viel Geld gestohlen wird, setzt man das FBI auf den Fall an. Doch den Magiern kann nichts nachgewiesen werden. Ein Katz- und Maus-Spiel zwischen der Polizei und den Illusionisten beginnt. Vereinigte Staaten/Frankreich 2013.<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16291428" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/die-unfassbaren" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sully (Leffat tänään)]]></title>
+        <id>https://www.telsu.fi/sully</id>
+        <link href="https://www.telsu.fi/sully"/>
+        <updated>2025-11-09T17:40:49.381Z</updated>
+        <content type="html"><![CDATA[<div class="h"><h2><b>Sully</b></h2><div class="meta">tänään 21.15 - 22.45 <small>1h 30 min</small><img src="/ch/arte.avif" class="chimg" rel="arte" loading="lazy" alt="ARTE" title="ARTE"><div class="rate" rel="0"><span rel="1" class="ft-star1"></span><span rel="2" class="ft-star1"></span><span rel="3" class="ft-star1"></span><span rel="4" class="ft-star1"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>7.4</b><i></i></a></div>New York, am 15. Jänner 2009: Kurz nach dem Start von Flug 1549 fallen die Triebwerke des Airbus A320 wegen Vogelschlags aus. Der erfahrene Pilot Chesley 'Sully' Sullenberger entscheidet sich für eine riskante Notlandung im Hudson River und rettet so allen 155 Menschen an Bord das Leben. Während er als Held gefeiert wird, ermittelt die zuständige Behörde wegen menschlichen Versagens. Vereinigte Staaten 2016.<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16290635" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/sully" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elämä pelissä (Leffat tänään)]]></title>
+        <id>https://www.telsu.fi/el%C3%A4m%C3%A4-peliss%C3%A4</id>
+        <link href="https://www.telsu.fi/el%C3%A4m%C3%A4-peliss%C3%A4"/>
+        <updated>2025-11-09T17:40:49.383Z</updated>
+        <content type="html"><![CDATA[<div class="h"><h2><b>Elämä pelissä</b></h2><div class="meta">tänään 21.45 - 00.25 <small>2h 40 min</small><img src="/ch/viisi.avif" class="chimg" rel="viisi" loading="lazy" alt="TV5" title="TV5"><div class="rate" rel="8"><span rel="1" class="ft-star2"></span><span rel="2" class="ft-star2"></span><span rel="3" class="ft-star2"></span><span rel="4" class="ft-star2"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a class="pic lightbox" href="/l/elama-pelissa.avif" data-group="pics-16141038"><img src="/s/elama-pelissa.avif" loading="lazy" alt="Elämä pelissä"></a><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>7.6</b><i></i></a><a href="#" data="https://www.youtube.com/embed/gvqj_Tk_kuM?rel=0&amp;autohide=1&amp;autoplay=1&amp;modestbranding=1&amp;showinfo=0&amp;wmode=transparent" data-type="iframe" data-width="100%" data-height="100%" class="btn trl lightbox" title="Katso ohjelman esittelyvideo">Traileri<i></i></a></div>Uskomaton tositarina alkapallotähdeksi tyhjyydestä nousseesta Michael Oherista. Teini-ikäinen Oher joutuu pärjäämään omillaan, käytännössä kodittomana, kunnes Leigh Anne Tuohy löytää hänet kadulta. Kuultuaan, että nuorimies on perheen tyttären koulukaveri, Leigh Anne kutsuu - shortseissa ja t-paidassa sydäntalvella maleksivan - pojan kotiinsa lämmittelemään. Yksinkertaisesta hyväntahdon eleestä alkava ystävyys kasvaa kasvamistaan. Pääosissa: Sandra Bullock, Quinton Aaron, Tim McGraw. Ohjaus: John Lee Hancock. (Yhdysvallat, 2009)<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16141038" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/elämä-pelissä" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C'est mon homme (Leffat tänään)]]></title>
+        <id>https://www.telsu.fi/c'est-mon-homme</id>
+        <link href="https://www.telsu.fi/c'est-mon-homme"/>
+        <updated>2025-11-09T17:40:49.385Z</updated>
+        <content type="html"><![CDATA[<div class="h"><h2><b>C'est mon homme</b></h2><div class="meta">tänään 21.58 - 23.23 <small>1h 25 min</small><img src="/ch/tv5monde.avif" class="chimg" rel="tv5monde" loading="lazy" alt="TV5Monde" title="TV5Monde"><div class="rate" rel="0"><span rel="1" class="ft-star1"></span><span rel="2" class="ft-star1"></span><span rel="3" class="ft-star1"></span><span rel="4" class="ft-star1"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>5.7</b><i></i></a></div>Julie se morfond depuis la disparition de son mari Julien parti au front en 1914. N’arrivant pas à se résoudre. Elle le reconnait sur la photo d’un ancien soldat vagabond soigné à l’hôpital. Elle le reconnait immédiatement mais lui est totalement amnésique. Patiemment, Julie le réapprivoise et le soutient jusqu’à ce qu’une autre femme, Marie-Rose, affirme qu’il s’agit de Victor, son époux. France/Belgique 2022.<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16290963" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/c'est-mon-homme" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elevation (Leffat tänään)]]></title>
+        <id>https://www.telsu.fi/elevation</id>
+        <link href="https://www.telsu.fi/elevation"/>
+        <updated>2025-11-09T17:40:49.387Z</updated>
+        <content type="html"><![CDATA[<div class="h"><h2><b>Elevation</b></h2><div class="meta">tänään 22.00 - 23.27 <small>1h 27 min</small><img src="/ch/v_film_premiere.avif" class="chimg" rel="v_film_premiere" loading="lazy" alt="V film premiere" title="V film premiere"><div class="rate" rel="0"><span rel="1" class="ft-star1"></span><span rel="2" class="ft-star1"></span><span rel="3" class="ft-star1"></span><span rel="4" class="ft-star1"></span><span rel="5" class="ft-star1"></span></div></div></div><div class="t"><div><div class="ps"><a class="pic lightbox" href="/l/elevation_16183224.avif" data-group="pics-16183224"><img src="/s/elevation_16183224.avif" loading="lazy" alt="Elevation"></a><a class="pic lightbox" href="/l/elevation_16183224_2.avif" data-group="pics-16183224"></a><a class="pic lightbox" href="/l/elevation_16183224_3.avif" data-group="pics-16183224"></a><a href="#" class="btn im" title="Elokuvan IMDb-arvosana. Klikkaa elokuvan IMDb-sivulle.">IMDb <b>5.6</b><i></i></a></div>Maailmanlaajuisen joukkosukupuuton jälkeen muutamat eloonjääneet ovat löytäneet turvapaikan pienestä vuoristoyhteisöstä. Will Bridgerin ja hänen poikansa Hunterin elämä on vaikeaa, ja heitä riivaavat muistot hajonneesta perheestä - sekä lamaannuttava pelko hirviömäisiä olentoja kohtaan, jotka jahtaavat heitä aivan harjanteen alapuolella. Amerikkalainen sci-fi trilleri vuodelta 2024.<div></div></div></div><div class="f"><a class="favs" href="#">Korosta<u></u></a><a href="#" data="/x_share?id=16183224" class="share lightbox" data-type="iframe" data-width="800px" data-height="600px">Jaa</a><a href="/elevation" target="_blank" class="othprg" title="Katso ohjelman muut lähetysajat">Jaksot</a></div><div class="c h1"></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lead Developer (WordPress) (Vieritypalkki työpaikat)]]></title>
