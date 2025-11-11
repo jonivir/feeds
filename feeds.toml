@@ -28,7 +28,7 @@ linkSelector = "a.othprg"
 matchOneOf = ["tänään"]
 
 [vierityspalkki]
-title = "Vieritypalkki työpaikat"
+title = "Vierityspalkki työpaikat"
 url = "https://vierityspalkki.fi/tyopaikat/"
 entrySelector = ".item-single.item-single-job"
 titleSelector = "h2"
