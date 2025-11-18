@@ -2,211 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.iltapulu.fi/elokuvat</id>
     <title>Päivän TV-elokuvat</title>
-    <updated>2025-11-17T17:44:34.136Z</updated>
+    <updated>2025-11-18T05:45:02.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.iltapulu.fi/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Holiday Touchdown: A Chiefs Love Story IMDb 6.4]]></title>
-        <id>https://www.iltapulu.fi/holiday-touchdown-a-chiefs-love-story</id>
-        <link href="https://www.iltapulu.fi/holiday-touchdown-a-chiefs-love-story"/>
-        <updated>2025-11-15T05:43:11.112Z</updated>
-        <content type="html"><![CDATA[<div class="program-image"><a href="/holiday-touchdown-a-chiefs-love-story" class="op" data-pid="20251117181574">
-				<div class="program-image-placeholder" style="background-color: #2CACB140;">
-
-					<img src="/static/img/kanava-darktheme/frii.webp" alt="Frii" class="channel-logo-placeholder">
-			</div>
-			</a></div><div class="program-content"><a href="/holiday-touchdown-a-chiefs-love-story" class="op" data-pid="20251117181574">
-			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
-				<time itemprop="startDate" content="2025-11-17T18:15:00+02:00" datetime="2025-11-17T18:15:00+02:00">18.15</time> - 
-				<time itemprop="endDate" content="2025-11-17T20:00:00+02:00" datetime="2025-11-17T20:00:00+02:00">20.00</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Frii</span></span>
-			</span>
-		</a><h3><a itemprop="name" href="/holiday-touchdown-a-chiefs-love-story" class="op" data-pid="20251117181574">Holiday Touchdown: A Chiefs Love Story</a> <a href="https://www.imdb.com/title/tt32752472/" target="_blank" class="program-imdb-link">IMDb 6.4</a></h3><a href="/holiday-touchdown-a-chiefs-love-story" class="op" data-pid="20251117181574">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Sitkeä Kansas City Chiefsin perhe kilpailee joukkueen Vuoden fani -kilpailun voitosta fanien sitouttamisesta vastaavan johtajan arvioimassa prosessissa.</span></div>
-			</a><div id="program-progress" class="progress-bar-container" data-start="1763396100" data-end="1763402400"><div class="progress-bar" style="width: 80.904761904762%; "></div></div><a href="/kanava/frii" class="channel-logo program-channel-logo"><picture>
-			<source srcset="/static/img/kanava-darktheme/frii.webp" media="(prefers-color-scheme: dark)">
-			<source srcset="/static/img/kanava/frii.webp" media="(prefers-color-scheme: light)">
-			<img src="/static/img/kanava/frii.png" alt="Frii">
-			</picture></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Indiana Jones and the Dial of Destiny IMDb 6,5]]></title>
-        <id>https://www.iltapulu.fi/indiana-jones-and-the-dial-of-destiny</id>
-        <link href="https://www.iltapulu.fi/indiana-jones-and-the-dial-of-destiny"/>
-        <updated>2025-11-15T17:39:55.701Z</updated>
-        <content type="html"><![CDATA[<div class="program-image"><a href="/indiana-jones-and-the-dial-of-destiny" class="op" data-pid="2025111721004">
-				<img src="https://www.iltapulu.fi/data/images/indiana-jones-and-the-dial-of-destiny-600.webp" alt="Indiana Jones and the Dial of Destiny" loading="lazy">
-			</a></div><div class="program-content"><a href="/indiana-jones-and-the-dial-of-destiny" class="op" data-pid="2025111721004">
-			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
-				<time itemprop="startDate" content="2025-11-17T21:00:00+02:00" datetime="2025-11-17T21:00:00+02:00">21.00</time> - 
-				<time itemprop="endDate" content="2025-11-18T00:05:00+02:00" datetime="2025-11-18T00:05:00+02:00">00.05</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Nelonen</span></span>
-			</span>
-		</a><h3><a itemprop="name" href="/indiana-jones-and-the-dial-of-destiny" class="op" data-pid="2025111721004">Indiana Jones and the Dial of Destiny</a> <a href="https://www.imdb.com/title/tt1462764/" target="_blank" class="program-imdb-link">IMDb 6,5</a></h3><a href="/indiana-jones-and-the-dial-of-destiny" class="op" data-pid="2025111721004">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">(Indiana Jones and the Dial of Destiny 2023). Indiana Jones -elokuvasarjan viidennessä osassa eläkkeelle jäänyt Jones tempaistaan mukaan huikeaan seikkailuun, kun hänen kummityttönsä ilmestyy New Yorkiin etsimään tarunomaista Arkhimedeen mekanismia. Pahaksi onneksi myös natsit tavoittelevat samaa esinettä, koska uskovat sen pystyvän kumoamaan toisen maailmansodan lopputuloksen. Tästä alkaa hurja kilpajuoksu, jonka panoksena on koko maailman kohtalo. Pääosissa: Harrison Ford, Phoebe Waller-Bridge, Mads Mikkelsen, Antonio Banders, Boyd Holbrook, John Rhys-Davies, Ethann Isidore. Ohjaus: James Mangold. </span></div>
-			</a><a href="/kanava/nelonen" class="channel-logo program-channel-logo"><picture>
-			<source srcset="/static/img/kanava-darktheme/nelonen.webp" media="(prefers-color-scheme: dark)">
-			<source srcset="/static/img/kanava/nelonen.webp" media="(prefers-color-scheme: light)">
-			<img src="/static/img/kanava/nelonen.png" alt="Nelonen">
-			</picture></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rush Hour 2 IMDb 6.7]]></title>
-        <id>https://www.iltapulu.fi/rush-hour-2</id>
-        <link href="https://www.iltapulu.fi/rush-hour-2"/>
-        <updated>2025-11-15T17:39:55.702Z</updated>
-        <content type="html"><![CDATA[<div class="program-image"><a href="/rush-hour-2" class="op" data-pid="2025111721005">
-				<img src="https://www.iltapulu.fi/data/images/rush-hour-2-600.webp" alt="Rush Hour 2" loading="lazy">
-			</a></div><div class="program-content"><a href="/rush-hour-2" class="op" data-pid="2025111721005">
-			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
-				<time itemprop="startDate" content="2025-11-17T21:00:00+02:00" datetime="2025-11-17T21:00:00+02:00">21.00</time> - 
-				<time itemprop="endDate" content="2025-11-17T23:00:00+02:00" datetime="2025-11-17T23:00:00+02:00">23.00</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">TV5</span></span>
-			</span>
-		</a><h3><a itemprop="name" href="/rush-hour-2" class="op" data-pid="2025111721005">Rush Hour 2</a> <a href="https://www.imdb.com/title/tt0266915/" target="_blank" class="program-imdb-link">IMDb 6.7</a></h3><a href="/rush-hour-2" class="op" data-pid="2025111721005">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Idän nopeimmat kädet ja lännen räpättävin suu tapaavat jälleen, kun Jackie Chan ja Chris Tucker lyöttäytyvät taas yhteen. Komisario Lee, poliisi Hong-Kongista, ja rikospoliisi Carter, poliisi Los Angelesista, suunnittelevat yhteistä lomaa Leen kotikaupungissa. Carter on kipeästi levon tarpeessa mutta suunnitelmat menevät myttyyn, kun tapahtuu jotain ennenkokematonta.</span></div>
-			</a><a href="/kanava/tv5" class="channel-logo program-channel-logo"><picture>
-			<source srcset="/static/img/kanava-darktheme/tv5.webp" media="(prefers-color-scheme: dark)">
-			<source srcset="/static/img/kanava/tv5.webp" media="(prefers-color-scheme: light)">
-			<img src="/static/img/kanava/tv5.png" alt="TV5">
-			</picture></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beck: Koston hinta IMDb 6,5]]></title>
-        <id>https://www.iltapulu.fi/beck-koston-hinta</id>
-        <link href="https://www.iltapulu.fi/beck-koston-hinta"/>
-        <updated>2025-11-15T17:39:55.703Z</updated>
-        <content type="html"><![CDATA[<div class="program-image"><a href="/beck-koston-hinta" class="op" data-pid="2025111721006">
-				<img src="https://www.iltapulu.fi/data/iltapulu/images/ve0024wcbl.webp" alt="Beck: Koston hinta" loading="lazy">
-			</a></div><div class="program-content"><a href="/beck-koston-hinta" class="op" data-pid="2025111721006">
-			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
-				<time itemprop="startDate" content="2025-11-17T21:00:00+02:00" datetime="2025-11-17T21:00:00+02:00">21.00</time> - 
-				<time itemprop="endDate" content="2025-11-17T22:50:00+02:00" datetime="2025-11-17T22:50:00+02:00">22.50</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">MTV Sub</span></span>
-			</span>
-		</a><h3><a itemprop="name" href="/beck-koston-hinta" class="op" data-pid="2025111721006">Beck: Koston hinta</a> <a href="https://www.imdb.com/title/tt0276808/" target="_blank" class="program-imdb-link">IMDb 6,5</a></h3><a href="/beck-koston-hinta" class="op" data-pid="2025111721006">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Martin Beck ja Gunvald Larsson joutuvat selvittelemään kahden poliisin raakaa surmaa. Veriteko ja sen tausta kuohuttavat koko poliisiyhteisöä.</span></div>
-			</a><a href="/kanava/sub" class="channel-logo program-channel-logo"><picture>
-			<source srcset="/static/img/kanava-darktheme/sub.webp" media="(prefers-color-scheme: dark)">
-			<source srcset="/static/img/kanava/sub.webp" media="(prefers-color-scheme: light)">
-			<img src="/static/img/kanava/sub.png" alt="MTV Sub">
-			</picture></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rocketman IMDb 7,3]]></title>
-        <id>https://www.iltapulu.fi/rocketman</id>
-        <link href="https://www.iltapulu.fi/rocketman"/>
-        <updated>2025-11-15T17:39:55.706Z</updated>
-        <content type="html"><![CDATA[<div class="program-image"><a href="/rocketman" class="op" data-pid="20251117210013">
-				<img src="https://www.iltapulu.fi/data/images/nelonen/rocketman-600.webp" alt="Rocketman" loading="lazy">
-			</a></div><div class="program-content"><a href="/rocketman" class="op" data-pid="20251117210013">
-			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
-				<time itemprop="startDate" content="2025-11-17T21:00:00+02:00" datetime="2025-11-17T21:00:00+02:00">21.00</time> - 
-				<time itemprop="endDate" content="2025-11-17T23:25:00+02:00" datetime="2025-11-17T23:25:00+02:00">23.25</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Liv</span></span>
-			</span>
-		</a><h3><a itemprop="name" href="/rocketman" class="op" data-pid="20251117210013">Rocketman</a> <a href="https://www.imdb.com/title/tt2066051/" target="_blank" class="program-imdb-link">IMDb 7,3</a></h3><a href="/rocketman" class="op" data-pid="20251117210013">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">(Rocketman 2019). Elton Johnin värikkäästä ja vaiherikkaasta elämästä kertova, Eltonin hittejä pursuava elämäkertaelokuva. Pikkupojan musiikkiharrastuksesta alkunsa saanut megatähden ura koetteli niin tähteä itseään kuin hänen lähipiiriään; huumeet ja alkoholi olivat viedä miehen hengen, kunnes raitistumisen jälkeinen comeback nosti hänet jälleen suuren yleisön suosikiksi. Pääosissa: Taron Egerton, Jamie Bell, Richard Madden, Bryce Dallas Howard, Gemma Jones. Ohjaus: Dexter Fletcher. </span></div>
-			</a><a href="/kanava/liv" class="channel-logo program-channel-logo"><picture>
-			<source srcset="/static/img/kanava-darktheme/liv.webp" media="(prefers-color-scheme: dark)">
-			<source srcset="/static/img/kanava/liv.webp" media="(prefers-color-scheme: light)">
-			<img src="/static/img/kanava/liv.png" alt="Liv">
-			</picture></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5]]></title>
-        <id>https://www.iltapulu.fi/elokuvat</id>
-        <link href="https://www.iltapulu.fi/elokuvat"/>
-        <updated>2025-11-17T17:44:27.213Z</updated>
-        <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
-				<div data-ad-position="middlebannerATF03" class="sadblob-loading">
-					<script>
-						sanomaAd.render("middlebannerATF03");
-					</script>
-				</div>
-			
-				<div data-ad-position="mobicontentfeedhigh01" class="sadblob-loading">
-					<script>
-						sanomaAd.render("mobicontentfeedhigh01");
-					</script>
-				</div>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matrix Reloaded IMDb 7.2]]></title>
-        <id>https://www.iltapulu.fi/matrix-reloaded</id>
-        <link href="https://www.iltapulu.fi/matrix-reloaded"/>
-        <updated>2025-11-11T17:44:43.250Z</updated>
-        <content type="html"><![CDATA[<div class="program-image"><a href="/matrix-reloaded" class="op" data-pid="20251117210062">
-				<img src="https://www.iltapulu.fi/data/iltapulu/images/ve0021u551.webp" alt="Matrix Reloaded" loading="lazy">
-			</a></div><div class="program-content"><a href="/matrix-reloaded" class="op" data-pid="20251117210062">
-			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
-				<time itemprop="startDate" content="2025-11-17T21:00:00+02:00" datetime="2025-11-17T21:00:00+02:00">21.00</time> - 
-				<time itemprop="endDate" content="2025-11-17T23:40:00+02:00" datetime="2025-11-17T23:40:00+02:00">23.40</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Kutonen</span></span>
-			</span>
-		</a><h3><a itemprop="name" href="/matrix-reloaded" class="op" data-pid="20251117210062">Matrix Reloaded</a> <a href="https://www.imdb.com/title/tt0234215/" target="_blank" class="program-imdb-link">IMDb 7.2</a></h3><a href="/matrix-reloaded" class="op" data-pid="20251117210062">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Visionäärisen ohjaajan Lana Wachowskin The Matrix Resurrections on hartaasti odotettu neljäs elokuva mullistavassa elokuvasarjassa, joka uudelleenmääritteli genren. Uudessa elokuvassa Keanu Reeves ja Carri-Anne Moss palaavat ikonisiin rooleihinsa Neona ja Trinitynä.</span></div>
-			</a><a href="/kanava/kutonen" class="channel-logo program-channel-logo"><picture>
-			<source srcset="/static/img/kanava-darktheme/kutonen.webp" media="(prefers-color-scheme: dark)">
-			<source srcset="/static/img/kanava/kutonen.webp" media="(prefers-color-scheme: light)">
-			<img src="/static/img/kanava/kutonen.png" alt="Kutonen">
-			</picture></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beck: Vailla aikomusta IMDb 6,1]]></title>
-        <id>https://www.iltapulu.fi/beck-vailla-aikomusta</id>
-        <link href="https://www.iltapulu.fi/beck-vailla-aikomusta"/>
-        <updated>2025-11-16T05:43:12.975Z</updated>
-        <content type="html"><![CDATA[<div class="program-image"><a href="/beck-vailla-aikomusta" class="op" data-pid="20251117210073">
-				<img src="https://www.iltapulu.fi/data/images/nelonen/beck-vailla-aikomusta-600.webp" alt="Beck: Vailla aikomusta" loading="lazy">
-			</a></div><div class="program-content"><a href="/beck-vailla-aikomusta" class="op" data-pid="20251117210073">
-			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
-				<time itemprop="startDate" content="2025-11-17T21:00:00+02:00" datetime="2025-11-17T21:00:00+02:00">21.00</time> - 
-				<time itemprop="endDate" content="2025-11-17T23:00:00+02:00" datetime="2025-11-17T23:00:00+02:00">23.00</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Hero</span></span>
-			</span>
-		</a><h3><a itemprop="name" href="/beck-vailla-aikomusta" class="op" data-pid="20251117210073">Beck: Vailla aikomusta</a> <a href="https://www.imdb.com/title/tt7718830/" target="_blank" class="program-imdb-link">IMDb 6,1</a></h3><a href="/beck-vailla-aikomusta" class="op" data-pid="20251117210073">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">(Beck 37: Utan uppsåt 2018). Kotiinsa kuolleen naisen kuolemaa epäillään henkirikokseksi. Ryhmänjohtajana aloittanut Alex Beijer ja Steinar ovat eri mieltä tutkinnan päälinjoista, mutta Alex päättää hankkia Steinarin kunnioituksen ilman Beckin apua. Rooleissa: Peter Haber, Kristofer Hivju, Ingvar Hirdwall, Jennie Silfverhjelm. Ohjaus: Jörgen Bergmark. </span></div>
-			</a><a href="/kanava/hero" class="channel-logo program-channel-logo"><picture>
-			<source srcset="/static/img/kanava-darktheme/hero.webp" media="(prefers-color-scheme: dark)">
-			<source srcset="/static/img/kanava/hero.webp" media="(prefers-color-scheme: light)">
-			<img src="/static/img/kanava/hero.png" alt="Hero">
-			</picture></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Truth IMDb 6.8]]></title>
-        <id>https://www.iltapulu.fi/truth</id>
-        <link href="https://www.iltapulu.fi/truth"/>
-        <updated>2025-11-16T05:43:12.977Z</updated>
-        <content type="html"><![CDATA[<div class="program-image"><a href="/truth" class="op" data-pid="202511172200106">
-				<img src="https://www.iltapulu.fi/data/images/truth-600.webp" alt="Truth" loading="lazy">
-			</a></div><div class="program-content"><a href="/truth" class="op" data-pid="202511172200106">
-			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
-				<time itemprop="startDate" content="2025-11-17T22:00:00+02:00" datetime="2025-11-17T22:00:00+02:00">22.00</time> - 
-				<time itemprop="endDate" content="2025-11-18T00:00:00+02:00" datetime="2025-11-18T00:00:00+02:00">00.00</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Eveo</span></span>
-			</span>
-		</a><h3><a itemprop="name" href="/truth" class="op" data-pid="202511172200106">Truth</a> <a href="https://www.imdb.com/title/tt3859076/" target="_blank" class="program-imdb-link">IMDb 6.8</a></h3><a href="/truth" class="op" data-pid="202511172200106">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">TV-uutistoimituksen kulisseihin sijoittuva draama poliittisesta skandaalista, joka syntyy kun C.B.S. News julkaisee arkaluontoisia tietoja presidentti George W. Bushista uutisankkuri Dan Ratherin (Robert Redford) johdolla.  (Kanava näkyy klo 20.30 jälkeen vain kaapeliverkossa)</span></div>
-			</a><a href="/kanava/eveo" class="channel-logo program-channel-logo"><picture>
-			<source srcset="/static/img/kanava-darktheme/eveo.webp" media="(prefers-color-scheme: dark)">
-			<source srcset="/static/img/kanava/eveo.webp" media="(prefers-color-scheme: light)">
-			<img src="/static/img/kanava/eveo.png" alt="Eveo">
-			</picture></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blade Runner: The Final Cut IMDb 8.1]]></title>
-        <id>https://www.iltapulu.fi/blade-runner-the-final-cut</id>
-        <link href="https://www.iltapulu.fi/blade-runner-the-final-cut"/>
-        <updated>2025-11-16T05:43:12.978Z</updated>
-        <content type="html"><![CDATA[<div class="program-image"><a href="/blade-runner-the-final-cut" class="op" data-pid="2025111723005">
-				<img src="https://www.iltapulu.fi/data/images/blade-runner-the-final-cut-600.webp" alt="Blade Runner: The Final Cut" loading="lazy">
-			</a></div><div class="program-content"><a href="/blade-runner-the-final-cut" class="op" data-pid="2025111723005">
-			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
-				<time itemprop="startDate" content="2025-11-17T23:00:00+02:00" datetime="2025-11-17T23:00:00+02:00">23.00</time> - 
-				<time itemprop="endDate" content="2025-11-18T01:20:00+02:00" datetime="2025-11-18T01:20:00+02:00">01.20</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">TV5</span></span>
-			</span>
-		</a><h3><a itemprop="name" href="/blade-runner-the-final-cut" class="op" data-pid="2025111723005">Blade Runner: The Final Cut</a> <a href="https://www.imdb.com/title/tt0083658" target="_blank" class="program-imdb-link">IMDb 8.1</a></h3><a href="/blade-runner-the-final-cut" class="op" data-pid="2025111723005">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Tyylikäs Final Cut -versio, jossa Rick Deckard elää Blade Runnerina tulevaisuuden Los Angelesissa.</span></div>
-			</a><a href="/kanava/tv5" class="channel-logo program-channel-logo"><picture>
-			<source srcset="/static/img/kanava-darktheme/tv5.webp" media="(prefers-color-scheme: dark)">
-			<source srcset="/static/img/kanava/tv5.webp" media="(prefers-color-scheme: light)">
-			<img src="/static/img/kanava/tv5.png" alt="TV5">
-			</picture></a></div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Christmas Tree Lane IMDb 6.4]]></title>
         <id>https://www.iltapulu.fi/christmas-tree-lane</id>
@@ -220,7 +18,7 @@
 			</a></div><div class="program-content"><a href="/christmas-tree-lane" class="op" data-pid="20251118085574">
 			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
 				<time itemprop="startDate" content="2025-11-18T08:55:00+02:00" datetime="2025-11-18T08:55:00+02:00">08.55</time> - 
-				<time itemprop="endDate" content="2025-11-18T10:50:00+02:00" datetime="2025-11-18T10:50:00+02:00">10.50</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Frii</span></span>
+				<time itemprop="endDate" content="2025-11-18T10:55:00+02:00" datetime="2025-11-18T10:55:00+02:00">10.55</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Frii</span></span>
 			</span>
 		</a><h3><a itemprop="name" href="/christmas-tree-lane" class="op" data-pid="20251118085574">Christmas Tree Lane</a> <a href="https://www.imdb.com/title/tt13344860/" target="_blank" class="program-imdb-link">IMDb 6.4</a></h3><a href="/christmas-tree-lane" class="op" data-pid="20251118085574">
 				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Musiikkikaupan omistaja Meg saa tietää, että hänen katu on määrä purkaa ja päättää pelastaa sen. Mutta hän huomaa, että mies, johon hän on ihastunut, työskentelee vastapuolella.</span></div>
@@ -229,25 +27,6 @@
 			<source srcset="/static/img/kanava/frii.webp" media="(prefers-color-scheme: light)">
 			<img src="/static/img/kanava/frii.png" alt="Frii">
 			</picture></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11]]></title>
-        <id>https://www.iltapulu.fi/elokuvat</id>
-        <link href="https://www.iltapulu.fi/elokuvat"/>
-        <updated>2025-11-17T17:44:27.215Z</updated>
-        <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
-			<div data-ad-position="middlebannerBTF01" class="sadblob-loading">
-				<script>
-					sanomaAd.render("middlebannerBTF01");
-				</script>
-			</div>
-		
-			<div data-ad-position="mobicontentfeedhigh02" class="sadblob-loading">
-				<script>
-					sanomaAd.render("mobicontentfeedhigh02");
-				</script>
-			</div>
-		</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Holiday Touchdown: A Chiefs Love Story IMDb 6.4]]></title>
@@ -265,7 +44,7 @@
 				<time itemprop="endDate" content="2025-11-18T12:55:00+02:00" datetime="2025-11-18T12:55:00+02:00">12.55</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Frii</span></span>
 			</span>
 		</a><h3><a itemprop="name" href="/holiday-touchdown-a-chiefs-love-story" class="op" data-pid="20251118105574">Holiday Touchdown: A Chiefs Love Story</a> <a href="https://www.imdb.com/title/tt32752472/" target="_blank" class="program-imdb-link">IMDb 6.4</a></h3><a href="/holiday-touchdown-a-chiefs-love-story" class="op" data-pid="20251118105574">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Sitkeä Kansas City Chiefsin perhe kilpailee joukkueen Vuoden fani -kilpailun voitosta fanien sitouttamisesta vastaavan johtajan arvioimassa prosessissa.</span></div>
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Kansas City Chiefsin perhe kilpailee joukkueen Vuoden fani -kilpailun voitosta fanien sitouttamisesta vastaavan johtajan arvioimassa prosessissa.</span></div>
 			</a><a href="/kanava/frii" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/frii.webp" media="(prefers-color-scheme: dark)">
 			<source srcset="/static/img/kanava/frii.webp" media="(prefers-color-scheme: light)">
@@ -305,7 +84,7 @@
 				<time itemprop="endDate" content="2025-11-18T15:55:00+02:00" datetime="2025-11-18T15:55:00+02:00">15.55</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">TV5</span></span>
 			</span>
 		</a><h3><a itemprop="name" href="/christmas-in-harmony" class="op" data-pid="2025111813555">Christmas in Harmony</a> <a href="https://www.imdb.com/title/tt15425920/" target="_blank" class="program-imdb-link">IMDb 5.5</a></h3><a href="/christmas-in-harmony" class="op" data-pid="2025111813555">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Harmony on työttömäksi jäänyt musiikkituottaja. Hän matkustaa jouluksi kotiin Pohjois-Carolinaan ja hänet narrataan mukaan ohjaamaan kirkon kuoroa, exänsä rinnalle. Jouluaattoon mennessä tunteet alkavat lämpenemään.</span></div>
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Työttömäksi jäänyt musiikkituottaja Harmony matkustaa jouluksi kotiin ja hänet narrataan mukaan ohjaamaan kirkon kuoroa, exänsä rinnalle.</span></div>
 			</a><a href="/kanava/tv5" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/tv5.webp" media="(prefers-color-scheme: dark)">
 			<source srcset="/static/img/kanava/tv5.webp" media="(prefers-color-scheme: light)">
@@ -325,12 +104,31 @@
 				<time itemprop="endDate" content="2025-11-18T18:25:00+02:00" datetime="2025-11-18T18:25:00+02:00">18.25</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Frii</span></span>
 			</span>
 		</a><h3><a itemprop="name" href="/jolly-good-christmas" class="op" data-pid="20251118162574">Jolly Good Christmas</a> <a href="https://www.imdb.com/title/tt18077672/" target="_blank" class="program-imdb-link">IMDb 6.6</a></h3><a href="/jolly-good-christmas" class="op" data-pid="20251118162574">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Arkkitehti David palkkaa eloisan ostosavustaja Anjin löytääkseen täydellisen joululahjan tyttöystävälleen ja ajautuu odottamattomalle seikkailulle Lontoon halki.</span></div>
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Arkkitehti David palkkaa eloisan ostosavustaja Anjin löytääkseen täydellisen joululahjan tyttöystävälleen ja ajautuu odottamattomaan seikkailuun.</span></div>
 			</a><a href="/kanava/frii" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/frii.webp" media="(prefers-color-scheme: dark)">
 			<source srcset="/static/img/kanava/frii.webp" media="(prefers-color-scheme: light)">
 			<img src="/static/img/kanava/frii.png" alt="Frii">
 			</picture></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5]]></title>
+        <id>https://www.iltapulu.fi/elokuvat</id>
+        <link href="https://www.iltapulu.fi/elokuvat"/>
+        <updated>2025-11-18T05:44:54.802Z</updated>
+        <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
+				<div data-ad-position="middlebannerATF03" class="sadblob-loading">
+					<script>
+						sanomaAd.render("middlebannerATF03");
+					</script>
+				</div>
+			
+				<div data-ad-position="mobicontentfeedhigh01" class="sadblob-loading">
+					<script>
+						sanomaAd.render("mobicontentfeedhigh01");
+					</script>
+				</div>
+			</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ghosts of Christmas Always IMDb 7.4]]></title>
@@ -354,25 +152,6 @@
 			<source srcset="/static/img/kanava/frii.webp" media="(prefers-color-scheme: light)">
 			<img src="/static/img/kanava/frii.png" alt="Frii">
 			</picture></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[17]]></title>
-        <id>https://www.iltapulu.fi/elokuvat</id>
-        <link href="https://www.iltapulu.fi/elokuvat"/>
-        <updated>2025-11-17T17:44:27.216Z</updated>
-        <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
-			<div data-ad-position="middlebannerBTF02" class="sadblob-loading">
-				<script>
-					sanomaAd.render("middlebannerBTF02");
-				</script>
-			</div>
-		
-			<div data-ad-position="mobicontentfeedlow01" class="sadblob-loading">
-				<script>
-					sanomaAd.render("mobicontentfeedlow01");
-				</script>
-			</div>
-		</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Millerit IMDb 7]]></title>
@@ -407,7 +186,7 @@
 				<time itemprop="endDate" content="2025-11-18T22:55:00+02:00" datetime="2025-11-18T22:55:00+02:00">22.55</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">MTV Sub</span></span>
 			</span>
 		</a><h3><a itemprop="name" href="/beck-kasvoton-mies" class="op" data-pid="2025111821006">Beck: Kasvoton mies</a> <a href="https://www.imdb.com/title/tt0300983/" target="_blank" class="program-imdb-link">IMDb 6,2</a></h3><a href="/beck-kasvoton-mies" class="op" data-pid="2025111821006">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Liikemies Jörgen Beckmanin ruumis löydetään metsästä kodin liepeiltä. Beckman näyttää joutuneen kunniamurhan uhriksi naisjuttujensa takia.</span></div>
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Liikemies Jörgen Beckmanin ruumis löydetään metsästä kodin liepeiltä. Beckman näyttää joutuneen  kunniamurhan uhriksi naisjuttujensa takia...</span></div>
 			</a><a href="/kanava/sub" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/sub.webp" media="(prefers-color-scheme: dark)">
 			<source srcset="/static/img/kanava/sub.webp" media="(prefers-color-scheme: light)">
@@ -455,6 +234,25 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[11]]></title>
+        <id>https://www.iltapulu.fi/elokuvat</id>
+        <link href="https://www.iltapulu.fi/elokuvat"/>
+        <updated>2025-11-18T05:44:54.802Z</updated>
+        <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
+			<div data-ad-position="middlebannerBTF01" class="sadblob-loading">
+				<script>
+					sanomaAd.render("middlebannerBTF01");
+				</script>
+			</div>
+		
+			<div data-ad-position="mobicontentfeedhigh02" class="sadblob-loading">
+				<script>
+					sanomaAd.render("mobicontentfeedhigh02");
+				</script>
+			</div>
+		</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Taken 3 IMDb 6]]></title>
         <id>https://www.iltapulu.fi/taken-3</id>
         <link href="https://www.iltapulu.fi/taken-3"/>
@@ -464,28 +262,15 @@
 			</a></div><div class="program-content"><a href="/taken-3" class="op" data-pid="2025111823008">
 			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
 				<time itemprop="startDate" content="2025-11-18T23:00:00+02:00" datetime="2025-11-18T23:00:00+02:00">23.00</time> - 
-				<time itemprop="endDate" content="2025-11-19T01:05:00+02:00" datetime="2025-11-19T01:05:00+02:00">01.05</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">STAR Channel</span></span>
+				<time itemprop="endDate" content="2025-11-19T00:00:00+02:00" datetime="2025-11-19T00:00:00+02:00">00.00</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">STAR Channel</span></span>
 			</span>
 		</a><h3><a itemprop="name" href="/taken-3" class="op" data-pid="2025111823008">Taken 3</a> <a href="https://www.imdb.com/title/tt2446042/" target="_blank" class="program-imdb-link">IMDb 6</a></h3><a href="/taken-3" class="op" data-pid="2025111823008">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">2014. O: Olivier Megaton. P: Liam Neeson, Maggie Grace, Forest Whitaker. Liam Neeson palaa viimeisen kerran  ex-vakooja Bryan Millsin rooliin! Bryanin elämä romahtaa, kun hänet lavastetaan murhasta, joka koskettaa häntä läheisesti. Taitavan poliisitarkastajan (Whitaker) jahtaamana Millsin on turvauduttava viimeisen kerran erityistaitoihinsa paetakseen viranomaisia, etsiäkseen todelliset murhaajat ja suojellakseen ainoaa asiaa, joka on hänelle tärkeä – perhettään.</span></div>
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Elokuva: Taken 3: 2014. O: Olivier Megaton. P: Liam Neeson, Maggie Grace, Forest Whitaker. Liam Neeson palaa viimeisen kerran  ex-vakooja Bryan Millsin rooliin! Bryanin elämä romahtaa, kun hänet lavastetaan murhasta, joka koskettaa häntä läheisesti. Taitavan poliisitarkastajan (Whitaker) jahtaamana Millsin on turvauduttava viimeisen kerran erityistaitoihinsa paetakseen viranomaisia, etsiäkseen todelliset murhaajat ja suojellakseen ainoaa asiaa, joka on hänelle tärkeä – perhettään.</span></div>
 			</a><a href="/kanava/star-channel" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/fox.webp" media="(prefers-color-scheme: dark)">
 			<source srcset="/static/img/kanava/fox.webp" media="(prefers-color-scheme: light)">
 			<img src="/static/img/kanava/fox.png" alt="STAR Channel">
 			</picture></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[23]]></title>
-        <id>https://www.iltapulu.fi/elokuvat</id>
-        <link href="https://www.iltapulu.fi/elokuvat"/>
-        <updated>2025-11-17T17:44:27.224Z</updated>
-        <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
-			<div data-ad-position="mobicontentfeedlow02" class="sadblob-loading">
-				<script>
-					sanomaAd.render("mobicontentfeedlow02");
-				</script>
-			</div>
-		</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sisarukset IMDb 6,1]]></title>
@@ -509,17 +294,17 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Truth IMDb 6.8]]></title>
-        <id>https://www.iltapulu.fi/truth/202511190030106</id>
-        <link href="https://www.iltapulu.fi/truth/202511190030106"/>
-        <updated>2025-11-16T05:43:12.995Z</updated>
-        <content type="html"><![CDATA[<div class="program-image"><a href="/truth/202511190030106" class="op" data-pid="202511190030106">
+        <id>https://www.iltapulu.fi/truth</id>
+        <link href="https://www.iltapulu.fi/truth"/>
+        <updated>2025-11-16T05:43:12.977Z</updated>
+        <content type="html"><![CDATA[<div class="program-image"><a href="/truth" class="op" data-pid="202511190030106">
 				<img src="https://www.iltapulu.fi/data/images/truth-600.webp" alt="Truth" loading="lazy">
-			</a></div><div class="program-content"><a href="/truth/202511190030106" class="op" data-pid="202511190030106">
+			</a></div><div class="program-content"><a href="/truth" class="op" data-pid="202511190030106">
 			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
 				<time itemprop="startDate" content="2025-11-19T00:30:00+02:00" datetime="2025-11-19T00:30:00+02:00">00.30</time> - 
 				<time itemprop="endDate" content="2025-11-19T02:34:00+02:00" datetime="2025-11-19T02:34:00+02:00">02.34</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Eveo</span></span>
 			</span>
-		</a><h3><a itemprop="name" href="/truth/202511190030106" class="op" data-pid="202511190030106">Truth</a> <a href="https://www.imdb.com/title/tt3859076/" target="_blank" class="program-imdb-link">IMDb 6.8</a></h3><a href="/truth/202511190030106" class="op" data-pid="202511190030106">
+		</a><h3><a itemprop="name" href="/truth" class="op" data-pid="202511190030106">Truth</a> <a href="https://www.imdb.com/title/tt3859076/" target="_blank" class="program-imdb-link">IMDb 6.8</a></h3><a href="/truth" class="op" data-pid="202511190030106">
 				<div class="program-description"><span class="season-episode"></span><span itemprop="description">TV-uutistoimituksen kulisseihin sijoittuva draama poliittisesta skandaalista, joka syntyy kun C.B.S. News julkaisee arkaluontoisia tietoja presidentti George W. Bushista uutisankkuri Dan Ratherin (Robert Redford) johdolla. </span></div>
 			</a><a href="/kanava/eveo" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/eveo.webp" media="(prefers-color-scheme: dark)">
@@ -540,7 +325,7 @@
 				<time itemprop="endDate" content="2025-11-19T10:55:00+02:00" datetime="2025-11-19T10:55:00+02:00">10.55</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Frii</span></span>
 			</span>
 		</a><h3><a itemprop="name" href="/jolly-good-christmas/20251119085574" class="op" data-pid="20251119085574">Jolly Good Christmas</a> <a href="https://www.imdb.com/title/tt18077672/" target="_blank" class="program-imdb-link">IMDb 6.6</a></h3><a href="/jolly-good-christmas/20251119085574" class="op" data-pid="20251119085574">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Arkkitehti David palkkaa eloisan ostosavustaja Anjin löytääkseen täydellisen joululahjan tyttöystävälleen ja ajautuu odottamattomalle seikkailulle Lontoon halki.</span></div>
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Arkkitehti David palkkaa eloisan ostosavustaja Anjin löytääkseen täydellisen joululahjan tyttöystävälleen ja ajautuu odottamattomaan seikkailuun.</span></div>
 			</a><a href="/kanava/frii" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/frii.webp" media="(prefers-color-scheme: dark)">
 			<source srcset="/static/img/kanava/frii.webp" media="(prefers-color-scheme: light)">
@@ -569,6 +354,25 @@
 			<source srcset="/static/img/kanava/frii.webp" media="(prefers-color-scheme: light)">
 			<img src="/static/img/kanava/frii.png" alt="Frii">
 			</picture></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[17]]></title>
+        <id>https://www.iltapulu.fi/elokuvat</id>
+        <link href="https://www.iltapulu.fi/elokuvat"/>
+        <updated>2025-11-18T05:44:54.803Z</updated>
+        <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
+			<div data-ad-position="middlebannerBTF02" class="sadblob-loading">
+				<script>
+					sanomaAd.render("middlebannerBTF02");
+				</script>
+			</div>
+		
+			<div data-ad-position="mobicontentfeedlow01" class="sadblob-loading">
+				<script>
+					sanomaAd.render("mobicontentfeedlow01");
+				</script>
+			</div>
+		</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vain kaksi tuntia IMDb 5.8]]></title>
@@ -649,7 +453,7 @@
 				<time itemprop="endDate" content="2025-11-19T20:00:00+02:00" datetime="2025-11-19T20:00:00+02:00">20.00</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Frii</span></span>
 			</span>
 		</a><h3><a itemprop="name" href="/holly-ivy" class="op" data-pid="20251119182074">Holly &amp; Ivy</a> <a href="https://www.imdb.com/title/tt13356246/" target="_blank" class="program-imdb-link">IMDb 7.1</a></h3><a href="/holly-ivy" class="op" data-pid="20251119182074">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Melodyn naapuri Nina saa tietää, että hänen imusolmukesyöpänsä on uusiutunut. Melody lupaa pitävänsä Ninan lapsista, Hollysta ja Ivystä huolta. Adoptoidakseen heidät hänen on remontoitava uusi talonsa urakoitsija Adamin avustuksella.</span></div>
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Melodyn naapuri Nina saa tietää, että hänen imusolmukesyöpänsä on uusiutunut. Melody lupaa pitävänsä Ninan lapsista, Hollysta ja Ivystä huolta.</span></div>
 			</a><a href="/kanava/frii" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/frii.webp" media="(prefers-color-scheme: dark)">
 			<source srcset="/static/img/kanava/frii.webp" media="(prefers-color-scheme: light)">
@@ -677,6 +481,19 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[23]]></title>
+        <id>https://www.iltapulu.fi/elokuvat</id>
+        <link href="https://www.iltapulu.fi/elokuvat"/>
+        <updated>2025-11-18T05:44:54.804Z</updated>
+        <content type="html"><![CDATA[<div class="ad-wrapper ad-wrapper-program-list-bottom">
+			<div data-ad-position="mobicontentfeedlow02" class="sadblob-loading">
+				<script>
+					sanomaAd.render("mobicontentfeedlow02");
+				</script>
+			</div>
+		</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Firma IMDb 6,9]]></title>
         <id>https://www.iltapulu.fi/firma</id>
         <link href="https://www.iltapulu.fi/firma"/>
@@ -689,7 +506,7 @@
 				<time itemprop="endDate" content="2025-11-20T00:05:00+02:00" datetime="2025-11-20T00:05:00+02:00">00.05</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Kutonen</span></span>
 			</span>
 		</a><h3><a itemprop="name" href="/firma" class="op" data-pid="20251119210062">Firma</a> <a href="https://www.imdb.com/title/tt0106918/" target="_blank" class="program-imdb-link">IMDb 6,9</a></h3><a href="/firma" class="op" data-pid="20251119210062">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Mitch McDeere on nuori ja kunnianhimoinen, juuri Harvardista valmistunut juristi. Useista työtarjouksista Mitch ja hänen vaimonsa Abby valitsevat Memphisissä sijaitsevan lakifirman. Tarjous ylittää heidän hurjimmatkin unelmansa. Sitten FBI ottaa yhteyttä Mitchiin väittäen firman juristien syyllistyneen lahjontaan ja murhiin. Alkaa huikea kujanjuoksu, jossa Mitchin henkeä uhkaavat FBI, mafia ja mitään kaihtamattomat vallankäyttäjät, joiden ainoa päämäärä on pelastaa FIRMA - hinnalla millä hyvänsä.</span></div>
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Mitch McDeere on nuori ja kunnianhimoinen, juuri Harvardista valmistunut juristi. Useista työtarjouksista Mitch ja hänen vaimonsa Abby valitsevat Memphisissä sijaitsevan lakifirman. Tarjous ylittää heidän hurjimmatkin unelmansa.</span></div>
 			</a><a href="/kanava/kutonen" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/kutonen.webp" media="(prefers-color-scheme: dark)">
 			<source srcset="/static/img/kanava/kutonen.webp" media="(prefers-color-scheme: light)">
@@ -709,7 +526,7 @@
 				<time itemprop="endDate" content="2025-11-19T23:35:00+02:00" datetime="2025-11-19T23:35:00+02:00">23.35</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">TV5</span></span>
 			</span>
 		</a><h3><a itemprop="name" href="/frantic" class="op" data-pid="2025111921005">Frantic</a> <a href="https://www.imdb.com/title/tt0095174/" target="_blank" class="program-imdb-link">IMDb 6.8</a></h3><a href="/frantic" class="op" data-pid="2025111921005">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Kirurgi Richard Walker osallistuu konferenssiin romanttisessa Ranskan pääkaupungissa ja viettää vaimonsa Sondran kanssa pari päivää hyvässä hotellissa. Kun Walker on kylvyssä, hänen vaimonsa katoaa yhtäkkiä. Walker tajuaa, että jokin on vialla ja huomaa joutuneensa osaksi juonittelun, vakoilun, gangsterien, huumeiden ja murhien maailmaan.</span></div>
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Kirurgi Richard Walker osallistuu konferenssiin romanttisessa Ranskan pääkaupungissa ja viettää vaimonsa Sondran kanssa pari päivää hyvässä hotellissa.</span></div>
 			</a><a href="/kanava/tv5" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/tv5.webp" media="(prefers-color-scheme: dark)">
 			<source srcset="/static/img/kanava/tv5.webp" media="(prefers-color-scheme: light)">
@@ -797,19 +614,19 @@
 			</picture></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Suuri puhallus IMDb 6.4]]></title>
-        <id>https://www.iltapulu.fi/suuri-puhallus</id>
-        <link href="https://www.iltapulu.fi/suuri-puhallus"/>
-        <updated>2025-11-17T17:44:27.504Z</updated>
-        <content type="html"><![CDATA[<div class="program-image"><a href="/suuri-puhallus" class="op" data-pid="2025112001358">
-				<img src="https://www.iltapulu.fi/data/iltapulu/images/ve0016dywh.webp" alt="Suuri puhallus" loading="lazy">
-			</a></div><div class="program-content"><a href="/suuri-puhallus" class="op" data-pid="2025112001358">
+        <title type="html"><![CDATA[Suuri puhallus 2 IMDb 6.4]]></title>
+        <id>https://www.iltapulu.fi/suuri-puhallus-2/2025112001358</id>
+        <link href="https://www.iltapulu.fi/suuri-puhallus-2/2025112001358"/>
+        <updated>2025-11-18T05:44:55.132Z</updated>
+        <content type="html"><![CDATA[<div class="program-image"><a href="/suuri-puhallus-2/2025112001358" class="op" data-pid="2025112001358">
+				<img src="https://www.iltapulu.fi/data/iltapulu/images/ve001xre5d.webp" alt="Suuri puhallus 2" loading="lazy">
+			</a></div><div class="program-content"><a href="/suuri-puhallus-2/2025112001358" class="op" data-pid="2025112001358">
 			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
 				<time itemprop="startDate" content="2025-11-20T01:35:00+02:00" datetime="2025-11-20T01:35:00+02:00">01.35</time> - 
-				<time itemprop="endDate" content="2025-11-20T03:55:00+02:00" datetime="2025-11-20T03:55:00+02:00">03.55</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">STAR Channel</span></span>
+				<time itemprop="endDate" content="2025-11-20T02:35:00+02:00" datetime="2025-11-20T02:35:00+02:00">02.35</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">STAR Channel</span></span>
 			</span>
-		</a><h3><a itemprop="name" href="/suuri-puhallus" class="op" data-pid="2025112001358">Suuri puhallus</a> <a href="https://www.imdb.com/title/tt3110958/" target="_blank" class="program-imdb-link">IMDb 6.4</a></h3><a href="/suuri-puhallus" class="op" data-pid="2025112001358">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Illusionistit palaavat suorittamaan uutta näyttävää keikkaa. Heidät pakotetaan varastamaan voimakas teknologinen laite, ja samalla he joutuvat vastakkain salaperäisen rikkaan liikemiehen kanssa.</span></div>
+		</a><h3><a itemprop="name" href="/suuri-puhallus-2/2025112001358" class="op" data-pid="2025112001358">Suuri puhallus 2</a> <a href="https://www.imdb.com/title/tt3110958/" target="_blank" class="program-imdb-link">IMDb 6.4</a></h3><a href="/suuri-puhallus-2/2025112001358" class="op" data-pid="2025112001358">
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Elokuva: Suuri puhallus 2: 2016. O: Jon M. Chu, P: Jesse Eisenberg, Woody Harrelson, Mark Ruffalo, Dave Franco. Illusionistit palaavat suorittamaan uutta näyttävää keikkaa. Heidät pakotetaan varastamaan voimakas teknologinen laite, ja samalla he joutuvat vastakkain salaperäisen rikkaan liikemiehen kanssa.</span></div>
 			</a><a href="/kanava/star-channel" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/fox.webp" media="(prefers-color-scheme: dark)">
 			<source srcset="/static/img/kanava/fox.webp" media="(prefers-color-scheme: light)">
@@ -855,7 +672,7 @@
 				<time itemprop="endDate" content="2025-11-20T12:55:00+02:00" datetime="2025-11-20T12:55:00+02:00">12.55</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Frii</span></span>
 			</span>
 		</a><h3><a itemprop="name" href="/holly-ivy/20251120105574" class="op" data-pid="20251120105574">Holly &amp; Ivy</a> <a href="https://www.imdb.com/title/tt13356246/" target="_blank" class="program-imdb-link">IMDb 7.1</a></h3><a href="/holly-ivy/20251120105574" class="op" data-pid="20251120105574">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Melodyn naapuri Nina saa tietää, että hänen imusolmukesyöpänsä on uusiutunut. Melody lupaa pitävänsä Ninan lapsista, Hollysta ja Ivystä huolta. Adoptoidakseen heidät hänen on remontoitava uusi talonsa urakoitsija Adamin avustuksella.</span></div>
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Melodyn naapuri Nina saa tietää, että hänen imusolmukesyöpänsä on uusiutunut. Melody lupaa pitävänsä Ninan lapsista, Hollysta ja Ivystä huolta.</span></div>
 			</a><a href="/kanava/frii" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/frii.webp" media="(prefers-color-scheme: dark)">
 			<source srcset="/static/img/kanava/frii.webp" media="(prefers-color-scheme: light)">
@@ -895,7 +712,7 @@
 				<time itemprop="endDate" content="2025-11-20T15:55:00+02:00" datetime="2025-11-20T15:55:00+02:00">15.55</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">TV5</span></span>
 			</span>
 		</a><h3><a itemprop="name" href="/christmas-in-tahoe" class="op" data-pid="2025112014055">Christmas in Tahoe</a> <a href="https://www.imdb.com/title/tt15739494/" target="_blank" class="program-imdb-link">IMDb 6.3</a></h3><a href="/christmas-in-tahoe" class="op" data-pid="2025112014055">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Claire Rhodes on aloitteleva artistien bookkaajaa ja saamaisillaan unelmatyöpaikan musiikkialalta Las Vegasista. Häntä koetellaan, kun perheen hotellin joulushow on vaarassa peruuntua. Claire joutuu pyytämään apua ex-poikaystävältään.</span></div>
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Claire Rhodes on aloitteleva artistien bookkaajaa ja saamaisillaan unelmatyöpaikan musiikkialalta Las Vegasista.</span></div>
 			</a><a href="/kanava/tv5" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/tv5.webp" media="(prefers-color-scheme: dark)">
 			<source srcset="/static/img/kanava/tv5.webp" media="(prefers-color-scheme: light)">
@@ -915,7 +732,7 @@
 				<time itemprop="endDate" content="2025-11-20T18:20:00+02:00" datetime="2025-11-20T18:20:00+02:00">18.20</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Frii</span></span>
 			</span>
 		</a><h3><a itemprop="name" href="/hanukkah-on-rye" class="op" data-pid="20251120162574">Hanukkah on Rye</a> <a href="https://www.imdb.com/title/tt22307422/" target="_blank" class="program-imdb-link">IMDb 7.3</a></h3><a href="/hanukkah-on-rye" class="op" data-pid="20251120162574">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Mollyn ja Jacobin tuore romanssinsa joutuu koetukselle, kun he huomaavat olevansa kilpailevia kauppojen omistajia. Pystyykö hanukka-ihme pitämään heidät yhdessä?</span></div>
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Mollyn ja Jacobin tuore romanssinsa joutuu koetukselle, kun he huomaavat olevansa kilpailevia kauppojen omistajia.</span></div>
 			</a><a href="/kanava/frii" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/frii.webp" media="(prefers-color-scheme: dark)">
 			<source srcset="/static/img/kanava/frii.webp" media="(prefers-color-scheme: light)">
@@ -978,7 +795,7 @@
 				<time itemprop="endDate" content="2025-11-20T23:20:00+02:00" datetime="2025-11-20T23:20:00+02:00">23.20</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">TV5</span></span>
 			</span>
 		</a><h3><a itemprop="name" href="/godzilla-vs-kong" class="op" data-pid="2025112021005">Godzilla vs. Kong</a> <a href="https://www.imdb.com/title/tt5034838/" target="_blank" class="program-imdb-link">IMDb 6.3</a></h3><a href="/godzilla-vs-kong" class="op" data-pid="2025112021005">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">SUOMEN TV-ENSI-ILTA Legendat kohtaavat elokuvassa Godzilla vs. Kong näiden myyttisten hirviöiden ottaessa yhteen historiallisessa taistelussa, jossa vaakalaudalla on koko maailman kohtalo. Kong ja sen suojelijat lähtevät vaaralliselle matkalle löytääkseen Kongin oikean kodin. Heidän mukanaan on nuori orpotyttö Jia, jonka kanssa Kong on muodostanut vahvan ja ainutlaatuisen yhteyden. Matkan varrella he yllättäen kohtaavat kuitenkin hurjistuneen Godzillan, joka kylvää tuhoa ympäri planeettaa. Titaanien taistelu - joka saa alkunsa odottamattomalta taholta - on vasta alkua mysteerille, joka lymyää syvällä maapallon ytimessä.</span></div>
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Legendat kohtaavat elokuvassa myyttisten hirviöiden ottaessa yhteen historiallisessa taistelussa, jossa vaakalaudalla on koko maailman kohtalo. Kong ja sen suojelijat lähtevät vaaralliselle matkalle löytääkseen Kongin oikean kodin.</span></div>
 			</a><a href="/kanava/tv5" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/tv5.webp" media="(prefers-color-scheme: dark)">
 			<source srcset="/static/img/kanava/tv5.webp" media="(prefers-color-scheme: light)">
@@ -1018,7 +835,7 @@
 				<time itemprop="endDate" content="2025-11-20T23:30:00+02:00" datetime="2025-11-20T23:30:00+02:00">23.30</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Kutonen</span></span>
 			</span>
 		</a><h3><a itemprop="name" href="/black-mass" class="op" data-pid="20251120210062">Black Mass</a> <a href="https://www.imdb.com/title/tt1355683/" target="_blank" class="program-imdb-link">IMDb 6.8</a></h3><a href="/black-mass" class="op" data-pid="20251120210062">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">1970-luvun Etelä-Bostonissa FBI-agentti John Connolly houkuttelee irlantilaisen mafiapomon Jimmy ”Whitey” Bulgerin yhteistyöhön FBI:n kanssa eliminoidakseen heidän yhteisen vihollisensa, Italian mafian. Elokuva kertoo tästä epäpyhästä liitosta, joka riistäytyy täysin käsistä. Sopimus FBI:n kanssa antoi Whiteylle mahdollisuuden vältellä viranomaisia samalla kun hän kasvatti valtaansa nousten yhdeksi Bostonin historian armottomimmista ja vaarallisimmista gangstereista.</span></div>
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">1970-luvun Etelä-Bostonissa FBI-agentti John Connolly houkuttelee irlantilaisen mafiapomon Jimmy ”Whitey” Bulgerin yhteistyöhön FBI:n kanssa eliminoidakseen heidän yhteisen vihollisensa, Italian mafian. Tarina epäpyhästä liitosta, joka riistäytyy täysin käsistä.</span></div>
 			</a><a href="/kanava/kutonen" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/kutonen.webp" media="(prefers-color-scheme: dark)">
 			<source srcset="/static/img/kanava/kutonen.webp" media="(prefers-color-scheme: light)">
@@ -1078,7 +895,7 @@
 				<time itemprop="endDate" content="2025-11-21T02:00:00+02:00" datetime="2025-11-21T02:00:00+02:00">02.00</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">TV5</span></span>
 			</span>
 		</a><h3><a itemprop="name" href="/frantic/2025112023205" class="op" data-pid="2025112023205">Frantic</a> <a href="https://www.imdb.com/title/tt0095174/" target="_blank" class="program-imdb-link">IMDb 6.8</a></h3><a href="/frantic/2025112023205" class="op" data-pid="2025112023205">
-				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Kirurgi Richard Walker osallistuu konferenssiin romanttisessa Ranskan pääkaupungissa ja viettää vaimonsa Sondran kanssa pari päivää hyvässä hotellissa. Kun Walker on kylvyssä, hänen vaimonsa katoaa yhtäkkiä. Walker tajuaa, että jokin on vialla ja huomaa joutuneensa osaksi juonittelun, vakoilun, gangsterien, huumeiden ja murhien maailmaan.</span></div>
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Kirurgi Richard Walker osallistuu konferenssiin romanttisessa Ranskan pääkaupungissa ja viettää vaimonsa Sondran kanssa pari päivää hyvässä hotellissa.</span></div>
 			</a><a href="/kanava/tv5" class="channel-logo program-channel-logo"><picture>
 			<source srcset="/static/img/kanava-darktheme/tv5.webp" media="(prefers-color-scheme: dark)">
 			<source srcset="/static/img/kanava/tv5.webp" media="(prefers-color-scheme: light)">
@@ -1103,6 +920,195 @@
 			<source srcset="/static/img/kanava-darktheme/kutonen.webp" media="(prefers-color-scheme: dark)">
 			<source srcset="/static/img/kanava/kutonen.webp" media="(prefers-color-scheme: light)">
 			<img src="/static/img/kanava/kutonen.png" alt="Kutonen">
+			</picture></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Truth IMDb 6.8]]></title>
+        <id>https://www.iltapulu.fi/truth/202511210030106</id>
+        <link href="https://www.iltapulu.fi/truth/202511210030106"/>
+        <updated>2025-11-18T05:44:55.157Z</updated>
+        <content type="html"><![CDATA[<div class="program-image"><a href="/truth/202511210030106" class="op" data-pid="202511210030106">
+				<img src="https://www.iltapulu.fi/data/images/truth-600.webp" alt="Truth" loading="lazy">
+			</a></div><div class="program-content"><a href="/truth/202511210030106" class="op" data-pid="202511210030106">
+			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
+				<time itemprop="startDate" content="2025-11-21T00:30:00+02:00" datetime="2025-11-21T00:30:00+02:00">00.30</time> - 
+				<time itemprop="endDate" content="2025-11-21T02:34:00+02:00" datetime="2025-11-21T02:34:00+02:00">02.34</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Eveo</span></span>
+			</span>
+		</a><h3><a itemprop="name" href="/truth/202511210030106" class="op" data-pid="202511210030106">Truth</a> <a href="https://www.imdb.com/title/tt3859076/" target="_blank" class="program-imdb-link">IMDb 6.8</a></h3><a href="/truth/202511210030106" class="op" data-pid="202511210030106">
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">TV-uutistoimituksen kulisseihin sijoittuva draama poliittisesta skandaalista, joka syntyy kun C.B.S. News julkaisee arkaluontoisia tietoja presidentti George W. Bushista uutisankkuri Dan Ratherin (Robert Redford) johdolla. </span></div>
+			</a><a href="/kanava/eveo" class="channel-logo program-channel-logo"><picture>
+			<source srcset="/static/img/kanava-darktheme/eveo.webp" media="(prefers-color-scheme: dark)">
+			<source srcset="/static/img/kanava/eveo.webp" media="(prefers-color-scheme: light)">
+			<img src="/static/img/kanava/eveo.png" alt="Eveo">
+			</picture></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hanukkah on Rye IMDb 7.3]]></title>
+        <id>https://www.iltapulu.fi/hanukkah-on-rye/20251121085574</id>
+        <link href="https://www.iltapulu.fi/hanukkah-on-rye/20251121085574"/>
+        <updated>2025-11-18T05:44:55.159Z</updated>
+        <content type="html"><![CDATA[<div class="program-image"><a href="/hanukkah-on-rye/20251121085574" class="op" data-pid="20251121085574">
+				<img src="https://www.iltapulu.fi/data/iltapulu/images/ve0024xebz.webp" alt="Hanukkah on Rye" loading="lazy">
+			</a></div><div class="program-content"><a href="/hanukkah-on-rye/20251121085574" class="op" data-pid="20251121085574">
+			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
+				<time itemprop="startDate" content="2025-11-21T08:55:00+02:00" datetime="2025-11-21T08:55:00+02:00">08.55</time> - 
+				<time itemprop="endDate" content="2025-11-21T10:55:00+02:00" datetime="2025-11-21T10:55:00+02:00">10.55</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Frii</span></span>
+			</span>
+		</a><h3><a itemprop="name" href="/hanukkah-on-rye/20251121085574" class="op" data-pid="20251121085574">Hanukkah on Rye</a> <a href="https://www.imdb.com/title/tt22307422/" target="_blank" class="program-imdb-link">IMDb 7.3</a></h3><a href="/hanukkah-on-rye/20251121085574" class="op" data-pid="20251121085574">
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Mollyn ja Jacobin tuore romanssinsa joutuu koetukselle, kun he huomaavat olevansa kilpailevia kauppojen omistajia.</span></div>
+			</a><a href="/kanava/frii" class="channel-logo program-channel-logo"><picture>
+			<source srcset="/static/img/kanava-darktheme/frii.webp" media="(prefers-color-scheme: dark)">
+			<source srcset="/static/img/kanava/frii.webp" media="(prefers-color-scheme: light)">
+			<img src="/static/img/kanava/frii.png" alt="Frii">
+			</picture></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christmas Bedtime Stories IMDb 5.1]]></title>
+        <id>https://www.iltapulu.fi/christmas-bedtime-stories/20251121105574</id>
+        <link href="https://www.iltapulu.fi/christmas-bedtime-stories/20251121105574"/>
+        <updated>2025-11-18T05:44:55.161Z</updated>
+        <content type="html"><![CDATA[<div class="program-image"><a href="/christmas-bedtime-stories/20251121105574" class="op" data-pid="20251121105574">
+				<div class="program-image-placeholder" style="background-color: #2CACB140;">
+
+					<img src="/static/img/kanava-darktheme/frii.webp" alt="Frii" class="channel-logo-placeholder">
+			</div>
+			</a></div><div class="program-content"><a href="/christmas-bedtime-stories/20251121105574" class="op" data-pid="20251121105574">
+			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
+				<time itemprop="startDate" content="2025-11-21T10:55:00+02:00" datetime="2025-11-21T10:55:00+02:00">10.55</time> - 
+				<time itemprop="endDate" content="2025-11-21T12:55:00+02:00" datetime="2025-11-21T12:55:00+02:00">12.55</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Frii</span></span>
+			</span>
+		</a><h3><a itemprop="name" href="/christmas-bedtime-stories/20251121105574" class="op" data-pid="20251121105574">Christmas Bedtime Stories</a> <a href="https://www.imdb.com/title/tt22258178/" target="_blank" class="program-imdb-link">IMDb 5.1</a></h3><a href="/christmas-bedtime-stories/20251121105574" class="op" data-pid="20251121105574">
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Danielle jää yksin kasvattamaan tytärtään sen jälkeen, kun hänen miehensä katoaa ja hänet oletetaan kuolleeksi. Danielle alkaa kertoa tyttärelleen isästään iltasatuina.</span></div>
+			</a><a href="/kanava/frii" class="channel-logo program-channel-logo"><picture>
+			<source srcset="/static/img/kanava-darktheme/frii.webp" media="(prefers-color-scheme: dark)">
+			<source srcset="/static/img/kanava/frii.webp" media="(prefers-color-scheme: light)">
+			<img src="/static/img/kanava/frii.png" alt="Frii">
+			</picture></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hilman päivät IMDb 7.2]]></title>
+        <id>https://www.iltapulu.fi/hilman-paivat</id>
+        <link href="https://www.iltapulu.fi/hilman-paivat"/>
+        <updated>2025-11-18T05:44:55.163Z</updated>
+        <content type="html"><![CDATA[<div class="program-image"><a href="/hilman-paivat" class="op" data-pid="2025112113221">
+				<div class="program-image-placeholder" style="background-color: #0098E191;">
+
+					<img src="/static/img/kanava-darktheme/yle_tv1.webp" alt="Yle TV1" class="channel-logo-placeholder">
+			</div>
+			</a></div><div class="program-content"><a href="/hilman-paivat" class="op" data-pid="2025112113221">
+			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
+				<time itemprop="startDate" content="2025-11-21T13:22:22+02:00" datetime="2025-11-21T13:22:22+02:00">13.22</time> - 
+				<time itemprop="endDate" content="2025-11-21T14:37:00+02:00" datetime="2025-11-21T14:37:00+02:00">14.37</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Yle TV1</span></span>
+			</span>
+		</a><h3><a itemprop="name" href="/hilman-paivat" class="op" data-pid="2025112113221">Hilman päivät</a> <a href="https://www.imdb.com/title/tt0047089/" target="_blank" class="program-imdb-link">IMDb 7.2</a></h3><a href="/hilman-paivat" class="op" data-pid="2025112113221">
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Agapetuksen romaaniin perustuva komediaklassikko. O: Matti Kassila. N: Tauno Palo, Aino Mantsas, Edvin Laine, Matti Ranin, Tarmo Manni, Pentti Irjala, Oke Tuuri. (1954) (Mv) (U)</span></div>
+			</a><a href="/kanava/yle-tv1" class="channel-logo program-channel-logo"><picture>
+			<source srcset="/static/img/kanava-darktheme/yle_tv1.webp" media="(prefers-color-scheme: dark)">
+			<source srcset="/static/img/kanava/yle_tv1.webp" media="(prefers-color-scheme: light)">
+			<img src="/static/img/kanava/yle_tv1.png" alt="Yle TV1">
+			</picture></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Very Merry Bridesmaid IMDb 6.6]]></title>
+        <id>https://www.iltapulu.fi/a-very-merry-bridesmaid</id>
+        <link href="https://www.iltapulu.fi/a-very-merry-bridesmaid"/>
+        <updated>2025-11-18T05:44:55.165Z</updated>
+        <content type="html"><![CDATA[<div class="program-image"><a href="/a-very-merry-bridesmaid" class="op" data-pid="2025112114005">
+				<img src="https://www.iltapulu.fi/data/iltapulu/images/ve0024uklj.webp" alt="A Very Merry Bridesmaid" loading="lazy">
+			</a></div><div class="program-content"><a href="/a-very-merry-bridesmaid" class="op" data-pid="2025112114005">
+			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
+				<time itemprop="startDate" content="2025-11-21T14:00:00+02:00" datetime="2025-11-21T14:00:00+02:00">14.00</time> - 
+				<time itemprop="endDate" content="2025-11-21T16:00:00+02:00" datetime="2025-11-21T16:00:00+02:00">16.00</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">TV5</span></span>
+			</span>
+		</a><h3><a itemprop="name" href="/a-very-merry-bridesmaid" class="op" data-pid="2025112114005">A Very Merry Bridesmaid</a> <a href="https://www.imdb.com/title/tt15403980/" target="_blank" class="program-imdb-link">IMDb 6.6</a></h3><a href="/a-very-merry-bridesmaid" class="op" data-pid="2025112114005">
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Leahin 30-vuotissyntymäpäivä on jouluaattona eli samana päivänä jolloin hänen veljensä menee naimisiin. Ja ihastus lapsuuden ajoilta palaa kaupunkiin.</span></div>
+			</a><a href="/kanava/tv5" class="channel-logo program-channel-logo"><picture>
+			<source srcset="/static/img/kanava-darktheme/tv5.webp" media="(prefers-color-scheme: dark)">
+			<source srcset="/static/img/kanava/tv5.webp" media="(prefers-color-scheme: light)">
+			<img src="/static/img/kanava/tv5.png" alt="TV5">
+			</picture></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet Me at Christmas IMDb 6.4]]></title>
+        <id>https://www.iltapulu.fi/meet-me-at-christmas</id>
+        <link href="https://www.iltapulu.fi/meet-me-at-christmas"/>
+        <updated>2025-11-18T05:44:55.166Z</updated>
+        <content type="html"><![CDATA[<div class="program-image"><a href="/meet-me-at-christmas" class="op" data-pid="20251121164074">
+				<img src="https://www.iltapulu.fi/data/iltapulu/images/ve00252qdt.webp" alt="Meet Me at Christmas" loading="lazy">
+			</a></div><div class="program-content"><a href="/meet-me-at-christmas" class="op" data-pid="20251121164074">
+			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
+				<time itemprop="startDate" content="2025-11-21T16:40:00+02:00" datetime="2025-11-21T16:40:00+02:00">16.40</time> - 
+				<time itemprop="endDate" content="2025-11-21T18:20:00+02:00" datetime="2025-11-21T18:20:00+02:00">18.20</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Frii</span></span>
+			</span>
+		</a><h3><a itemprop="name" href="/meet-me-at-christmas" class="op" data-pid="20251121164074">Meet Me at Christmas</a> <a href="https://www.imdb.com/title/tt13243610/" target="_blank" class="program-imdb-link">IMDb 6.4</a></h3><a href="/meet-me-at-christmas" class="op" data-pid="20251121164074">
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Joanin on järjestettävä poikansa jouluaaton häät yhdessä morsiamen enon, Beaun, avulla. He huomaavat, että heidän kohtalonsa ja menneisyytensä ovat kietoutuneet yhteen.</span></div>
+			</a><a href="/kanava/frii" class="channel-logo program-channel-logo"><picture>
+			<source srcset="/static/img/kanava-darktheme/frii.webp" media="(prefers-color-scheme: dark)">
+			<source srcset="/static/img/kanava/frii.webp" media="(prefers-color-scheme: light)">
+			<img src="/static/img/kanava/frii.png" alt="Frii">
+			</picture></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mingle All the Way IMDb 6.8]]></title>
+        <id>https://www.iltapulu.fi/mingle-all-the-way</id>
+        <link href="https://www.iltapulu.fi/mingle-all-the-way"/>
+        <updated>2025-11-18T05:44:55.167Z</updated>
+        <content type="html"><![CDATA[<div class="program-image"><a href="/mingle-all-the-way" class="op" data-pid="20251121182074">
+				<div class="program-image-placeholder" style="background-color: #2CACB140;">
+
+					<img src="/static/img/kanava-darktheme/frii.webp" alt="Frii" class="channel-logo-placeholder">
+			</div>
+			</a></div><div class="program-content"><a href="/mingle-all-the-way" class="op" data-pid="20251121182074">
+			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
+				<time itemprop="startDate" content="2025-11-21T18:20:00+02:00" datetime="2025-11-21T18:20:00+02:00">18.20</time> - 
+				<time itemprop="endDate" content="2025-11-21T20:00:00+02:00" datetime="2025-11-21T20:00:00+02:00">20.00</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">Frii</span></span>
+			</span>
+		</a><h3><a itemprop="name" href="/mingle-all-the-way" class="op" data-pid="20251121182074">Mingle All the Way</a> <a href="https://www.imdb.com/title/tt9033628/" target="_blank" class="program-imdb-link">IMDb 6.8</a></h3><a href="/mingle-all-the-way" class="op" data-pid="20251121182074">
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Molly perustaa deittisovelluksen kiireisille ihmisille. Eräs sijoittaja haluaa Mollyn testaavan sovellusta, mikä pakottaa hänet liittymään siihen itse.</span></div>
+			</a><a href="/kanava/frii" class="channel-logo program-channel-logo"><picture>
+			<source srcset="/static/img/kanava-darktheme/frii.webp" media="(prefers-color-scheme: dark)">
+			<source srcset="/static/img/kanava/frii.webp" media="(prefers-color-scheme: light)">
+			<img src="/static/img/kanava/frii.png" alt="Frii">
+			</picture></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rush Hour 2 IMDb 6.7]]></title>
+        <id>https://www.iltapulu.fi/rush-hour-2</id>
+        <link href="https://www.iltapulu.fi/rush-hour-2"/>
+        <updated>2025-11-15T17:39:55.702Z</updated>
+        <content type="html"><![CDATA[<div class="program-image"><a href="/rush-hour-2" class="op" data-pid="2025112119055">
+				<img src="https://www.iltapulu.fi/data/images/rush-hour-2-600.webp" alt="Rush Hour 2" loading="lazy">
+			</a></div><div class="program-content"><a href="/rush-hour-2" class="op" data-pid="2025112119055">
+			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
+				<time itemprop="startDate" content="2025-11-21T19:05:00+02:00" datetime="2025-11-21T19:05:00+02:00">19.05</time> - 
+				<time itemprop="endDate" content="2025-11-21T21:00:00+02:00" datetime="2025-11-21T21:00:00+02:00">21.00</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">TV5</span></span>
+			</span>
+		</a><h3><a itemprop="name" href="/rush-hour-2" class="op" data-pid="2025112119055">Rush Hour 2</a> <a href="https://www.imdb.com/title/tt0266915/" target="_blank" class="program-imdb-link">IMDb 6.7</a></h3><a href="/rush-hour-2" class="op" data-pid="2025112119055">
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">Kyttäkaksikon lomanvietto Hong Kongissa keskeytyy, kun Amerikan suurlähetystössä räjähtää pommi.</span></div>
+			</a><a href="/kanava/tv5" class="channel-logo program-channel-logo"><picture>
+			<source srcset="/static/img/kanava-darktheme/tv5.webp" media="(prefers-color-scheme: dark)">
+			<source srcset="/static/img/kanava/tv5.webp" media="(prefers-color-scheme: light)">
+			<img src="/static/img/kanava/tv5.png" alt="TV5">
+			</picture></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ei mitään menetettävää IMDb 6,7]]></title>
+        <id>https://www.iltapulu.fi/ei-mitaan-menetettavaa</id>
+        <link href="https://www.iltapulu.fi/ei-mitaan-menetettavaa"/>
+        <updated>2025-11-18T05:44:55.171Z</updated>
+        <content type="html"><![CDATA[<div class="program-image"><a href="/ei-mitaan-menetettavaa" class="op" data-pid="20251121200010">
+				<img src="https://www.iltapulu.fi/data/images/ei-mitaan-menetettavaa-600.webp" alt="Ei mitään menetettävää" loading="lazy">
+			</a></div><div class="program-content"><a href="/ei-mitaan-menetettavaa" class="op" data-pid="20251121200010">
+			<span class="time" itemprop="publication" itemscope="" itemtype="https://schema.org/BroadcastEvent">
+				<time itemprop="startDate" content="2025-11-21T20:00:00+02:00" datetime="2025-11-21T20:00:00+02:00">20.00</time> - 
+				<time itemprop="endDate" content="2025-11-21T22:00:00+02:00" datetime="2025-11-21T22:00:00+02:00">22.00</time>&nbsp; <span itemprop="publishedOn" itemscope="" itemtype="https://schema.org/BroadcastService"><span itemprop="name">MTV Ava</span></span>
+			</span>
+		</a><h3><a itemprop="name" href="/ei-mitaan-menetettavaa" class="op" data-pid="20251121200010">Ei mitään menetettävää</a> <a href="https://www.imdb.com/title/tt0119807/" target="_blank" class="program-imdb-link">IMDb 6,7</a></h3><a href="/ei-mitaan-menetettavaa" class="op" data-pid="20251121200010">
+				<div class="program-description"><span class="season-episode"></span><span itemprop="description">(Nothing to Lose,, USA 1997) Petetty aviomies ja pikkurikollinen suunnittelevat ryöstön, jolla tienaisi hyvät rahat koston ohessa. Toimintakomedia.</span></div>
+			</a><a href="/kanava/ava" class="channel-logo program-channel-logo"><picture>
+			<source srcset="/static/img/kanava-darktheme/ava.webp" media="(prefers-color-scheme: dark)">
+			<source srcset="/static/img/kanava/ava.webp" media="(prefers-color-scheme: light)">
+			<img src="/static/img/kanava/ava.png" alt="MTV Ava">
 			</picture></a></div>]]></content>
     </entry>
 </feed>
